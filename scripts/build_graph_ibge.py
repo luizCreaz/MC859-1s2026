@@ -19,6 +19,7 @@ import geopandas as gpd
 import networkx as nx
 import matplotlib.pyplot as plt
 
+from calculate_femicide_rate import get_femicide_rate_by_city_code
 
 # ---------------------------------------------------------------------------
 # 1. Download e leitura da malha municipal do IBGE
@@ -29,19 +30,19 @@ IBGE_URL = (
     "malhas_territoriais/malhas_municipais/municipio_2022/"
     "UFs/MG/MG_Municipios_2022.zip"
 )
-DATA_DIR = Path("data")
-SHAPEFILE_PATH = DATA_DIR / "MG_Municipios_2022.shp"
+DATA_RAW_DIR = Path("data/raw")
+SHAPEFILE_PATH = DATA_RAW_DIR / "MG_Municipios_2022.shp"
 
 
 def baixar_malha_ibge() -> gpd.GeoDataFrame:
     """Baixa (se necessário) e carrega a malha municipal de MG do IBGE."""
     if not SHAPEFILE_PATH.exists():
         print("Baixando malha municipal do IBGE (~30 MB)...")
-        DATA_DIR.mkdir(exist_ok=True)
+        DATA_RAW_DIR.mkdir(exist_ok=True)
         with urllib.request.urlopen(IBGE_URL) as response:
             zip_bytes = response.read()
         with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
-            zf.extractall(DATA_DIR)
+            zf.extractall(DATA_RAW_DIR)
         print("Download concluído.")
     else:
         print("Malha já disponível localmente.")
@@ -82,6 +83,7 @@ def construir_grafo(gdf: gpd.GeoDataFrame) -> nx.Graph:
             geocodigo=row["CD_MUN"],
             lat=round(centroide.y, 6),
             lon=round(centroide.x, 6),
+            taxa_feminicidio_norm=get_femicide_rate_by_city_code(row["CD_MUN"]),
         )
 
     # Adiciona arestas entre municípios vizinhos
@@ -187,8 +189,8 @@ def visualizar_grafo(G: nx.Graph, gdf: gpd.GeoDataFrame, caminho: list[str] = No
     ax.set_title("Grafo de Adjacência — Municípios de Minas Gerais (IBGE 2022)", fontsize=14)
     ax.axis("off")
     plt.tight_layout()
-    plt.savefig("grafo_mg.png", dpi=150, bbox_inches="tight")
-    print("\nMapa salvo em grafo_mg.png")
+    plt.savefig("data/graphs/grafo_mg.png", dpi=150, bbox_inches="tight")
+    print("\nMapa salvo em data/graphs/grafo_mg.png")
     plt.show()
 
 
@@ -203,8 +205,8 @@ def exportar_grafo(G: nx.Graph, prefixo: str = "grafo_mg_adjacencia"):
     Atributos exportados por nó  : geocodigo, lat, lon (WGS84)
     Atributos exportados por aresta: weight (km)
     """
-    graphml_path = f"{prefixo}.graphml"
-    gexf_path = f"{prefixo}.gexf"
+    graphml_path = f"data/graphs/{prefixo}.graphml"
+    gexf_path = f"data/graphs/{prefixo}.gexf"
 
     nx.write_graphml(G, graphml_path)
     print(f"Grafo exportado: {graphml_path}")

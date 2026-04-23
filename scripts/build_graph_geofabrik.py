@@ -26,6 +26,8 @@ import matplotlib.pyplot as plt
 import networkx as nx
 import pandas as pd
 
+from calculate_femicide_rate import get_femicide_rate_by_city_code
+
 # ---------------------------------------------------------------------------
 # Configurações
 # ---------------------------------------------------------------------------
@@ -41,9 +43,9 @@ GEOFABRIK_URL = (
     "sudeste-latest-free.shp.zip"
 )
 
-DATA_DIR = Path("data")
-IBGE_SHP = DATA_DIR / "MG_Municipios_2022.shp"
-ROADS_SHP = DATA_DIR / "gis_osm_roads_free_1.shp"
+DATA_RAW_DIR = Path("data/raw")
+IBGE_SHP = DATA_RAW_DIR / "MG_Municipios_2022.shp"
+ROADS_SHP = DATA_RAW_DIR / "gis_osm_roads_free_1.shp"
 
 # Tipos de via relevantes para ligações intermunicipais
 # Excluímos residential, service, track, path etc. (vias urbanas/rurais menores)
@@ -64,11 +66,11 @@ def baixar_ibge() -> gpd.GeoDataFrame:
     """Baixa (se necessário) e carrega a malha municipal de MG do IBGE."""
     if not IBGE_SHP.exists():
         print("Baixando malha municipal do IBGE (~30 MB)...")
-        DATA_DIR.mkdir(exist_ok=True)
+        DATA_RAW_DIR.mkdir(exist_ok=True)
         with urllib.request.urlopen(IBGE_URL) as resp:
             dados = resp.read()
         with zipfile.ZipFile(io.BytesIO(dados)) as zf:
-            zf.extractall(DATA_DIR)
+            zf.extractall(DATA_RAW_DIR)
         print("IBGE: download concluído.")
     else:
         print("IBGE: malha já disponível localmente.")
@@ -86,7 +88,7 @@ def baixar_rodovias_geofabrik() -> gpd.GeoDataFrame:
     """
     if not ROADS_SHP.exists():
         print("Baixando rodovias do GEOFABRIK (~2 GB) — pode demorar alguns minutos...")
-        DATA_DIR.mkdir(exist_ok=True)
+        DATA_RAW_DIR.mkdir(exist_ok=True)
         with urllib.request.urlopen(GEOFABRIK_URL) as resp:
             dados = resp.read()
         with zipfile.ZipFile(io.BytesIO(dados)) as zf:
@@ -95,7 +97,7 @@ def baixar_rodovias_geofabrik() -> gpd.GeoDataFrame:
                 m for m in zf.namelist()
                 if "gis_osm_roads_free_1" in m
             ]
-            zf.extractall(DATA_DIR, members=membros_roads)
+            zf.extractall(DATA_RAW_DIR, members=membros_roads)
         print("GEOFABRIK: download concluído.")
     else:
         print("GEOFABRIK: rodovias já disponíveis localmente.")
@@ -160,11 +162,15 @@ def construir_grafo(
     # Adiciona todos os vértices com atributos
     for _, row in gdf_wgs.iterrows():
         centroide = row.geometry.centroid
+        print(row["CD_MUN"])
+        print(get_femicide_rate_by_city_code(row["CD_MUN"]))
+        print("--------------------------------")
         G.add_node(
             row["NM_MUN"],
             geocodigo=row["CD_MUN"],
             lat=round(centroide.y, 6),
             lon=round(centroide.x, 6),
+            taxa_feminicidio_norm=get_femicide_rate_by_city_code(row["CD_MUN"]),
         )
 
     # Índice espacial dos municípios para acelerar as buscas. 
@@ -296,7 +302,7 @@ def visualizar_grafo(
     G: nx.Graph,
     gdf: gpd.GeoDataFrame,
     caminho: list[str] | None = None,
-    saida: str = "grafo_mg_rodoviario.png",
+    saida: str = "data/graphs/grafo_mg_rodoviario.png",
 ):
     """
     Plota o mapa de MG com as arestas de conexão rodoviária.
@@ -356,8 +362,8 @@ def exportar_grafo(G: nx.Graph, prefixo: str = "grafo_mg_rodoviario"):
     Atributos exportados por nó : geocodigo, lat, lon (WGS84)
     Atributos exportados por aresta: weight (km), rodovias (string)
     """
-    graphml_path = f"{prefixo}.graphml"
-    gexf_path = f"{prefixo}.gexf"
+    graphml_path = f"data/graphs/{prefixo}.graphml"
+    gexf_path = f"data/graphs/{prefixo}.gexf"
 
     nx.write_graphml(G, graphml_path)
     print(f"Grafo exportado: {graphml_path}")
