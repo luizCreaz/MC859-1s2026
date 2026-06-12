@@ -10,10 +10,13 @@ Fonte dos dados:
             malhas_municipais/municipio_2022/Estados/MG/MG_Municipios_2022.zip
 """
 
-import zipfile
 import io
+import sys
 import urllib.request
+import zipfile
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import geopandas as gpd
 import networkx as nx
@@ -30,19 +33,21 @@ IBGE_URL = (
     "malhas_territoriais/malhas_municipais/municipio_2022/"
     "UFs/MG/MG_Municipios_2022.zip"
 )
-DATA_RAW_DIR = Path("data/raw")
-SHAPEFILE_PATH = DATA_RAW_DIR / "MG_Municipios_2022.shp"
+ROOT = Path(__file__).resolve().parent.parent.parent
+DATA_BRONZE_DIR = ROOT / "data" / "bronze" / "ibge" / "malha-municipal"
+GOLD_DIR = ROOT / "data" / "gold"
+SHAPEFILE_PATH = DATA_BRONZE_DIR / "MG_Municipios_2022.shp"
 
 
 def baixar_malha_ibge() -> gpd.GeoDataFrame:
     """Baixa (se necessário) e carrega a malha municipal de MG do IBGE."""
     if not SHAPEFILE_PATH.exists():
         print("Baixando malha municipal do IBGE (~30 MB)...")
-        DATA_RAW_DIR.mkdir(exist_ok=True)
+        DATA_BRONZE_DIR.mkdir(parents=True, exist_ok=True)
         with urllib.request.urlopen(IBGE_URL) as response:
             zip_bytes = response.read()
         with zipfile.ZipFile(io.BytesIO(zip_bytes)) as zf:
-            zf.extractall(DATA_RAW_DIR)
+            zf.extractall(DATA_BRONZE_DIR)
         print("Download concluído.")
     else:
         print("Malha já disponível localmente.")
@@ -72,7 +77,7 @@ def construir_grafo(gdf: gpd.GeoDataFrame) -> nx.Graph:
     G = nx.Graph()
 
     # Reprojecta para WGS84 para que lat/lon nos nós sejam graus decimais,
-    # compatíveis com GraphML/GEXF e ferramentas como Gephi.
+    # compatíveis com GraphML e ferramentas como Gephi.
     gdf_wgs = gdf.to_crs(epsg=4326)
 
     # Adiciona todos os vértices com atributos
@@ -189,8 +194,10 @@ def visualizar_grafo(G: nx.Graph, gdf: gpd.GeoDataFrame, caminho: list[str] = No
     ax.set_title("Grafo de Adjacência — Municípios de Minas Gerais (IBGE 2022)", fontsize=14)
     ax.axis("off")
     plt.tight_layout()
-    plt.savefig("data/graphs/grafo_mg.png", dpi=150, bbox_inches="tight")
-    print("\nMapa salvo em data/graphs/grafo_mg.png")
+    output_path = GOLD_DIR / "graph_mg_physical_boundaries.png"
+    GOLD_DIR.mkdir(parents=True, exist_ok=True)
+    plt.savefig(output_path, dpi=150, bbox_inches="tight")
+    print(f"\nMapa salvo em {output_path}")
     plt.show()
 
 
@@ -198,21 +205,19 @@ def visualizar_grafo(G: nx.Graph, gdf: gpd.GeoDataFrame, caminho: list[str] = No
 # 5. Exportação
 # ---------------------------------------------------------------------------
 
-def exportar_grafo(G: nx.Graph, prefixo: str = "grafo_mg_adjacencia"):
+def exportar_grafo(G: nx.Graph, output_name: str = "graph_mg_physical_boundaries"):
     """
-    Exporta o grafo nos formatos GraphML e GEXF.
+    Exporta o grafo no formato GraphML
 
     Atributos exportados por nó  : geocodigo, lat, lon (WGS84)
     Atributos exportados por aresta: weight (km)
     """
-    graphml_path = f"data/graphs/{prefixo}.graphml"
-    gexf_path = f"data/graphs/{prefixo}.gexf"
+    GOLD_DIR.mkdir(parents=True, exist_ok=True)
+    graphml_path = GOLD_DIR / f"{output_name}.graphml"
 
     nx.write_graphml(G, graphml_path)
-    print(f"Grafo exportado: {graphml_path}")
 
-    nx.write_gexf(G, gexf_path)
-    print(f"Grafo exportado: {gexf_path}")
+    print(f"Grafo exportado: {graphml_path}")
 
 
 # ---------------------------------------------------------------------------
@@ -226,7 +231,7 @@ if __name__ == "__main__":
     # Constrói o grafo
     G = construir_grafo(gdf)
 
-    # Exporta nos formatos GraphML e GEXF
+    # Exporta no formato GraphML
     exportar_grafo(G)
 
     # Exibe estatísticas

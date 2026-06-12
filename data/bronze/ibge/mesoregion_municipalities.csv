@@ -1,0 +1,854 @@
+municipality,mesoregion_slug,mesoregion_label
+Abadia dos Dourados,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Abaeté,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Abre Campo,zona_da_mata,Zona da Mata
+Acaiaca,campo_das_vertentes,Campo das Vertentes
+Aguanil,oeste_de_minas,Oeste de Minas
+Aimorés,vale_do_rio_doce,Vale do Rio Doce
+Aiuruoca,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Alagoa,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Albertina,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Alfenas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Alfredo Vasconcelos,campo_das_vertentes,Campo das Vertentes
+Almenara,jequitinhonha,Jequitinhonha
+Alpercata,vale_do_rio_doce,Vale do Rio Doce
+Alpinópolis,oeste_de_minas,Oeste de Minas
+Alterosa,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Alto Caparaó,zona_da_mata,Zona da Mata
+Alto Jequitibá,zona_da_mata,Zona da Mata
+Alto Rio Doce,zona_da_mata,Zona da Mata
+Alvarenga,vale_do_rio_doce,Vale do Rio Doce
+Alvinópolis,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Alvorada de Minas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Além Paraíba,zona_da_mata,Zona da Mata
+Amparo do Serra,zona_da_mata,Zona da Mata
+Andradas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Andrelândia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Angelândia,norte_de_minas,Norte de Minas
+Antônio Carlos,campo_das_vertentes,Campo das Vertentes
+Antônio Dias,vale_do_rio_doce,Vale do Rio Doce
+Antônio Prado de Minas,zona_da_mata,Zona da Mata
+Aracitaba,zona_da_mata,Zona da Mata
+Araguari,vale_do_mucuri,Vale do Mucuri
+Arantina,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Araponga,zona_da_mata,Zona da Mata
+Araporã,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Arapuá,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Araxá,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Araçaí,central_mineira,Central Mineira
+Araçuaí,jequitinhonha,Jequitinhonha
+Araújos,central_mineira,Central Mineira
+Arceburgo,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Arcos,oeste_de_minas,Oeste de Minas
+Areado,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Argirita,zona_da_mata,Zona da Mata
+Aricanduva,norte_de_minas,Norte de Minas
+Arinos,noroeste_de_minas,Noroeste de Minas
+Astolfo Dutra,zona_da_mata,Zona da Mata
+Ataléia,jequitinhonha,Jequitinhonha
+Augusto de Lima,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Açucena,vale_do_rio_doce,Vale do Rio Doce
+Baependi,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Baldim,central_mineira,Central Mineira
+Bambuí,vale_do_rio_doce,Vale do Rio Doce
+Bandeira,jequitinhonha,Jequitinhonha
+Bandeira do Sul,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Barbacena,campo_das_vertentes,Campo das Vertentes
+Barra Longa,campo_das_vertentes,Campo das Vertentes
+Barroso,campo_das_vertentes,Campo das Vertentes
+Barão de Cocais,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Barão de Monte Alto,zona_da_mata,Zona da Mata
+Bela Vista de Minas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Belmiro Braga,zona_da_mata,Zona da Mata
+Belo Horizonte,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Belo Oriente,vale_do_rio_doce,Vale do Rio Doce
+Belo Vale,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Berilo,norte_de_minas,Norte de Minas
+Berizal,norte_de_minas,Norte de Minas
+Bertópolis,vale_do_mucuri,Vale do Mucuri
+Betim,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Bias Fortes,zona_da_mata,Zona da Mata
+Bicas,zona_da_mata,Zona da Mata
+Biquinhas,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Boa Esperança,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Bocaina de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Bocaiúva,norte_de_minas,Norte de Minas
+Bom Despacho,central_mineira,Central Mineira
+Bom Jardim de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Bom Jesus da Penha,oeste_de_minas,Oeste de Minas
+Bom Jesus do Amparo,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Bom Jesus do Galho,vale_do_rio_doce,Vale do Rio Doce
+Bom Repouso,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Bom Sucesso,oeste_de_minas,Oeste de Minas
+Bonfim,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Bonfinópolis de Minas,noroeste_de_minas,Noroeste de Minas
+Bonito de Minas,noroeste_de_minas,Noroeste de Minas
+Borda da Mata,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Botelhos,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Botumirim,norte_de_minas,Norte de Minas
+Brasilândia de Minas,noroeste_de_minas,Noroeste de Minas
+Brasília de Minas,norte_de_minas,Norte de Minas
+Brazópolis,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Braúnas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Brumadinho,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Brás Pires,zona_da_mata,Zona da Mata
+Bueno Brandão,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Buenópolis,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Bugre,vale_do_rio_doce,Vale do Rio Doce
+Buritis,noroeste_de_minas,Noroeste de Minas
+Buritizeiro,norte_de_minas,Norte de Minas
+Cabeceira Grande,noroeste_de_minas,Noroeste de Minas
+Cabo Verde,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cachoeira Dourada,vale_do_mucuri,Vale do Mucuri
+Cachoeira da Prata,central_mineira,Central Mineira
+Cachoeira de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cachoeira de Pajeú,jequitinhonha,Jequitinhonha
+Caetanópolis,central_mineira,Central Mineira
+Caeté,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Caiana,zona_da_mata,Zona da Mata
+Cajuri,zona_da_mata,Zona da Mata
+Caldas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Camacho,oeste_de_minas,Oeste de Minas
+Camanducaia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cambuquira,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cambuí,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Campanha,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Campanário,vale_do_rio_doce,Vale do Rio Doce
+Campestre,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Campina Verde,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Campo Azul,norte_de_minas,Norte de Minas
+Campo Belo,oeste_de_minas,Oeste de Minas
+Campo Florido,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Campo do Meio,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Campos Altos,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Campos Gerais,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cana Verde,oeste_de_minas,Oeste de Minas
+Canaã,zona_da_mata,Zona da Mata
+Candeias,oeste_de_minas,Oeste de Minas
+Cantagalo,vale_do_rio_doce,Vale do Rio Doce
+Canápolis,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Caparaó,zona_da_mata,Zona da Mata
+Capela Nova,campo_das_vertentes,Campo das Vertentes
+Capelinha,norte_de_minas,Norte de Minas
+Capetinga,oeste_de_minas,Oeste de Minas
+Capim Branco,central_mineira,Central Mineira
+Capinópolis,vale_do_mucuri,Vale do Mucuri
+Capitão Andrade,vale_do_rio_doce,Vale do Rio Doce
+Capitão Enéas,norte_de_minas,Norte de Minas
+Capitólio,oeste_de_minas,Oeste de Minas
+Caputira,zona_da_mata,Zona da Mata
+Caranaíba,campo_das_vertentes,Campo das Vertentes
+Carandaí,campo_das_vertentes,Campo das Vertentes
+Carangola,zona_da_mata,Zona da Mata
+Caratinga,vale_do_rio_doce,Vale do Rio Doce
+Caraí,jequitinhonha,Jequitinhonha
+Carbonita,norte_de_minas,Norte de Minas
+Careaçu,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Carlos Chagas,vale_do_mucuri,Vale do Mucuri
+Carmo da Cachoeira,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Carmo da Mata,oeste_de_minas,Oeste de Minas
+Carmo de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Carmo do Cajuru,oeste_de_minas,Oeste de Minas
+Carmo do Paranaíba,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Carmo do Rio Claro,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Carmésia,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Carmópolis de Minas,oeste_de_minas,Oeste de Minas
+Carneirinho,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Carrancas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Carvalhos,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Carvalhópolis,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Casa Grande,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Cascalho Rico,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Cataguases,zona_da_mata,Zona da Mata
+Catas Altas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Catas Altas da Noruega,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Catuji,jequitinhonha,Jequitinhonha
+Catuti,norte_de_minas,Norte de Minas
+Caxambu,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cedro do Abaeté,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Central de Minas,vale_do_rio_doce,Vale do Rio Doce
+Centralina,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Chalé,zona_da_mata,Zona da Mata
+Chapada Gaúcha,noroeste_de_minas,Noroeste de Minas
+Chapada do Norte,norte_de_minas,Norte de Minas
+Chiador,zona_da_mata,Zona da Mata
+Chácara,zona_da_mata,Zona da Mata
+Cipotânea,zona_da_mata,Zona da Mata
+Claraval,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Claro dos Poções,norte_de_minas,Norte de Minas
+Cláudio,oeste_de_minas,Oeste de Minas
+Coimbra,zona_da_mata,Zona da Mata
+Coluna,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Comendador Gomes,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Comercinho,jequitinhonha,Jequitinhonha
+Conceição da Aparecida,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Conceição da Barra de Minas,campo_das_vertentes,Campo das Vertentes
+Conceição das Alagoas,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Conceição das Pedras,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Conceição de Ipanema,vale_do_rio_doce,Vale do Rio Doce
+Conceição do Mato Dentro,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Conceição do Pará,oeste_de_minas,Oeste de Minas
+Conceição do Rio Verde,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Conceição dos Ouros,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Confins,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Congonhal,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Congonhas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Congonhas do Norte,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Conquista,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Conselheiro Lafaiete,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Conselheiro Pena,vale_do_rio_doce,Vale do Rio Doce
+Consolação,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Contagem,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Coqueiral,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Coração de Jesus,norte_de_minas,Norte de Minas
+Cordisburgo,central_mineira,Central Mineira
+Cordislândia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Corinto,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Coroaci,vale_do_rio_doce,Vale do Rio Doce
+Coromandel,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Coronel Fabriciano,vale_do_rio_doce,Vale do Rio Doce
+Coronel Murta,jequitinhonha,Jequitinhonha
+Coronel Pacheco,zona_da_mata,Zona da Mata
+Coronel Xavier Chaves,campo_das_vertentes,Campo das Vertentes
+Couto de Magalhães de Minas,norte_de_minas,Norte de Minas
+Cristais,oeste_de_minas,Oeste de Minas
+Cristiano Otoni,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Cristina,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cristália,norte_de_minas,Norte de Minas
+Crisólita,vale_do_mucuri,Vale do Mucuri
+Crucilândia,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Cruzeiro da Fortaleza,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Cruzília,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cuparaque,vale_do_rio_doce,Vale do Rio Doce
+Curral de Dentro,norte_de_minas,Norte de Minas
+Curvelo,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Cássia,oeste_de_minas,Oeste de Minas
+Córrego Danta,vale_do_rio_doce,Vale do Rio Doce
+Córrego Fundo,oeste_de_minas,Oeste de Minas
+Córrego Novo,vale_do_rio_doce,Vale do Rio Doce
+Córrego do Bom Jesus,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Cônego Marinho,noroeste_de_minas,Noroeste de Minas
+Datas,norte_de_minas,Norte de Minas
+Delfim Moreira,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Delfinópolis,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Delta,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Descoberto,zona_da_mata,Zona da Mata
+Desterro de Entre Rios,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Desterro do Melo,campo_das_vertentes,Campo das Vertentes
+Diamantina,norte_de_minas,Norte de Minas
+Diogo de Vasconcelos,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Dionísio,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Divino,zona_da_mata,Zona da Mata
+Divino das Laranjeiras,vale_do_rio_doce,Vale do Rio Doce
+Divinolândia de Minas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Divinésia,zona_da_mata,Zona da Mata
+Divinópolis,oeste_de_minas,Oeste de Minas
+Divisa Alegre,norte_de_minas,Norte de Minas
+Divisa Nova,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Divisópolis,jequitinhonha,Jequitinhonha
+Dom Bosco,noroeste_de_minas,Noroeste de Minas
+Dom Cavati,vale_do_rio_doce,Vale do Rio Doce
+Dom Joaquim,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Dom Silvério,campo_das_vertentes,Campo das Vertentes
+Dom Viçoso,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Dona Euzébia,zona_da_mata,Zona da Mata
+Dores de Campos,campo_das_vertentes,Campo das Vertentes
+Dores de Guanhães,vale_do_rio_doce,Vale do Rio Doce
+Dores do Indaiá,central_mineira,Central Mineira
+Dores do Turvo,zona_da_mata,Zona da Mata
+Doresópolis,oeste_de_minas,Oeste de Minas
+Douradoquara,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Durandé,zona_da_mata,Zona da Mata
+Elói Mendes,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Engenheiro Caldas,vale_do_rio_doce,Vale do Rio Doce
+Engenheiro Navarro,norte_de_minas,Norte de Minas
+Entre Folhas,vale_do_rio_doce,Vale do Rio Doce
+Entre Rios de Minas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Ervália,zona_da_mata,Zona da Mata
+Esmeraldas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Espera Feliz,zona_da_mata,Zona da Mata
+Espinosa,norte_de_minas,Norte de Minas
+Espírito Santo do Dourado,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Estiva,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Estrela Dalva,zona_da_mata,Zona da Mata
+Estrela do Indaiá,central_mineira,Central Mineira
+Estrela do Sul,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Eugenópolis,zona_da_mata,Zona da Mata
+Ewbank da Câmara,zona_da_mata,Zona da Mata
+Extrema,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Fama,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Faria Lemos,zona_da_mata,Zona da Mata
+Felisburgo,jequitinhonha,Jequitinhonha
+Felixlândia,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Felício dos Santos,norte_de_minas,Norte de Minas
+Fernandes Tourinho,vale_do_rio_doce,Vale do Rio Doce
+Ferros,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Fervedouro,zona_da_mata,Zona da Mata
+Florestal,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Formiga,oeste_de_minas,Oeste de Minas
+Formoso,noroeste_de_minas,Noroeste de Minas
+Fortaleza de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Fortuna de Minas,central_mineira,Central Mineira
+Francisco Badaró,norte_de_minas,Norte de Minas
+Francisco Dumont,norte_de_minas,Norte de Minas
+Francisco Sá,norte_de_minas,Norte de Minas
+Franciscópolis,jequitinhonha,Jequitinhonha
+Frei Gaspar,jequitinhonha,Jequitinhonha
+Frei Inocêncio,vale_do_rio_doce,Vale do Rio Doce
+Frei Lagonegro,vale_do_rio_doce,Vale do Rio Doce
+Fronteira,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Fronteira dos Vales,vale_do_mucuri,Vale do Mucuri
+Fruta de Leite,norte_de_minas,Norte de Minas
+Frutal,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Funilândia,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Galiléia,vale_do_rio_doce,Vale do Rio Doce
+Gameleiras,norte_de_minas,Norte de Minas
+Glaucilândia,norte_de_minas,Norte de Minas
+Goiabeira,vale_do_rio_doce,Vale do Rio Doce
+Goianá,zona_da_mata,Zona da Mata
+Gonzaga,vale_do_rio_doce,Vale do Rio Doce
+Gonçalves,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Gouveia,norte_de_minas,Norte de Minas
+Governador Valadares,vale_do_rio_doce,Vale do Rio Doce
+Grupiara,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Grão Mogol,norte_de_minas,Norte de Minas
+Guanhães,vale_do_rio_doce,Vale do Rio Doce
+Guapé,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Guaraciaba,campo_das_vertentes,Campo das Vertentes
+Guaraciama,norte_de_minas,Norte de Minas
+Guarani,zona_da_mata,Zona da Mata
+Guaranésia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Guarará,zona_da_mata,Zona da Mata
+Guarda-Mor,noroeste_de_minas,Noroeste de Minas
+Guaxupé,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Guidoval,zona_da_mata,Zona da Mata
+Guimarânia,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Guiricema,zona_da_mata,Zona da Mata
+Gurinhatã,vale_do_mucuri,Vale do Mucuri
+Heliodora,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Iapu,vale_do_rio_doce,Vale do Rio Doce
+Ibertioga,campo_das_vertentes,Campo das Vertentes
+Ibiaí,norte_de_minas,Norte de Minas
+Ibiracatu,norte_de_minas,Norte de Minas
+Ibiraci,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Ibirité,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Ibitiúra de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Ibituruna,oeste_de_minas,Oeste de Minas
+Ibiá,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Icaraí de Minas,noroeste_de_minas,Noroeste de Minas
+Igarapé,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Igaratinga,oeste_de_minas,Oeste de Minas
+Iguatama,oeste_de_minas,Oeste de Minas
+Ijaci,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Ilicínea,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Imbé de Minas,vale_do_rio_doce,Vale do Rio Doce
+Inconfidentes,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Indaiabira,norte_de_minas,Norte de Minas
+Indianópolis,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Ingaí,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Inhapim,vale_do_rio_doce,Vale do Rio Doce
+Inhaúma,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Inimutaba,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Ipaba,vale_do_rio_doce,Vale do Rio Doce
+Ipanema,vale_do_rio_doce,Vale do Rio Doce
+Ipatinga,vale_do_rio_doce,Vale do Rio Doce
+Ipiaçu,vale_do_mucuri,Vale do Mucuri
+Ipuiúna,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Iraí de Minas,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Itabira,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Itabirinha,vale_do_rio_doce,Vale do Rio Doce
+Itabirito,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Itacambira,norte_de_minas,Norte de Minas
+Itacarambi,noroeste_de_minas,Noroeste de Minas
+Itaguara,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Itaipé,jequitinhonha,Jequitinhonha
+Itajubá,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Itamarandiba,norte_de_minas,Norte de Minas
+Itamarati de Minas,zona_da_mata,Zona da Mata
+Itambacuri,vale_do_rio_doce,Vale do Rio Doce
+Itambé do Mato Dentro,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Itamogi,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Itamonte,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Itanhandu,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Itanhomi,vale_do_rio_doce,Vale do Rio Doce
+Itaobim,jequitinhonha,Jequitinhonha
+Itapagipe,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Itapecerica,oeste_de_minas,Oeste de Minas
+Itapeva,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Itatiaiuçu,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Itaverava,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Itaú de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Itaúna,oeste_de_minas,Oeste de Minas
+Itinga,jequitinhonha,Jequitinhonha
+Itueta,vale_do_rio_doce,Vale do Rio Doce
+Ituiutaba,vale_do_mucuri,Vale do Mucuri
+Itumirim,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Iturama,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Itutinga,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Jaboticatubas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Jacinto,jequitinhonha,Jequitinhonha
+Jacutinga,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Jacuí,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Jaguaraçu,vale_do_rio_doce,Vale do Rio Doce
+Jampruca,vale_do_rio_doce,Vale do Rio Doce
+Janaúba,norte_de_minas,Norte de Minas
+Januária,noroeste_de_minas,Noroeste de Minas
+Japaraíba,central_mineira,Central Mineira
+Japonvar,norte_de_minas,Norte de Minas
+Jaíba,norte_de_minas,Norte de Minas
+Jeceaba,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Jenipapo de Minas,norte_de_minas,Norte de Minas
+Jequeri,campo_das_vertentes,Campo das Vertentes
+Jequitaí,norte_de_minas,Norte de Minas
+Jequitibá,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Jequitinhonha,jequitinhonha,Jequitinhonha
+Jesuânia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Joanésia,vale_do_rio_doce,Vale do Rio Doce
+Joaquim Felício,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Joaíma,jequitinhonha,Jequitinhonha
+Jordânia,jequitinhonha,Jequitinhonha
+Josenópolis,norte_de_minas,Norte de Minas
+José Gonçalves de Minas,norte_de_minas,Norte de Minas
+José Raydan,vale_do_rio_doce,Vale do Rio Doce
+João Monlevade,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+João Pinheiro,noroeste_de_minas,Noroeste de Minas
+Juatuba,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Juiz de Fora,zona_da_mata,Zona da Mata
+Juramento,norte_de_minas,Norte de Minas
+Juruaia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Juvenília,noroeste_de_minas,Noroeste de Minas
+Ladainha,jequitinhonha,Jequitinhonha
+Lagamar,noroeste_de_minas,Noroeste de Minas
+Lagoa Dourada,campo_das_vertentes,Campo das Vertentes
+Lagoa Formosa,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Lagoa Grande,noroeste_de_minas,Noroeste de Minas
+Lagoa Santa,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Lagoa da Prata,central_mineira,Central Mineira
+Lagoa dos Patos,norte_de_minas,Norte de Minas
+Lajinha,zona_da_mata,Zona da Mata
+Lambari,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Lamim,zona_da_mata,Zona da Mata
+Laranjal,zona_da_mata,Zona da Mata
+Lassance,norte_de_minas,Norte de Minas
+Lavras,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Leandro Ferreira,central_mineira,Central Mineira
+Leme do Prado,norte_de_minas,Norte de Minas
+Leopoldina,zona_da_mata,Zona da Mata
+Liberdade,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Lima Duarte,zona_da_mata,Zona da Mata
+Limeira do Oeste,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Lontra,norte_de_minas,Norte de Minas
+Luisburgo,zona_da_mata,Zona da Mata
+Luislândia,norte_de_minas,Norte de Minas
+Luminárias,campo_das_vertentes,Campo das Vertentes
+Luz,central_mineira,Central Mineira
+Machacalis,vale_do_mucuri,Vale do Mucuri
+Machado,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Madre de Deus de Minas,campo_das_vertentes,Campo das Vertentes
+Malacacheta,jequitinhonha,Jequitinhonha
+Mamonas,norte_de_minas,Norte de Minas
+Manga,noroeste_de_minas,Noroeste de Minas
+Manhuaçu,zona_da_mata,Zona da Mata
+Manhumirim,zona_da_mata,Zona da Mata
+Mantena,vale_do_rio_doce,Vale do Rio Doce
+Mar de Espanha,zona_da_mata,Zona da Mata
+Maravilhas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Maria da Fé,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Mariana,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Marilac,vale_do_rio_doce,Vale do Rio Doce
+Maripá de Minas,zona_da_mata,Zona da Mata
+Marliéria,vale_do_rio_doce,Vale do Rio Doce
+Marmelópolis,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Martinho Campos,central_mineira,Central Mineira
+Martins Soares,zona_da_mata,Zona da Mata
+Mata Verde,jequitinhonha,Jequitinhonha
+Materlândia,vale_do_rio_doce,Vale do Rio Doce
+Mateus Leme,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Mathias Lobato,vale_do_rio_doce,Vale do Rio Doce
+Matias Barbosa,zona_da_mata,Zona da Mata
+Matias Cardoso,noroeste_de_minas,Noroeste de Minas
+Matipó,zona_da_mata,Zona da Mata
+Mato Verde,norte_de_minas,Norte de Minas
+Matozinhos,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Matutina,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Medeiros,oeste_de_minas,Oeste de Minas
+Medina,jequitinhonha,Jequitinhonha
+Mendes Pimentel,vale_do_rio_doce,Vale do Rio Doce
+Mercês,zona_da_mata,Zona da Mata
+Mesquita,vale_do_rio_doce,Vale do Rio Doce
+Minas Novas,jequitinhonha,Jequitinhonha
+Minduri,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Mirabela,norte_de_minas,Norte de Minas
+Miradouro,zona_da_mata,Zona da Mata
+Miravânia,noroeste_de_minas,Noroeste de Minas
+Miraí,zona_da_mata,Zona da Mata
+Moeda,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Moema,central_mineira,Central Mineira
+Monjolos,central_mineira,Central Mineira
+Monsenhor Paulo,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Montalvânia,noroeste_de_minas,Noroeste de Minas
+Monte Alegre de Minas,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Monte Azul,norte_de_minas,Norte de Minas
+Monte Belo,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Monte Carmelo,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Monte Formoso,jequitinhonha,Jequitinhonha
+Monte Santo de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Monte Sião,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Montes Claros,norte_de_minas,Norte de Minas
+Montezuma,norte_de_minas,Norte de Minas
+Morada Nova de Minas,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Morro da Garça,central_mineira,Central Mineira
+Morro do Pilar,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Munhoz,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Muriaé,zona_da_mata,Zona da Mata
+Mutum,vale_do_rio_doce,Vale do Rio Doce
+Muzambinho,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Mário Campos,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Nacip Raydan,vale_do_rio_doce,Vale do Rio Doce
+Nanuque,vale_do_mucuri,Vale do Mucuri
+Naque,vale_do_rio_doce,Vale do Rio Doce
+Natalândia,noroeste_de_minas,Noroeste de Minas
+Natércia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Nazareno,campo_das_vertentes,Campo das Vertentes
+Nepomuceno,campo_das_vertentes,Campo das Vertentes
+Ninheira,norte_de_minas,Norte de Minas
+Nova Belém,vale_do_rio_doce,Vale do Rio Doce
+Nova Era,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Nova Lima,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Nova Módica,vale_do_rio_doce,Vale do Rio Doce
+Nova Ponte,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Nova Porteirinha,norte_de_minas,Norte de Minas
+Nova Resende,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Nova Serrana,oeste_de_minas,Oeste de Minas
+Nova União,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Novo Cruzeiro,jequitinhonha,Jequitinhonha
+Novo Oriente de Minas,jequitinhonha,Jequitinhonha
+Novorizonte,norte_de_minas,Norte de Minas
+Olaria,zona_da_mata,Zona da Mata
+Olhos-d'Água,norte_de_minas,Norte de Minas
+Oliveira,oeste_de_minas,Oeste de Minas
+Oliveira Fortes,zona_da_mata,Zona da Mata
+Olímpio Noronha,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Onça de Pitangui,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Oratórios,campo_das_vertentes,Campo das Vertentes
+Orizânia,zona_da_mata,Zona da Mata
+Ouro Branco,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Ouro Fino,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Ouro Preto,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Ouro Verde de Minas,jequitinhonha,Jequitinhonha
+Padre Carvalho,norte_de_minas,Norte de Minas
+Padre Paraíso,jequitinhonha,Jequitinhonha
+Pai Pedro,norte_de_minas,Norte de Minas
+Paineiras,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Pains,oeste_de_minas,Oeste de Minas
+Paiva,zona_da_mata,Zona da Mata
+Palma,zona_da_mata,Zona da Mata
+Palmópolis,jequitinhonha,Jequitinhonha
+Papagaios,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Paracatu,noroeste_de_minas,Noroeste de Minas
+Paraguaçu,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Paraisópolis,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Paraopeba,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Pará de Minas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Passa Quatro,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Passa Tempo,oeste_de_minas,Oeste de Minas
+Passa Vinte,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Passabém,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Passos,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Patis,norte_de_minas,Norte de Minas
+Patos de Minas,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Patrocínio,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Patrocínio do Muriaé,zona_da_mata,Zona da Mata
+Paula Cândido,zona_da_mata,Zona da Mata
+Paulistas,vale_do_rio_doce,Vale do Rio Doce
+Pavão,jequitinhonha,Jequitinhonha
+Pedra Azul,jequitinhonha,Jequitinhonha
+Pedra Bonita,zona_da_mata,Zona da Mata
+Pedra Dourada,zona_da_mata,Zona da Mata
+Pedra do Anta,zona_da_mata,Zona da Mata
+Pedra do Indaiá,oeste_de_minas,Oeste de Minas
+Pedralva,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Pedras de Maria da Cruz,noroeste_de_minas,Noroeste de Minas
+Pedrinópolis,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Pedro Leopoldo,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Pedro Teixeira,zona_da_mata,Zona da Mata
+Pequeri,zona_da_mata,Zona da Mata
+Pequi,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Perdigão,oeste_de_minas,Oeste de Minas
+Perdizes,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Perdões,oeste_de_minas,Oeste de Minas
+Periquito,vale_do_rio_doce,Vale do Rio Doce
+Pescador,vale_do_rio_doce,Vale do Rio Doce
+Peçanha,vale_do_rio_doce,Vale do Rio Doce
+Piau,zona_da_mata,Zona da Mata
+Piedade de Caratinga,vale_do_rio_doce,Vale do Rio Doce
+Piedade de Ponte Nova,campo_das_vertentes,Campo das Vertentes
+Piedade do Rio Grande,campo_das_vertentes,Campo das Vertentes
+Piedade dos Gerais,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Pimenta,oeste_de_minas,Oeste de Minas
+Pingo-d'Água,vale_do_rio_doce,Vale do Rio Doce
+Pintópolis,noroeste_de_minas,Noroeste de Minas
+Piracema,oeste_de_minas,Oeste de Minas
+Pirajuba,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Piranga,zona_da_mata,Zona da Mata
+Piranguinho,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Piranguçu,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Pirapetinga,zona_da_mata,Zona da Mata
+Pirapora,norte_de_minas,Norte de Minas
+Piraúba,zona_da_mata,Zona da Mata
+Pitangui,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Piumhi,oeste_de_minas,Oeste de Minas
+Planura,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Pocrane,vale_do_rio_doce,Vale do Rio Doce
+Pompéu,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Ponte Nova,campo_das_vertentes,Campo das Vertentes
+Ponto Chique,norte_de_minas,Norte de Minas
+Ponto dos Volantes,jequitinhonha,Jequitinhonha
+Porteirinha,norte_de_minas,Norte de Minas
+Porto Firme,zona_da_mata,Zona da Mata
+Poté,jequitinhonha,Jequitinhonha
+Pouso Alegre,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Pouso Alto,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Poço Fundo,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Poços de Caldas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Prados,campo_das_vertentes,Campo das Vertentes
+Prata,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Pratinha,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Pratápolis,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Presidente Bernardes,zona_da_mata,Zona da Mata
+Presidente Juscelino,central_mineira,Central Mineira
+Presidente Kubitschek,norte_de_minas,Norte de Minas
+Presidente Olegário,noroeste_de_minas,Noroeste de Minas
+Prudente de Morais,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Quartel Geral,central_mineira,Central Mineira
+Queluzito,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Raposos,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Raul Soares,campo_das_vertentes,Campo das Vertentes
+Recreio,zona_da_mata,Zona da Mata
+Reduto,zona_da_mata,Zona da Mata
+Resende Costa,campo_das_vertentes,Campo das Vertentes
+Resplendor,vale_do_rio_doce,Vale do Rio Doce
+Ressaquinha,campo_das_vertentes,Campo das Vertentes
+Riachinho,norte_de_minas,Norte de Minas
+Riacho dos Machados,norte_de_minas,Norte de Minas
+Ribeirão Vermelho,campo_das_vertentes,Campo das Vertentes
+Ribeirão das Neves,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Rio Acima,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Rio Casca,campo_das_vertentes,Campo das Vertentes
+Rio Doce,campo_das_vertentes,Campo das Vertentes
+Rio Espera,zona_da_mata,Zona da Mata
+Rio Manso,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Rio Novo,zona_da_mata,Zona da Mata
+Rio Paranaíba,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Rio Pardo de Minas,norte_de_minas,Norte de Minas
+Rio Piracicaba,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Rio Pomba,zona_da_mata,Zona da Mata
+Rio Preto,zona_da_mata,Zona da Mata
+Rio Vermelho,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Rio do Prado,jequitinhonha,Jequitinhonha
+Ritápolis,campo_das_vertentes,Campo das Vertentes
+Rochedo de Minas,zona_da_mata,Zona da Mata
+Rodeiro,zona_da_mata,Zona da Mata
+Romaria,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Rosário da Limeira,zona_da_mata,Zona da Mata
+Rubelita,norte_de_minas,Norte de Minas
+Rubim,jequitinhonha,Jequitinhonha
+Sabará,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Sabinópolis,vale_do_rio_doce,Vale do Rio Doce
+Sacramento,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Salinas,norte_de_minas,Norte de Minas
+Salto da Divisa,jequitinhonha,Jequitinhonha
+Santa Bárbara,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santa Bárbara do Leste,zona_da_mata,Zona da Mata
+Santa Bárbara do Monte Verde,zona_da_mata,Zona da Mata
+Santa Bárbara do Tugúrio,campo_das_vertentes,Campo das Vertentes
+Santa Cruz de Minas,campo_das_vertentes,Campo das Vertentes
+Santa Cruz de Salinas,norte_de_minas,Norte de Minas
+Santa Cruz do Escalvado,campo_das_vertentes,Campo das Vertentes
+Santa Efigênia de Minas,vale_do_rio_doce,Vale do Rio Doce
+Santa Fé de Minas,norte_de_minas,Norte de Minas
+Santa Helena de Minas,vale_do_mucuri,Vale do Mucuri
+Santa Juliana,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Santa Luzia,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santa Margarida,zona_da_mata,Zona da Mata
+Santa Maria de Itabira,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santa Maria do Salto,jequitinhonha,Jequitinhonha
+Santa Maria do Suaçuí,vale_do_rio_doce,Vale do Rio Doce
+Santa Rita de Caldas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Santa Rita de Ibitipoca,zona_da_mata,Zona da Mata
+Santa Rita de Jacutinga,zona_da_mata,Zona da Mata
+Santa Rita de Minas,vale_do_rio_doce,Vale do Rio Doce
+Santa Rita do Itueto,vale_do_rio_doce,Vale do Rio Doce
+Santa Rita do Sapucaí,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Santa Rosa da Serra,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Santa Vitória,vale_do_mucuri,Vale do Mucuri
+Santana da Vargem,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Santana de Cataguases,zona_da_mata,Zona da Mata
+Santana de Pirapama,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santana do Deserto,zona_da_mata,Zona da Mata
+Santana do Garambéu,campo_das_vertentes,Campo das Vertentes
+Santana do Jacaré,oeste_de_minas,Oeste de Minas
+Santana do Manhuaçu,zona_da_mata,Zona da Mata
+Santana do Paraíso,vale_do_rio_doce,Vale do Rio Doce
+Santana do Riacho,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santana dos Montes,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santo Antônio do Amparo,oeste_de_minas,Oeste de Minas
+Santo Antônio do Aventureiro,zona_da_mata,Zona da Mata
+Santo Antônio do Grama,zona_da_mata,Zona da Mata
+Santo Antônio do Itambé,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santo Antônio do Jacinto,jequitinhonha,Jequitinhonha
+Santo Antônio do Monte,oeste_de_minas,Oeste de Minas
+Santo Antônio do Retiro,norte_de_minas,Norte de Minas
+Santo Antônio do Rio Abaixo,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Santo Hipólito,central_mineira,Central Mineira
+Santos Dumont,zona_da_mata,Zona da Mata
+Sapucaí-Mirim,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Sardoá,vale_do_rio_doce,Vale do Rio Doce
+Sarzedo,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Sem-Peixe,zona_da_mata,Zona da Mata
+Senador Amaral,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Senador Cortes,zona_da_mata,Zona da Mata
+Senador Firmino,zona_da_mata,Zona da Mata
+Senador José Bento,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Senador Modestino Gonçalves,norte_de_minas,Norte de Minas
+Senhora de Oliveira,zona_da_mata,Zona da Mata
+Senhora do Porto,vale_do_rio_doce,Vale do Rio Doce
+Senhora dos Remédios,campo_das_vertentes,Campo das Vertentes
+Sericita,zona_da_mata,Zona da Mata
+Seritinga,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Serra Azul de Minas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Serra da Saudade,central_mineira,Central Mineira
+Serra do Salitre,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Serra dos Aimorés,vale_do_mucuri,Vale do Mucuri
+Serrania,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Serranos,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Serranópolis de Minas,norte_de_minas,Norte de Minas
+Serro,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Sete Lagoas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Setubinha,vale_do_mucuri,Vale do Mucuri
+Silveirânia,zona_da_mata,Zona da Mata
+Silvianópolis,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Simonésia,zona_da_mata,Zona da Mata
+Simão Pereira,zona_da_mata,Zona da Mata
+Sobrália,vale_do_rio_doce,Vale do Rio Doce
+Soledade de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Bento Abade,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Brás do Suaçuí,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São Domingos das Dores,vale_do_rio_doce,Vale do Rio Doce
+São Domingos do Prata,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São Francisco,noroeste_de_minas,Noroeste de Minas
+São Francisco de Paula,oeste_de_minas,Oeste de Minas
+São Francisco de Sales,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+São Francisco do Glória,zona_da_mata,Zona da Mata
+São Félix de Minas,vale_do_rio_doce,Vale do Rio Doce
+São Geraldo,zona_da_mata,Zona da Mata
+São Geraldo da Piedade,vale_do_rio_doce,Vale do Rio Doce
+São Geraldo do Baixio,vale_do_rio_doce,Vale do Rio Doce
+São Gonçalo do Abaeté,noroeste_de_minas,Noroeste de Minas
+São Gonçalo do Pará,oeste_de_minas,Oeste de Minas
+São Gonçalo do Rio Abaixo,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São Gonçalo do Rio Preto,norte_de_minas,Norte de Minas
+São Gonçalo do Sapucaí,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Gotardo,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+São Joaquim de Bicas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São José da Barra,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São José da Lapa,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São José da Safira,vale_do_rio_doce,Vale do Rio Doce
+São José da Varginha,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São José do Alegre,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São José do Divino,vale_do_rio_doce,Vale do Rio Doce
+São José do Goiabal,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São José do Jacuri,vale_do_rio_doce,Vale do Rio Doce
+São José do Mantimento,zona_da_mata,Zona da Mata
+São João Batista do Glória,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São João Evangelista,vale_do_rio_doce,Vale do Rio Doce
+São João Nepomuceno,zona_da_mata,Zona da Mata
+São João da Lagoa,norte_de_minas,Norte de Minas
+São João da Mata,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São João da Ponte,norte_de_minas,Norte de Minas
+São João das Missões,noroeste_de_minas,Noroeste de Minas
+São João del Rei,campo_das_vertentes,Campo das Vertentes
+São João do Manhuaçu,zona_da_mata,Zona da Mata
+São João do Manteninha,vale_do_rio_doce,Vale do Rio Doce
+São João do Oriente,vale_do_rio_doce,Vale do Rio Doce
+São João do Pacuí,norte_de_minas,Norte de Minas
+São João do Paraíso,norte_de_minas,Norte de Minas
+São Lourenço,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Miguel do Anta,zona_da_mata,Zona da Mata
+São Pedro da União,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Pedro do Suaçuí,vale_do_rio_doce,Vale do Rio Doce
+São Pedro dos Ferros,zona_da_mata,Zona da Mata
+São Romão,norte_de_minas,Norte de Minas
+São Roque de Minas,oeste_de_minas,Oeste de Minas
+São Sebastião da Bela Vista,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Sebastião da Vargem Alegre,zona_da_mata,Zona da Mata
+São Sebastião do Anta,vale_do_rio_doce,Vale do Rio Doce
+São Sebastião do Maranhão,vale_do_rio_doce,Vale do Rio Doce
+São Sebastião do Oeste,oeste_de_minas,Oeste de Minas
+São Sebastião do Paraíso,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Sebastião do Rio Preto,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+São Sebastião do Rio Verde,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Tiago,campo_das_vertentes,Campo das Vertentes
+São Tomás de Aquino,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Tomé das Letras,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+São Vicente de Minas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Tabuleiro,zona_da_mata,Zona da Mata
+Taiobeiras,norte_de_minas,Norte de Minas
+Taparuba,vale_do_rio_doce,Vale do Rio Doce
+Tapira,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Tapiraí,oeste_de_minas,Oeste de Minas
+Taquaraçu de Minas,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Tarumirim,vale_do_rio_doce,Vale do Rio Doce
+Teixeiras,zona_da_mata,Zona da Mata
+Teófilo Otoni,vale_do_mucuri,Vale do Mucuri
+Timóteo,vale_do_rio_doce,Vale do Rio Doce
+Tiradentes,campo_das_vertentes,Campo das Vertentes
+Tiros,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Tocantins,zona_da_mata,Zona da Mata
+Tocos do Moji,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Toledo,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Tombos,zona_da_mata,Zona da Mata
+Três Corações,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Três Marias,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Três Pontas,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Tumiritinga,vale_do_rio_doce,Vale do Rio Doce
+Tupaciguara,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Turmalina,jequitinhonha,Jequitinhonha
+Turvolândia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Ubaporanga,vale_do_rio_doce,Vale do Rio Doce
+Ubaí,norte_de_minas,Norte de Minas
+Uberaba,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Uberlândia,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Ubá,zona_da_mata,Zona da Mata
+Umburatiba,vale_do_mucuri,Vale do Mucuri
+Unaí,noroeste_de_minas,Noroeste de Minas
+União de Minas,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Uruana de Minas,noroeste_de_minas,Noroeste de Minas
+Urucuia,norte_de_minas,Norte de Minas
+Urucânia,zona_da_mata,Zona da Mata
+Vargem Alegre,vale_do_rio_doce,Vale do Rio Doce
+Vargem Bonita,oeste_de_minas,Oeste de Minas
+Vargem Grande do Rio Pardo,norte_de_minas,Norte de Minas
+Varginha,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Varjão de Minas,noroeste_de_minas,Noroeste de Minas
+Varzelândia,norte_de_minas,Norte de Minas
+Vazante,noroeste_de_minas,Noroeste de Minas
+Verdelândia,norte_de_minas,Norte de Minas
+Veredinha,jequitinhonha,Jequitinhonha
+Vermelho Novo,zona_da_mata,Zona da Mata
+Veríssimo,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Vespasiano,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte
+Vieiras,zona_da_mata,Zona da Mata
+Virgem da Lapa,jequitinhonha,Jequitinhonha
+Virginópolis,vale_do_rio_doce,Vale do Rio Doce
+Virgolândia,vale_do_rio_doce,Vale do Rio Doce
+Virgínia,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Visconde do Rio Branco,zona_da_mata,Zona da Mata
+Viçosa,zona_da_mata,Zona da Mata
+Volta Grande,zona_da_mata,Zona da Mata
+Várzea da Palma,norte_de_minas,Norte de Minas
+Wenceslau Braz,sul_sudoeste_de_minas,Sul / Sudoeste de Minas
+Água Boa,vale_do_rio_doce,Vale do Rio Doce
+Água Comprida,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba
+Águas Formosas,vale_do_mucuri,Vale do Mucuri
+Águas Vermelhas,norte_de_minas,Norte de Minas

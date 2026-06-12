@@ -17,9 +17,12 @@ Dependências:
 """
 
 import io
+import sys
 import urllib.request
 import zipfile
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import geopandas as gpd
 import matplotlib.pyplot as plt
@@ -43,9 +46,12 @@ GEOFABRIK_URL = (
     "sudeste-latest-free.shp.zip"
 )
 
-DATA_RAW_DIR = Path("data/raw")
-IBGE_SHP = DATA_RAW_DIR / "MG_Municipios_2022.shp"
-ROADS_SHP = DATA_RAW_DIR / "gis_osm_roads_free_1.shp"
+ROOT = Path(__file__).resolve().parent.parent.parent
+IBGE_DIR = ROOT / "data" / "bronze" / "ibge" / "malha-municipal"
+ROADS_DIR = ROOT / "data" / "bronze" / "geofabrik" / "malha-rodoviaria"
+GOLD_DIR = ROOT / "data" / "gold"
+IBGE_SHP = IBGE_DIR / "MG_Municipios_2022.shp"
+ROADS_SHP = ROADS_DIR / "gis_osm_roads_free_1.shp"
 
 # Tipos de via relevantes para ligações intermunicipais
 # Excluímos residential, service, track, path etc. (vias urbanas/rurais menores)
@@ -66,11 +72,11 @@ def baixar_ibge() -> gpd.GeoDataFrame:
     """Baixa (se necessário) e carrega a malha municipal de MG do IBGE."""
     if not IBGE_SHP.exists():
         print("Baixando malha municipal do IBGE (~30 MB)...")
-        DATA_RAW_DIR.mkdir(exist_ok=True)
+        IBGE_DIR.mkdir(parents=True, exist_ok=True)
         with urllib.request.urlopen(IBGE_URL) as resp:
             dados = resp.read()
         with zipfile.ZipFile(io.BytesIO(dados)) as zf:
-            zf.extractall(DATA_RAW_DIR)
+            zf.extractall(IBGE_DIR)
         print("IBGE: download concluído.")
     else:
         print("IBGE: malha já disponível localmente.")
@@ -88,7 +94,7 @@ def baixar_rodovias_geofabrik() -> gpd.GeoDataFrame:
     """
     if not ROADS_SHP.exists():
         print("Baixando rodovias do GEOFABRIK (~2 GB) — pode demorar alguns minutos...")
-        DATA_RAW_DIR.mkdir(exist_ok=True)
+        ROADS_DIR.mkdir(parents=True, exist_ok=True)
         with urllib.request.urlopen(GEOFABRIK_URL) as resp:
             dados = resp.read()
         with zipfile.ZipFile(io.BytesIO(dados)) as zf:
@@ -97,7 +103,7 @@ def baixar_rodovias_geofabrik() -> gpd.GeoDataFrame:
                 m for m in zf.namelist()
                 if "gis_osm_roads_free_1" in m
             ]
-            zf.extractall(DATA_RAW_DIR, members=membros_roads)
+            zf.extractall(ROADS_DIR, members=membros_roads)
         print("GEOFABRIK: download concluído.")
     else:
         print("GEOFABRIK: rodovias já disponíveis localmente.")
@@ -156,7 +162,7 @@ def construir_grafo(
     G = nx.Graph()
 
     # Reprojecta para WGS84 para que lat/lon nos nós sejam graus decimais,
-    # compatíveis com GraphML/GEXF e ferramentas como Gephi.
+    # compatíveis com GraphML e ferramentas como Gephi.
     gdf_wgs = gdf.to_crs(epsg=4326)
 
     # Adiciona todos os vértices com atributos
@@ -302,7 +308,7 @@ def visualizar_grafo(
     G: nx.Graph,
     gdf: gpd.GeoDataFrame,
     caminho: list[str] | None = None,
-    saida: str = "data/graphs/grafo_mg_rodoviario.png",
+    saida: str | Path | None = None,
 ):
     """
     Plota o mapa de MG com as arestas de conexão rodoviária.
@@ -346,6 +352,10 @@ def visualizar_grafo(
     )
     ax.axis("off")
     plt.tight_layout()
+    if saida is None:
+        saida = GOLD_DIR / "graph_mg_highways.png"
+    saida = Path(saida)
+    saida.parent.mkdir(parents=True, exist_ok=True)
     plt.savefig(saida, dpi=150, bbox_inches="tight")
     print(f"\nMapa salvo em {saida}")
     plt.show()
@@ -355,21 +365,19 @@ def visualizar_grafo(
 # 6. Exportação
 # ---------------------------------------------------------------------------
 
-def exportar_grafo(G: nx.Graph, prefixo: str = "grafo_mg_rodoviario"):
+def exportar_grafo(G: nx.Graph, output_name: str = "graph_mg_highways"):
     """
-    Exporta o grafo nos formatos GraphML e GEXF.
+    Exporta o grafo no formato GraphML.
 
     Atributos exportados por nó : geocodigo, lat, lon (WGS84)
     Atributos exportados por aresta: weight (km), rodovias (string)
     """
-    graphml_path = f"data/graphs/{prefixo}.graphml"
-    gexf_path = f"data/graphs/{prefixo}.gexf"
+    GOLD_DIR.mkdir(parents=True, exist_ok=True)
+    graphml_path = GOLD_DIR / f"{output_name}.graphml"
 
     nx.write_graphml(G, graphml_path)
-    print(f"Grafo exportado: {graphml_path}")
 
-    nx.write_gexf(G, gexf_path)
-    print(f"Grafo exportado: {gexf_path}")
+    print(f"Grafo exportado: {graphml_path}")
 
 
 # ---------------------------------------------------------------------------
@@ -387,7 +395,7 @@ if __name__ == "__main__":
     # Constrói o grafo
     G = construir_grafo(gdf, roads_mg)
 
-    # Exporta nos formatos GraphML e GEXF
+    # Exporta no formato GraphML
     exportar_grafo(G)
 
     # Estatísticas

@@ -3,11 +3,11 @@ Calcula a taxa de vítimas de feminicídio (tentativas + consumações) por 100.
 em 2022 e a taxa normalizada (divisão pela maior taxa) por município de Minas Gerais.
 
 Dados de entrada (cruzamento pelos 6 primeiros dígitos de municipio_cod):
-  - data/raw/feminicidio_mg_2022.csv  (fonte: Portal de Dados Abertos do GOV BR)
-  - data/raw/populacao_mg_2022.csv    (fonte: Censo Demográfico de 2022 do IBGE)
+  - data/bronze/portal-dados-abertos/mapa-violencia-mulher-mg/casos_feminicidio_mg_2022.csv
+  - data/bronze/ibge/censo-2022/populacao_mg_2022.csv
 
 Saída:
-  - data/processed/taxa_feminicidio_mg_2022.csv
+  - data/silver/taxa_feminicidio_mg_2022.csv
 
 Uso (na raiz do repositório):
   python scripts/calculate_femicide_rate.py
@@ -20,9 +20,16 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-FEMICIDE_REPORTS = ROOT / "data" / "raw" / "feminicidio_mg_2022.csv"
-CITIES_POPULATION = ROOT / "data" / "raw" / "populacao_mg_2022.csv"
-OUTPUT_FILE = ROOT / "data" / "processed" / "taxa_feminicidio_mg_2022.csv"
+FEMICIDE_REPORTS = (
+    ROOT
+    / "data"
+    / "bronze"
+    / "portal-dados-abertos"
+    / "mapa-violencia-mulher-mg"
+    / "casos_feminicidio_mg_2022.csv"
+)
+CITIES_POPULATION = ROOT / "data" / "bronze" / "ibge" / "censo-2022" / "populacao_mg_2022.csv"
+OUTPUT_FILE = ROOT / "data" / "silver" / "taxa_feminicidio_mg_2022.csv"
 
 
 def prefix6(codigo) -> str:
