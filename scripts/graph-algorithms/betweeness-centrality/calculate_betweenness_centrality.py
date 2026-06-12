@@ -17,6 +17,27 @@ sys.path.insert(0, str(ROOT / "scripts" / "graph-builders"))
 from graph_discovery import discover_graph_paths, parse_graph_name
 from mesoregion_mapping import MESOREGION_LABELS
 
+GRAPH_TYPE_LABELS = {
+    "physical_boundaries": "fronteiras físicas",
+    "highways": "rodovias",
+}
+
+
+def graph_type_label(graph_type: str) -> str:
+    return GRAPH_TYPE_LABELS.get(graph_type, graph_type.replace("_", " "))
+
+
+def format_plot_subtitle(graph_name: str) -> str:
+    metadata = parse_graph_name(graph_name)
+    type_label = graph_type_label(metadata["graph_type"])
+    if metadata["scope"] == "state":
+        return f"Minas Gerais — grafo de {type_label}"
+    mesoregion_label = MESOREGION_LABELS.get(
+        metadata["mesoregion_slug"],
+        metadata["mesoregion_slug"],
+    )
+    return f"{mesoregion_label} — grafo de {type_label}"
+
 
 def read_graph(path: str | Path) -> nx.Graph:
     path = Path(path)
@@ -181,17 +202,17 @@ def plot_bc_distribution(
         values.mean(),
         color="red",
         linestyle="--",
-        label=f"Mean = {values.mean():.4f}",
+        label=f"Média = {values.mean():.4f}",
     )
     axis.axvline(
         np.median(values),
         color="orange",
         linestyle=":",
-        label=f"Median = {np.median(values):.4f}",
+        label=f"Mediana = {np.median(values):.4f}",
     )
-    axis.set_xlabel("Betweenness Centrality (normalized)", fontsize=11)
-    axis.set_ylabel("Frequency", fontsize=11)
-    axis.set_title(f"Betweenness Centrality Distribution\n{title}", fontsize=11)
+    axis.set_xlabel("Betweenness Centrality (normalizada)", fontsize=11)
+    axis.set_ylabel("Frequência", fontsize=11)
+    axis.set_title(f"Distribuição de Betweenness Centrality\n{title}", fontsize=11)
     axis.legend(fontsize=9)
     axis.grid(True, alpha=0.3)
 
@@ -235,8 +256,8 @@ def plot_bc_femicide_correlation(
             linewidth=1.5,
         )
 
-    axis.set_xlabel("Betweenness Centrality (normalized)", fontsize=11)
-    axis.set_ylabel("Normalized femicide rate", fontsize=11)
+    axis.set_xlabel("Betweenness Centrality (normalizada)", fontsize=11)
+    axis.set_ylabel("Taxa de feminicídio normalizada", fontsize=11)
     axis.set_title(
         f"{title}\n"
         f"Pearson r = {pearson_r:.4f} (p = {pearson_p:.2e})  |  "
@@ -275,15 +296,15 @@ def plot_top_nodes(
         alpha=0.85,
     )
 
-    axis.set_xlabel("Betweenness Centrality (normalized)", fontsize=11)
+    axis.set_xlabel("Betweenness Centrality (normalizada)", fontsize=11)
     axis.set_title(
-        f"Top {TOP_NODES_COUNT} nodes by Betweenness Centrality\n{title}",
+        f"Top {TOP_NODES_COUNT} municípios por Betweenness Centrality\n{title}",
         fontsize=11,
     )
 
     legend_elements = [
-        Patch(facecolor="#d62728", label="Femicide rate > 0.5"),
-        Patch(facecolor="#2b7bba", label="Femicide rate ≤ 0.5"),
+        Patch(facecolor="#d62728", label="Taxa de feminicídio > 0,5"),
+        Patch(facecolor="#2b7bba", label="Taxa de feminicídio ≤ 0,5"),
     ]
     axis.legend(handles=legend_elements, fontsize=9, loc="lower right")
     axis.grid(True, alpha=0.3, axis="x")
@@ -365,22 +386,24 @@ def save_plots(
     correlation: dict,
     top_nodes: pd.DataFrame,
 ) -> None:
+    plot_subtitle = format_plot_subtitle(graph_name)
+
     plot_bc_distribution(
         bc_result["values"],
-        graph_name,
+        plot_subtitle,
         output_path=RESULTS_DIR / f"bc_distribution_{graph_name}.png",
     )
 
     if correlation:
         plot_bc_femicide_correlation(
             correlation,
-            graph_name,
+            plot_subtitle,
             output_path=RESULTS_DIR / f"bc_correlation_{graph_name}.png",
         )
 
     plot_top_nodes(
         top_nodes,
-        graph_name,
+        plot_subtitle,
         output_path=RESULTS_DIR / f"bc_top_nodes_{graph_name}.png",
     )
 
@@ -421,7 +444,7 @@ def plot_correlation_comparison(correlation_df: pd.DataFrame) -> None:
             x_positions + offset,
             values,
             width=bar_width,
-            label=graph_type.replace("_", " "),
+            label=graph_type_label(graph_type),
             alpha=0.85,
         )
 
@@ -433,14 +456,22 @@ def plot_correlation_comparison(correlation_df: pd.DataFrame) -> None:
                 linestyle="--",
                 linewidth=1.2,
                 alpha=0.7,
-                label=f"State {row['graph_type'].replace('_', ' ')}",
+                label=(
+                    f"Grafo completo de conexões por "
+                    f"{graph_type_label(row['graph_type'])}"
+                ),
             )
 
     axis.axhline(0, color="black", linewidth=0.8, alpha=0.4)
     axis.set_xticks(x_positions)
     axis.set_xticklabels(order, rotation=45, ha="right")
-    axis.set_ylabel("Spearman correlation (BC vs femicide rate)")
-    axis.set_title("BC–Femicide Correlation by Mesoregion and Graph Type")
+    axis.set_ylabel(
+        "Correlação de Spearman"
+    )
+    axis.set_title(
+        "Correlação entre Betweenness Centrality e Taxa de Feminicídio "
+        "por Mesorregião e Tipo de Grafo"
+    )
     axis.legend(fontsize=8, loc="best")
     axis.grid(True, alpha=0.3, axis="y")
     plt.tight_layout()

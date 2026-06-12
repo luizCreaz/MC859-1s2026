@@ -191,7 +191,7 @@ def visualizar_grafo(G: nx.Graph, gdf: gpd.GeoDataFrame, caminho: list[str] = No
             bbox=dict(boxstyle="round,pad=0.2", fc="white", alpha=0.7)
         )
 
-    ax.set_title("Grafo de Adjacência — Municípios de Minas Gerais (IBGE 2022)", fontsize=14)
+    ax.set_title("Municípios de Minas Gerais conectados por fronteiras físicas", fontsize=14)
     ax.axis("off")
     plt.tight_layout()
     output_path = GOLD_DIR / "graph_mg_physical_boundaries.png"

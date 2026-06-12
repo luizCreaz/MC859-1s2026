@@ -183,7 +183,7 @@ def plot_assortativity_comparison(results_df: pd.DataFrame) -> None:
             x_positions + offset,
             values,
             width=bar_width,
-            label=graph_type.replace("_", " "),
+            label=f"{'rodovias' if graph_type.replace('_', ' ') == 'highways' else 'fronteiras físicas'}",
             alpha=0.85,
         )
 
@@ -194,14 +194,14 @@ def plot_assortativity_comparison(results_df: pd.DataFrame) -> None:
             linestyle="--",
             linewidth=1.2,
             alpha=0.7,
-            label=f"State {row['graph_type'].replace('_', ' ')}",
+            label=f"Grafo completo de conexões por {'rodovias' if row['graph_type'].replace('_', ' ') == 'highways' else 'fronteiras físicas'}",
         )
 
     axis.axhline(0, color="black", linewidth=0.8, alpha=0.4)
     axis.set_xticks(x_positions)
     axis.set_xticklabels(order, rotation=45, ha="right")
-    axis.set_ylabel("Assortativity (Pearson r)")
-    axis.set_title("Assortativity by Mesoregion and Graph Type")
+    axis.set_ylabel("Assortatividade (Coeficiente de Correlação de Pearson)")
+    axis.set_title("Assortatividade por Mesorregião e Tipo de Grafo")
     axis.legend(fontsize=8, loc="best")
     axis.grid(True, alpha=0.3, axis="y")
     plt.tight_layout()

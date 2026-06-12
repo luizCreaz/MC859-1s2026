@@ -1,0 +1,676 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="São Sebastião do Oeste">
+  <data key="d0">3164605</data>
+  <data key="d1">-20.251585</data>
+  <data key="d2">-45.044233</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Candeias">
+  <data key="d0">3112000</data>
+  <data key="d1">-20.748496</data>
+  <data key="d2">-45.279578</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Vargem Bonita">
+  <data key="d0">3170602</data>
+  <data key="d1">-20.431277</data>
+  <data key="d2">-46.336151</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Nova Serrana">
+  <data key="d0">3145208</data>
+  <data key="d1">-19.852343</data>
+  <data key="d2">-44.973955</data>
+  <data key="d3">0.042</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Santo Antônio do Monte">
+  <data key="d0">3160405</data>
+  <data key="d1">-20.083049</data>
+  <data key="d2">-45.292269</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Piumhi">
+  <data key="d0">3151503</data>
+  <data key="d1">-20.441441</data>
+  <data key="d2">-46.050404</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="São Gonçalo do Pará">
+  <data key="d0">3161809</data>
+  <data key="d1">-19.983872</data>
+  <data key="d2">-44.828438</data>
+  <data key="d3">0.137</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Cana Verde">
+  <data key="d0">3111903</data>
+  <data key="d1">-21.033111</data>
+  <data key="d2">-45.185707</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Córrego Fundo">
+  <data key="d0">3119955</data>
+  <data key="d1">-20.45082</data>
+  <data key="d2">-45.532129</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Santana do Jacaré">
+  <data key="d0">3158805</data>
+  <data key="d1">-20.88311</data>
+  <data key="d2">-45.062076</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Carmópolis de Minas">
+  <data key="d0">3114501</data>
+  <data key="d1">-20.56191</data>
+  <data key="d2">-44.647857</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Camacho">
+  <data key="d0">3110400</data>
+  <data key="d1">-20.640841</data>
+  <data key="d2">-45.132175</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Capitólio">
+  <data key="d0">3112802</data>
+  <data key="d1">-20.612657</data>
+  <data key="d2">-46.144192</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Formiga">
+  <data key="d0">3126109</data>
+  <data key="d1">-20.553682</data>
+  <data key="d2">-45.516428</data>
+  <data key="d3">0.047</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Itaúna">
+  <data key="d0">3133808</data>
+  <data key="d1">-20.07809</data>
+  <data key="d2">-44.588851</data>
+  <data key="d3">0.017</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Tapiraí">
+  <data key="d0">3168200</data>
+  <data key="d1">-19.876199</data>
+  <data key="d2">-46.16068</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Doresópolis">
+  <data key="d0">3123403</data>
+  <data key="d1">-20.291679</data>
+  <data key="d2">-45.88705</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Bom Sucesso">
+  <data key="d0">3108008</data>
+  <data key="d1">-21.026362</data>
+  <data key="d2">-44.784176</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Pimenta">
+  <data key="d0">3150505</data>
+  <data key="d1">-20.530492</data>
+  <data key="d2">-45.83131</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Alpinópolis">
+  <data key="d0">3101904</data>
+  <data key="d1">-20.859529</data>
+  <data key="d2">-46.376158</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Capetinga">
+  <data key="d0">3112406</data>
+  <data key="d1">-20.657294</data>
+  <data key="d2">-47.03179</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Perdões">
+  <data key="d0">3149903</data>
+  <data key="d1">-21.075927</data>
+  <data key="d2">-45.064777</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Passa Tempo">
+  <data key="d0">3147709</data>
+  <data key="d1">-20.648934</data>
+  <data key="d2">-44.491099</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Divinópolis">
+  <data key="d0">3122306</data>
+  <data key="d1">-20.123716</data>
+  <data key="d2">-44.930692</data>
+  <data key="d3">0.026</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Santo Antônio do Amparo">
+  <data key="d0">3159902</data>
+  <data key="d1">-20.916224</data>
+  <data key="d2">-44.942787</data>
+  <data key="d3">0.096</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Iguatama">
+  <data key="d0">3130309</data>
+  <data key="d1">-20.156187</data>
+  <data key="d2">-45.752726</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Perdigão">
+  <data key="d0">3149705</data>
+  <data key="d1">-19.94024</data>
+  <data key="d2">-45.057902</data>
+  <data key="d3">0.134</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Itapecerica">
+  <data key="d0">3133501</data>
+  <data key="d1">-20.458491</data>
+  <data key="d2">-45.107917</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="São Roque de Minas">
+  <data key="d0">3164308</data>
+  <data key="d1">-20.18704</data>
+  <data key="d2">-46.513549</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Oliveira">
+  <data key="d0">3145604</data>
+  <data key="d1">-20.749808</data>
+  <data key="d2">-44.735976</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Carmo do Cajuru">
+  <data key="d0">3114204</data>
+  <data key="d1">-20.196476</data>
+  <data key="d2">-44.70115</data>
+  <data key="d3">0.137</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Conceição do Pará">
+  <data key="d0">3117603</data>
+  <data key="d1">-19.785665</data>
+  <data key="d2">-44.871734</data>
+  <data key="d3">0.303</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Ibituruna">
+  <data key="d0">3130002</data>
+  <data key="d1">-21.167142</data>
+  <data key="d2">-44.782953</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Igaratinga">
+  <data key="d0">3130200</data>
+  <data key="d1">-19.951053</data>
+  <data key="d2">-44.718358</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Medeiros">
+  <data key="d0">3141306</data>
+  <data key="d1">-19.989152</data>
+  <data key="d2">-46.339726</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Bom Jesus da Penha">
+  <data key="d0">3107604</data>
+  <data key="d1">-21.013764</data>
+  <data key="d2">-46.529054</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Arcos">
+  <data key="d0">3104205</data>
+  <data key="d1">-20.259713</data>
+  <data key="d2">-45.547246</data>
+  <data key="d3">0.039</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Cláudio">
+  <data key="d0">3116605</data>
+  <data key="d1">-20.397398</data>
+  <data key="d2">-44.775942</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Piracema">
+  <data key="d0">3150604</data>
+  <data key="d1">-20.522241</data>
+  <data key="d2">-44.42271</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Cássia">
+  <data key="d0">3115102</data>
+  <data key="d1">-20.542592</data>
+  <data key="d2">-46.929007</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Pains">
+  <data key="d0">3146503</data>
+  <data key="d1">-20.381545</data>
+  <data key="d2">-45.693917</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Pedra do Indaiá">
+  <data key="d0">3148905</data>
+  <data key="d1">-20.28688</data>
+  <data key="d2">-45.229312</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Carmo da Mata">
+  <data key="d0">3114006</data>
+  <data key="d1">-20.559672</data>
+  <data key="d2">-44.891824</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="São Francisco de Paula">
+  <data key="d0">3161205</data>
+  <data key="d1">-20.716549</data>
+  <data key="d2">-44.9954</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Campo Belo">
+  <data key="d0">3111200</data>
+  <data key="d1">-20.91968</data>
+  <data key="d2">-45.255901</data>
+  <data key="d3">0.031</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Aguanil">
+  <data key="d0">3100807</data>
+  <data key="d1">-20.973779</data>
+  <data key="d2">-45.422024</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<node id="Cristais">
+  <data key="d0">3120201</data>
+  <data key="d1">-20.811078</data>
+  <data key="d2">-45.557393</data>
+  <data key="d3">0.0</data>
+  <data key="d4">oeste_de_minas</data>
+  <data key="d5">Oeste de Minas</data>
+</node>
+<edge source="São Sebastião do Oeste" target="Cláudio">
+  <data key="d6">32.32</data>
+</edge>
+<edge source="São Sebastião do Oeste" target="Divinópolis">
+  <data key="d6">18.46</data>
+</edge>
+<edge source="São Sebastião do Oeste" target="Itapecerica">
+  <data key="d6">23.84</data>
+</edge>
+<edge source="São Sebastião do Oeste" target="Pedra do Indaiá">
+  <data key="d6">19.72</data>
+</edge>
+<edge source="São Sebastião do Oeste" target="Santo Antônio do Monte">
+  <data key="d6">31.93</data>
+</edge>
+<edge source="Candeias" target="Camacho">
+  <data key="d6">19.43</data>
+</edge>
+<edge source="Candeias" target="Campo Belo">
+  <data key="d6">19.1</data>
+</edge>
+<edge source="Candeias" target="Santana do Jacaré">
+  <data key="d6">27.1</data>
+</edge>
+<edge source="Candeias" target="Cristais">
+  <data key="d6">29.73</data>
+</edge>
+<edge source="Candeias" target="Formiga">
+  <data key="d6">32.76</data>
+</edge>
+<edge source="Candeias" target="Itapecerica">
+  <data key="d6">36.75</data>
+</edge>
+<edge source="Candeias" target="São Francisco de Paula">
+  <data key="d6">29.8</data>
+</edge>
+<edge source="Vargem Bonita" target="Capitólio">
+  <data key="d6">28.35</data>
+</edge>
+<edge source="Vargem Bonita" target="Piumhi">
+  <data key="d6">29.84</data>
+</edge>
+<edge source="Vargem Bonita" target="São Roque de Minas">
+  <data key="d6">32.78</data>
+</edge>
+<edge source="Nova Serrana" target="Conceição do Pará">
+  <data key="d6">13.0</data>
+</edge>
+<edge source="Nova Serrana" target="Divinópolis">
+  <data key="d6">30.37</data>
+</edge>
+<edge source="Nova Serrana" target="Perdigão">
+  <data key="d6">13.11</data>
+</edge>
+<edge source="Nova Serrana" target="São Gonçalo do Pará">
+  <data key="d6">21.07</data>
+</edge>
+<edge source="Santo Antônio do Monte" target="Arcos">
+  <data key="d6">33.05</data>
+</edge>
+<edge source="Santo Antônio do Monte" target="Divinópolis">
+  <data key="d6">38.06</data>
+</edge>
+<edge source="Santo Antônio do Monte" target="Formiga">
+  <data key="d6">57.1</data>
+</edge>
+<edge source="Santo Antônio do Monte" target="Pedra do Indaiá">
+  <data key="d6">23.5</data>
+</edge>
+<edge source="Santo Antônio do Monte" target="Perdigão">
+  <data key="d6">29.16</data>
+</edge>
+<edge source="Piumhi" target="Capitólio">
+  <data key="d6">21.33</data>
+</edge>
+<edge source="Piumhi" target="Doresópolis">
+  <data key="d6">23.78</data>
+</edge>
+<edge source="Piumhi" target="Pains">
+  <data key="d6">37.78</data>
+</edge>
+<edge source="Piumhi" target="Pimenta">
+  <data key="d6">24.89</data>
+</edge>
+<edge source="Piumhi" target="São Roque de Minas">
+  <data key="d6">55.97</data>
+</edge>
+<edge source="São Gonçalo do Pará" target="Carmo do Cajuru">
+  <data key="d6">27.03</data>
+</edge>
+<edge source="São Gonçalo do Pará" target="Conceição do Pará">
+  <data key="d6">22.4</data>
+</edge>
+<edge source="São Gonçalo do Pará" target="Divinópolis">
+  <data key="d6">18.81</data>
+</edge>
+<edge source="São Gonçalo do Pará" target="Igaratinga">
+  <data key="d6">12.08</data>
+</edge>
+<edge source="Cana Verde" target="Campo Belo">
+  <data key="d6">14.52</data>
+</edge>
+<edge source="Cana Verde" target="Perdões">
+  <data key="d6">13.43</data>
+</edge>
+<edge source="Cana Verde" target="Santana do Jacaré">
+  <data key="d6">20.99</data>
+</edge>
+<edge source="Córrego Fundo" target="Arcos">
+  <data key="d6">21.21</data>
+</edge>
+<edge source="Córrego Fundo" target="Formiga">
+  <data key="d6">11.5</data>
+</edge>
+<edge source="Córrego Fundo" target="Pains">
+  <data key="d6">18.54</data>
+</edge>
+<edge source="Santana do Jacaré" target="Campo Belo">
+  <data key="d6">20.56</data>
+</edge>
+<edge source="Santana do Jacaré" target="Perdões">
+  <data key="d6">21.34</data>
+</edge>
+<edge source="Santana do Jacaré" target="Santo Antônio do Amparo">
+  <data key="d6">12.94</data>
+</edge>
+<edge source="Santana do Jacaré" target="São Francisco de Paula">
+  <data key="d6">19.7</data>
+</edge>
+<edge source="Carmópolis de Minas" target="Carmo da Mata">
+  <data key="d6">25.43</data>
+</edge>
+<edge source="Carmópolis de Minas" target="Oliveira">
+  <data key="d6">22.73</data>
+</edge>
+<edge source="Carmópolis de Minas" target="Passa Tempo">
+  <data key="d6">18.96</data>
+</edge>
+<edge source="Carmópolis de Minas" target="Piracema">
+  <data key="d6">23.88</data>
+</edge>
+<edge source="Carmópolis de Minas" target="Cláudio">
+  <data key="d6">22.58</data>
+</edge>
+<edge source="Camacho" target="Formiga">
+  <data key="d6">41.18</data>
+</edge>
+<edge source="Camacho" target="Itapecerica">
+  <data key="d6">20.34</data>
+</edge>
+<edge source="Camacho" target="São Francisco de Paula">
+  <data key="d6">16.53</data>
+</edge>
+<edge source="Capitólio" target="Pimenta">
+  <data key="d6">33.86</data>
+</edge>
+<edge source="Formiga" target="Arcos">
+  <data key="d6">32.7</data>
+</edge>
+<edge source="Formiga" target="Cristais">
+  <data key="d6">28.8</data>
+</edge>
+<edge source="Formiga" target="Itapecerica">
+  <data key="d6">43.87</data>
+</edge>
+<edge source="Formiga" target="Pains">
+  <data key="d6">26.57</data>
+</edge>
+<edge source="Formiga" target="Pedra do Indaiá">
+  <data key="d6">42.06</data>
+</edge>
+<edge source="Formiga" target="Pimenta">
+  <data key="d6">32.93</data>
+</edge>
+<edge source="Itaúna" target="Carmo do Cajuru">
+  <data key="d6">17.59</data>
+</edge>
+<edge source="Itaúna" target="Igaratinga">
+  <data key="d6">19.52</data>
+</edge>
+<edge source="Tapiraí" target="Medeiros">
+  <data key="d6">22.53</data>
+</edge>
+<edge source="Doresópolis" target="Pains">
+  <data key="d6">22.48</data>
+</edge>
+<edge source="Doresópolis" target="Iguatama">
+  <data key="d6">20.54</data>
+</edge>
+<edge source="Bom Sucesso" target="Ibituruna">
+  <data key="d6">15.58</data>
+</edge>
+<edge source="Bom Sucesso" target="Perdões">
+  <data key="d6">29.67</data>
+</edge>
+<edge source="Bom Sucesso" target="Santo Antônio do Amparo">
+  <data key="d6">20.51</data>
+</edge>
+<edge source="Bom Sucesso" target="Oliveira">
+  <data key="d6">31.01</data>
+</edge>
+<edge source="Pimenta" target="Pains">
+  <data key="d6">21.84</data>
+</edge>
+<edge source="Alpinópolis" target="Bom Jesus da Penha">
+  <data key="d6">23.34</data>
+</edge>
+<edge source="Capetinga" target="Cássia">
+  <data key="d6">16.62</data>
+</edge>
+<edge source="Perdões" target="Santo Antônio do Amparo">
+  <data key="d6">21.75</data>
+</edge>
+<edge source="Passa Tempo" target="Oliveira">
+  <data key="d6">27.84</data>
+</edge>
+<edge source="Passa Tempo" target="Piracema">
+  <data key="d6">15.73</data>
+</edge>
+<edge source="Divinópolis" target="Carmo do Cajuru">
+  <data key="d6">25.3</data>
+</edge>
+<edge source="Divinópolis" target="Cláudio">
+  <data key="d6">34.33</data>
+</edge>
+<edge source="Divinópolis" target="Itapecerica">
+  <data key="d6">41.41</data>
+</edge>
+<edge source="Divinópolis" target="Perdigão">
+  <data key="d6">24.27</data>
+</edge>
+<edge source="Santo Antônio do Amparo" target="Oliveira">
+  <data key="d6">28.32</data>
+</edge>
+<edge source="Santo Antônio do Amparo" target="São Francisco de Paula">
+  <data key="d6">22.77</data>
+</edge>
+<edge source="Iguatama" target="Arcos">
+  <data key="d6">24.33</data>
+</edge>
+<edge source="Iguatama" target="Pains">
+  <data key="d6">25.69</data>
+</edge>
+<edge source="Itapecerica" target="Carmo da Mata">
+  <data key="d6">25.16</data>
+</edge>
+<edge source="Itapecerica" target="Cláudio">
+  <data key="d6">35.28</data>
+</edge>
+<edge source="Itapecerica" target="Pedra do Indaiá">
+  <data key="d6">22.83</data>
+</edge>
+<edge source="Itapecerica" target="São Francisco de Paula">
+  <data key="d6">30.87</data>
+</edge>
+<edge source="São Roque de Minas" target="Medeiros">
+  <data key="d6">28.47</data>
+</edge>
+<edge source="Oliveira" target="Carmo da Mata">
+  <data key="d6">26.58</data>
+</edge>
+<edge source="Oliveira" target="São Francisco de Paula">
+  <data key="d6">27.26</data>
+</edge>
+<edge source="Carmo do Cajuru" target="Cláudio">
+  <data key="d6">23.57</data>
+</edge>
+<edge source="Carmo do Cajuru" target="Igaratinga">
+  <data key="d6">27.22</data>
+</edge>
+<edge source="Conceição do Pará" target="Igaratinga">
+  <data key="d6">24.35</data>
+</edge>
+<edge source="Arcos" target="Pains">
+  <data key="d6">20.4</data>
+</edge>
+<edge source="Cláudio" target="Carmo da Mata">
+  <data key="d6">21.65</data>
+</edge>
+<edge source="Carmo da Mata" target="São Francisco de Paula">
+  <data key="d6">20.44</data>
+</edge>
+<edge source="Campo Belo" target="Aguanil">
+  <data key="d6">18.28</data>
+</edge>
+<edge source="Campo Belo" target="Cristais">
+  <data key="d6">33.59</data>
+</edge>
+<edge source="Aguanil" target="Cristais">
+  <data key="d6">22.86</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,1073 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Nova Ponte">
+  <data key="d0">3145000</data>
+  <data key="d1">-19.261203</data>
+  <data key="d2">-47.706874</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Douradoquara">
+  <data key="d0">3123502</data>
+  <data key="d1">-18.437368</data>
+  <data key="d2">-47.604393</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Patrocínio">
+  <data key="d0">3148103</data>
+  <data key="d1">-18.970516</data>
+  <data key="d2">-47.051255</data>
+  <data key="d3">0.017</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Iturama">
+  <data key="d0">3134400</data>
+  <data key="d1">-19.71633</data>
+  <data key="d2">-50.344999</data>
+  <data key="d3">0.042</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Arapuá">
+  <data key="d0">3103801</data>
+  <data key="d1">-19.041452</data>
+  <data key="d2">-46.11529</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Cruzeiro da Fortaleza">
+  <data key="d0">3120706</data>
+  <data key="d1">-18.972246</data>
+  <data key="d2">-46.676172</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Estrela do Sul">
+  <data key="d0">3124807</data>
+  <data key="d1">-18.71513</data>
+  <data key="d2">-47.726423</data>
+  <data key="d3">0.239</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Guimarânia">
+  <data key="d0">3128907</data>
+  <data key="d1">-18.816045</data>
+  <data key="d2">-46.752936</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Matutina">
+  <data key="d0">3141207</data>
+  <data key="d1">-19.193623</data>
+  <data key="d2">-45.995538</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Canápolis">
+  <data key="d0">3111804</data>
+  <data key="d1">-18.757898</data>
+  <data key="d2">-49.271875</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Coromandel">
+  <data key="d0">3119302</data>
+  <data key="d1">-18.413084</data>
+  <data key="d2">-47.136822</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Serra do Salitre">
+  <data key="d0">3166808</data>
+  <data key="d1">-19.159141</data>
+  <data key="d2">-46.654527</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="São Francisco de Sales">
+  <data key="d0">3161304</data>
+  <data key="d1">-19.796752</data>
+  <data key="d2">-49.859426</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Romaria">
+  <data key="d0">3156403</data>
+  <data key="d1">-18.903532</data>
+  <data key="d2">-47.562557</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="São Gotardo">
+  <data key="d0">3162104</data>
+  <data key="d1">-19.35992</data>
+  <data key="d2">-45.999484</data>
+  <data key="d3">0.117</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Uberlândia">
+  <data key="d0">3170206</data>
+  <data key="d1">-19.027771</data>
+  <data key="d2">-48.331737</data>
+  <data key="d3">0.02</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Veríssimo">
+  <data key="d0">3171105</data>
+  <data key="d1">-19.602467</data>
+  <data key="d2">-48.340915</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Carmo do Paranaíba">
+  <data key="d0">3114303</data>
+  <data key="d1">-18.907661</data>
+  <data key="d2">-46.185185</data>
+  <data key="d3">0.056</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Uberaba">
+  <data key="d0">3170107</data>
+  <data key="d1">-19.580931</data>
+  <data key="d2">-47.977162</data>
+  <data key="d3">0.013</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Planura">
+  <data key="d0">3151602</data>
+  <data key="d1">-20.081251</data>
+  <data key="d2">-48.646264</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Monte Alegre de Minas">
+  <data key="d0">3142809</data>
+  <data key="d1">-18.844535</data>
+  <data key="d2">-48.886767</data>
+  <data key="d3">0.08</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Limeira do Oeste">
+  <data key="d0">3138625</data>
+  <data key="d1">-19.407378</data>
+  <data key="d2">-50.647643</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Delta">
+  <data key="d0">3121258</data>
+  <data key="d1">-19.936076</data>
+  <data key="d2">-47.809707</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="União de Minas">
+  <data key="d0">3170438</data>
+  <data key="d1">-19.408437</data>
+  <data key="d2">-50.342952</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Conquista">
+  <data key="d0">3118205</data>
+  <data key="d1">-19.883578</data>
+  <data key="d2">-47.62389</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Perdizes">
+  <data key="d0">3149804</data>
+  <data key="d1">-19.400151</data>
+  <data key="d2">-47.195992</data>
+  <data key="d3">0.178</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Araporã">
+  <data key="d0">3103751</data>
+  <data key="d1">-18.477376</data>
+  <data key="d2">-49.127247</data>
+  <data key="d3">0.188</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Cedro do Abaeté">
+  <data key="d0">3115607</data>
+  <data key="d1">-19.120895</data>
+  <data key="d2">-45.698626</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Paineiras">
+  <data key="d0">3146404</data>
+  <data key="d1">-18.918839</data>
+  <data key="d2">-45.491035</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Sacramento">
+  <data key="d0">3156908</data>
+  <data key="d1">-19.904488</data>
+  <data key="d2">-47.266379</data>
+  <data key="d3">0.124</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Pirajuba">
+  <data key="d0">3150703</data>
+  <data key="d1">-19.940254</data>
+  <data key="d2">-48.65776</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Tiros">
+  <data key="d0">3168903</data>
+  <data key="d1">-18.860057</data>
+  <data key="d2">-45.824077</data>
+  <data key="d3">0.197</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Indianópolis">
+  <data key="d0">3130705</data>
+  <data key="d1">-18.952299</data>
+  <data key="d2">-47.849646</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Campos Altos">
+  <data key="d0">3111507</data>
+  <data key="d1">-19.604858</data>
+  <data key="d2">-46.197051</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Felixlândia">
+  <data key="d0">3125705</data>
+  <data key="d1">-18.703089</data>
+  <data key="d2">-44.958192</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Três Marias">
+  <data key="d0">3169356</data>
+  <data key="d1">-18.297841</data>
+  <data key="d2">-45.069157</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Buenópolis">
+  <data key="d0">3109204</data>
+  <data key="d1">-17.88052</data>
+  <data key="d2">-44.04138</data>
+  <data key="d3">0.177</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Abadia dos Dourados">
+  <data key="d0">3100104</data>
+  <data key="d1">-18.353312</data>
+  <data key="d2">-47.458997</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Fronteira">
+  <data key="d0">3127008</data>
+  <data key="d1">-20.228532</data>
+  <data key="d2">-49.158865</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Biquinhas">
+  <data key="d0">3107000</data>
+  <data key="d1">-18.757144</data>
+  <data key="d2">-45.539513</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Iraí de Minas">
+  <data key="d0">3131604</data>
+  <data key="d1">-19.043933</data>
+  <data key="d2">-47.457509</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Abaeté">
+  <data key="d0">3100203</data>
+  <data key="d1">-19.102749</data>
+  <data key="d2">-45.358675</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Frutal">
+  <data key="d0">3127107</data>
+  <data key="d1">-20.035722</data>
+  <data key="d2">-49.00046</data>
+  <data key="d3">0.025</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Lagoa Formosa">
+  <data key="d0">3137502</data>
+  <data key="d1">-18.769534</data>
+  <data key="d2">-46.336777</data>
+  <data key="d3">0.084</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Pompéu">
+  <data key="d0">3152006</data>
+  <data key="d1">-19.131142</data>
+  <data key="d2">-44.923585</data>
+  <data key="d3">0.053</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Tupaciguara">
+  <data key="d0">3169604</data>
+  <data key="d1">-18.535011</data>
+  <data key="d2">-48.755287</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Corinto">
+  <data key="d0">3119104</data>
+  <data key="d1">-18.335491</data>
+  <data key="d2">-44.617524</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Patos de Minas">
+  <data key="d0">3148004</data>
+  <data key="d1">-18.597042</data>
+  <data key="d2">-46.507727</data>
+  <data key="d3">0.06</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Tapira">
+  <data key="d0">3168101</data>
+  <data key="d1">-19.915843</data>
+  <data key="d2">-46.868282</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Augusto de Lima">
+  <data key="d0">3104809</data>
+  <data key="d1">-18.10884</data>
+  <data key="d2">-44.198057</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Curvelo">
+  <data key="d0">3120904</data>
+  <data key="d1">-18.819908</data>
+  <data key="d2">-44.447885</data>
+  <data key="d3">0.019</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Grupiara">
+  <data key="d0">3127909</data>
+  <data key="d1">-18.488132</data>
+  <data key="d2">-47.760399</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Conceição das Alagoas">
+  <data key="d0">3117306</data>
+  <data key="d1">-19.959758</data>
+  <data key="d2">-48.361478</data>
+  <data key="d3">0.121</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Campina Verde">
+  <data key="d0">3111101</data>
+  <data key="d1">-19.47913</data>
+  <data key="d2">-49.810006</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Centralina">
+  <data key="d0">3115805</data>
+  <data key="d1">-18.632545</data>
+  <data key="d2">-49.162515</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Cascalho Rico">
+  <data key="d0">3115003</data>
+  <data key="d1">-18.568645</data>
+  <data key="d2">-47.876955</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Monte Carmelo">
+  <data key="d0">3143104</data>
+  <data key="d1">-18.70919</data>
+  <data key="d2">-47.46095</data>
+  <data key="d3">0.068</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Morada Nova de Minas">
+  <data key="d0">3143500</data>
+  <data key="d1">-18.578214</data>
+  <data key="d2">-45.402514</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Santa Rosa da Serra">
+  <data key="d0">3159704</data>
+  <data key="d1">-19.562044</data>
+  <data key="d2">-45.999768</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Água Comprida">
+  <data key="d0">3100708</data>
+  <data key="d1">-20.005449</data>
+  <data key="d2">-48.084206</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Pedrinópolis">
+  <data key="d0">3149200</data>
+  <data key="d1">-19.192253</data>
+  <data key="d2">-47.510277</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Itapagipe">
+  <data key="d0">3133402</data>
+  <data key="d1">-19.794853</data>
+  <data key="d2">-49.423455</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Ibiá">
+  <data key="d0">3129509</data>
+  <data key="d1">-19.557869</data>
+  <data key="d2">-46.595757</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Inimutaba">
+  <data key="d0">3131109</data>
+  <data key="d1">-18.730259</data>
+  <data key="d2">-44.291918</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Rio Paranaíba">
+  <data key="d0">3155504</data>
+  <data key="d1">-19.240005</data>
+  <data key="d2">-46.29892</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Comendador Gomes">
+  <data key="d0">3116902</data>
+  <data key="d1">-19.672183</data>
+  <data key="d2">-49.070931</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Campo Florido">
+  <data key="d0">3111408</data>
+  <data key="d1">-19.713413</data>
+  <data key="d2">-48.647837</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Santa Juliana">
+  <data key="d0">3157708</data>
+  <data key="d1">-19.380275</data>
+  <data key="d2">-47.509102</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Araxá">
+  <data key="d0">3104007</data>
+  <data key="d1">-19.636397</data>
+  <data key="d2">-46.972146</data>
+  <data key="d3">0.028</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Pratinha">
+  <data key="d0">3153004</data>
+  <data key="d1">-19.759764</data>
+  <data key="d2">-46.40257</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Prata">
+  <data key="d0">3152808</data>
+  <data key="d1">-19.329876</data>
+  <data key="d2">-48.954197</data>
+  <data key="d3">0.056</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Carneirinho">
+  <data key="d0">3114550</data>
+  <data key="d1">-19.75024</data>
+  <data key="d2">-50.829818</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<node id="Joaquim Felício">
+  <data key="d0">3136405</data>
+  <data key="d1">-17.676046</data>
+  <data key="d2">-44.111582</data>
+  <data key="d3">0.0</data>
+  <data key="d4">triangulo_mineiro_alto_paranaiba</data>
+  <data key="d5">Triângulo Mineiro / Alto Paranaíba</data>
+</node>
+<edge source="Nova Ponte" target="Estrela do Sul">
+  <data key="d6">60.5</data>
+</edge>
+<edge source="Nova Ponte" target="Indianópolis">
+  <data key="d6">37.36</data>
+</edge>
+<edge source="Nova Ponte" target="Iraí de Minas">
+  <data key="d6">35.6</data>
+</edge>
+<edge source="Nova Ponte" target="Sacramento">
+  <data key="d6">84.91</data>
+</edge>
+<edge source="Nova Ponte" target="Uberaba">
+  <data key="d6">45.4</data>
+</edge>
+<edge source="Nova Ponte" target="Santa Juliana">
+  <data key="d6">24.63</data>
+</edge>
+<edge source="Nova Ponte" target="Pedrinópolis">
+  <data key="d6">22.04</data>
+</edge>
+<edge source="Nova Ponte" target="Romaria">
+  <data key="d6">42.41</data>
+</edge>
+<edge source="Douradoquara" target="Abadia dos Dourados">
+  <data key="d6">17.97</data>
+</edge>
+<edge source="Douradoquara" target="Monte Carmelo">
+  <data key="d6">33.69</data>
+</edge>
+<edge source="Douradoquara" target="Grupiara">
+  <data key="d6">17.42</data>
+</edge>
+<edge source="Patrocínio" target="Coromandel">
+  <data key="d6">62.39</data>
+</edge>
+<edge source="Patrocínio" target="Cruzeiro da Fortaleza">
+  <data key="d6">39.51</data>
+</edge>
+<edge source="Patrocínio" target="Guimarânia">
+  <data key="d6">35.78</data>
+</edge>
+<edge source="Patrocínio" target="Iraí de Minas">
+  <data key="d6">43.55</data>
+</edge>
+<edge source="Patrocínio" target="Monte Carmelo">
+  <data key="d6">52.0</data>
+</edge>
+<edge source="Patrocínio" target="Perdizes">
+  <data key="d6">49.94</data>
+</edge>
+<edge source="Patrocínio" target="Serra do Salitre">
+  <data key="d6">46.7</data>
+</edge>
+<edge source="Iturama" target="Campina Verde">
+  <data key="d6">62.15</data>
+</edge>
+<edge source="Iturama" target="Carneirinho">
+  <data key="d6">51.14</data>
+</edge>
+<edge source="Iturama" target="São Francisco de Sales">
+  <data key="d6">51.84</data>
+</edge>
+<edge source="Iturama" target="Limeira do Oeste">
+  <data key="d6">46.84</data>
+</edge>
+<edge source="Iturama" target="União de Minas">
+  <data key="d6">34.21</data>
+</edge>
+<edge source="Arapuá" target="Rio Paranaíba">
+  <data key="d6">29.26</data>
+</edge>
+<edge source="Arapuá" target="Matutina">
+  <data key="d6">21.03</data>
+</edge>
+<edge source="Arapuá" target="Carmo do Paranaíba">
+  <data key="d6">16.53</data>
+</edge>
+<edge source="Arapuá" target="Tiros">
+  <data key="d6">36.67</data>
+</edge>
+<edge source="Cruzeiro da Fortaleza" target="Serra do Salitre">
+  <data key="d6">20.81</data>
+</edge>
+<edge source="Cruzeiro da Fortaleza" target="Guimarânia">
+  <data key="d6">19.09</data>
+</edge>
+<edge source="Cruzeiro da Fortaleza" target="Patos de Minas">
+  <data key="d6">45.15</data>
+</edge>
+<edge source="Estrela do Sul" target="Cascalho Rico">
+  <data key="d6">22.71</data>
+</edge>
+<edge source="Estrela do Sul" target="Indianópolis">
+  <data key="d6">29.31</data>
+</edge>
+<edge source="Estrela do Sul" target="Romaria">
+  <data key="d6">27.1</data>
+</edge>
+<edge source="Estrela do Sul" target="Monte Carmelo">
+  <data key="d6">28.01</data>
+</edge>
+<edge source="Estrela do Sul" target="Grupiara">
+  <data key="d6">25.39</data>
+</edge>
+<edge source="Guimarânia" target="Coromandel">
+  <data key="d6">60.28</data>
+</edge>
+<edge source="Guimarânia" target="Patos de Minas">
+  <data key="d6">35.42</data>
+</edge>
+<edge source="Matutina" target="São Gotardo">
+  <data key="d6">18.41</data>
+</edge>
+<edge source="Matutina" target="Rio Paranaíba">
+  <data key="d6">32.31</data>
+</edge>
+<edge source="Matutina" target="Tiros">
+  <data key="d6">41.11</data>
+</edge>
+<edge source="Canápolis" target="Monte Alegre de Minas">
+  <data key="d6">41.78</data>
+</edge>
+<edge source="Canápolis" target="Centralina">
+  <data key="d6">18.08</data>
+</edge>
+<edge source="Coromandel" target="Abadia dos Dourados">
+  <data key="d6">34.68</data>
+</edge>
+<edge source="Coromandel" target="Monte Carmelo">
+  <data key="d6">47.4</data>
+</edge>
+<edge source="Coromandel" target="Patos de Minas">
+  <data key="d6">69.49</data>
+</edge>
+<edge source="Serra do Salitre" target="Carmo do Paranaíba">
+  <data key="d6">56.71</data>
+</edge>
+<edge source="Serra do Salitre" target="Ibiá">
+  <data key="d6">44.56</data>
+</edge>
+<edge source="Serra do Salitre" target="Patos de Minas">
+  <data key="d6">64.09</data>
+</edge>
+<edge source="Serra do Salitre" target="Perdizes">
+  <data key="d6">62.86</data>
+</edge>
+<edge source="Serra do Salitre" target="Rio Paranaíba">
+  <data key="d6">38.44</data>
+</edge>
+<edge source="São Francisco de Sales" target="Campina Verde">
+  <data key="d6">35.63</data>
+</edge>
+<edge source="São Francisco de Sales" target="Itapagipe">
+  <data key="d6">45.79</data>
+</edge>
+<edge source="Romaria" target="Iraí de Minas">
+  <data key="d6">19.09</data>
+</edge>
+<edge source="Romaria" target="Monte Carmelo">
+  <data key="d6">24.05</data>
+</edge>
+<edge source="São Gotardo" target="Campos Altos">
+  <data key="d6">34.13</data>
+</edge>
+<edge source="São Gotardo" target="Rio Paranaíba">
+  <data key="d6">34.15</data>
+</edge>
+<edge source="São Gotardo" target="Santa Rosa da Serra">
+  <data key="d6">22.37</data>
+</edge>
+<edge source="São Gotardo" target="Tiros">
+  <data key="d6">58.33</data>
+</edge>
+<edge source="Uberlândia" target="Indianópolis">
+  <data key="d6">51.5</data>
+</edge>
+<edge source="Uberlândia" target="Monte Alegre de Minas">
+  <data key="d6">61.97</data>
+</edge>
+<edge source="Uberlândia" target="Prata">
+  <data key="d6">73.64</data>
+</edge>
+<edge source="Uberlândia" target="Tupaciguara">
+  <data key="d6">70.59</data>
+</edge>
+<edge source="Uberlândia" target="Uberaba">
+  <data key="d6">71.73</data>
+</edge>
+<edge source="Uberlândia" target="Veríssimo">
+  <data key="d6">63.7</data>
+</edge>
+<edge source="Veríssimo" target="Campo Florido">
+  <data key="d6">34.5</data>
+</edge>
+<edge source="Veríssimo" target="Conceição das Alagoas">
+  <data key="d6">39.66</data>
+</edge>
+<edge source="Veríssimo" target="Prata">
+  <data key="d6">71.23</data>
+</edge>
+<edge source="Veríssimo" target="Uberaba">
+  <data key="d6">38.26</data>
+</edge>
+<edge source="Carmo do Paranaíba" target="Rio Paranaíba">
+  <data key="d6">38.68</data>
+</edge>
+<edge source="Carmo do Paranaíba" target="Tiros">
+  <data key="d6">38.4</data>
+</edge>
+<edge source="Carmo do Paranaíba" target="Lagoa Formosa">
+  <data key="d6">22.12</data>
+</edge>
+<edge source="Carmo do Paranaíba" target="Patos de Minas">
+  <data key="d6">48.38</data>
+</edge>
+<edge source="Uberaba" target="Água Comprida">
+  <data key="d6">48.38</data>
+</edge>
+<edge source="Uberaba" target="Conceição das Alagoas">
+  <data key="d6">58.21</data>
+</edge>
+<edge source="Uberaba" target="Conquista">
+  <data key="d6">50.0</data>
+</edge>
+<edge source="Uberaba" target="Delta">
+  <data key="d6">43.12</data>
+</edge>
+<edge source="Uberaba" target="Indianópolis">
+  <data key="d6">70.9</data>
+</edge>
+<edge source="Uberaba" target="Sacramento">
+  <data key="d6">82.7</data>
+</edge>
+<edge source="Planura" target="Conceição das Alagoas">
+  <data key="d6">32.73</data>
+</edge>
+<edge source="Planura" target="Frutal">
+  <data key="d6">37.46</data>
+</edge>
+<edge source="Planura" target="Pirajuba">
+  <data key="d6">15.68</data>
+</edge>
+<edge source="Monte Alegre de Minas" target="Araporã">
+  <data key="d6">47.99</data>
+</edge>
+<edge source="Monte Alegre de Minas" target="Centralina">
+  <data key="d6">37.43</data>
+</edge>
+<edge source="Monte Alegre de Minas" target="Prata">
+  <data key="d6">54.29</data>
+</edge>
+<edge source="Monte Alegre de Minas" target="Tupaciguara">
+  <data key="d6">37.02</data>
+</edge>
+<edge source="Limeira do Oeste" target="Carneirinho">
+  <data key="d6">42.67</data>
+</edge>
+<edge source="Limeira do Oeste" target="União de Minas">
+  <data key="d6">32.13</data>
+</edge>
+<edge source="Delta" target="Conquista">
+  <data key="d6">20.32</data>
+</edge>
+<edge source="União de Minas" target="Campina Verde">
+  <data key="d6">56.68</data>
+</edge>
+<edge source="Conquista" target="Sacramento">
+  <data key="d6">37.49</data>
+</edge>
+<edge source="Perdizes" target="Araxá">
+  <data key="d6">35.16</data>
+</edge>
+<edge source="Perdizes" target="Ibiá">
+  <data key="d6">65.39</data>
+</edge>
+<edge source="Perdizes" target="Iraí de Minas">
+  <data key="d6">48.09</data>
+</edge>
+<edge source="Perdizes" target="Pedrinópolis">
+  <data key="d6">40.27</data>
+</edge>
+<edge source="Perdizes" target="Sacramento">
+  <data key="d6">56.32</data>
+</edge>
+<edge source="Perdizes" target="Santa Juliana">
+  <data key="d6">32.98</data>
+</edge>
+<edge source="Araporã" target="Centralina">
+  <data key="d6">17.61</data>
+</edge>
+<edge source="Araporã" target="Tupaciguara">
+  <data key="d6">39.85</data>
+</edge>
+<edge source="Cedro do Abaeté" target="Abaeté">
+  <data key="d6">35.81</data>
+</edge>
+<edge source="Cedro do Abaeté" target="Paineiras">
+  <data key="d6">31.26</data>
+</edge>
+<edge source="Cedro do Abaeté" target="Tiros">
+  <data key="d6">31.75</data>
+</edge>
+<edge source="Paineiras" target="Abaeté">
+  <data key="d6">24.66</data>
+</edge>
+<edge source="Paineiras" target="Biquinhas">
+  <data key="d6">18.61</data>
+</edge>
+<edge source="Paineiras" target="Morada Nova de Minas">
+  <data key="d6">38.84</data>
+</edge>
+<edge source="Paineiras" target="Tiros">
+  <data key="d6">35.66</data>
+</edge>
+<edge source="Paineiras" target="Pompéu">
+  <data key="d6">64.16</data>
+</edge>
+<edge source="Sacramento" target="Araxá">
+  <data key="d6">42.82</data>
+</edge>
+<edge source="Sacramento" target="Tapira">
+  <data key="d6">41.74</data>
+</edge>
+<edge source="Sacramento" target="Santa Juliana">
+  <data key="d6">63.37</data>
+</edge>
+<edge source="Pirajuba" target="Campo Florido">
+  <data key="d6">25.17</data>
+</edge>
+<edge source="Pirajuba" target="Conceição das Alagoas">
+  <data key="d6">31.13</data>
+</edge>
+<edge source="Pirajuba" target="Frutal">
+  <data key="d6">37.45</data>
+</edge>
+<edge source="Tiros" target="Biquinhas">
+  <data key="d6">32.05</data>
+</edge>
+<edge source="Tiros" target="Morada Nova de Minas">
+  <data key="d6">54.27</data>
+</edge>
+<edge source="Tiros" target="Patos de Minas">
+  <data key="d6">77.76</data>
+</edge>
+<edge source="Campos Altos" target="Pratinha">
+  <data key="d6">27.54</data>
+</edge>
+<edge source="Campos Altos" target="Santa Rosa da Serra">
+  <data key="d6">21.23</data>
+</edge>
+<edge source="Campos Altos" target="Rio Paranaíba">
+  <data key="d6">41.77</data>
+</edge>
+<edge source="Campos Altos" target="Ibiá">
+  <data key="d6">42.15</data>
+</edge>
+<edge source="Felixlândia" target="Corinto">
+  <data key="d6">54.3</data>
+</edge>
+<edge source="Felixlândia" target="Curvelo">
+  <data key="d6">55.34</data>
+</edge>
+<edge source="Felixlândia" target="Morada Nova de Minas">
+  <data key="d6">48.87</data>
+</edge>
+<edge source="Felixlândia" target="Pompéu">
+  <data key="d6">47.49</data>
+</edge>
+<edge source="Felixlândia" target="Três Marias">
+  <data key="d6">46.35</data>
+</edge>
+<edge source="Três Marias" target="Corinto">
+  <data key="d6">47.91</data>
+</edge>
+<edge source="Três Marias" target="Morada Nova de Minas">
+  <data key="d6">46.93</data>
+</edge>
+<edge source="Buenópolis" target="Augusto de Lima">
+  <data key="d6">30.23</data>
+</edge>
+<edge source="Buenópolis" target="Joaquim Felício">
+  <data key="d6">23.82</data>
+</edge>
+<edge source="Abadia dos Dourados" target="Monte Carmelo">
+  <data key="d6">39.4</data>
+</edge>
+<edge source="Fronteira" target="Frutal">
+  <data key="d6">27.07</data>
+</edge>
+<edge source="Biquinhas" target="Morada Nova de Minas">
+  <data key="d6">24.52</data>
+</edge>
+<edge source="Iraí de Minas" target="Pedrinópolis">
+  <data key="d6">17.34</data>
+</edge>
+<edge source="Iraí de Minas" target="Monte Carmelo">
+  <data key="d6">37.08</data>
+</edge>
+<edge source="Abaeté" target="Pompéu">
+  <data key="d6">45.86</data>
+</edge>
+<edge source="Frutal" target="Campo Florido">
+  <data key="d6">51.43</data>
+</edge>
+<edge source="Frutal" target="Comendador Gomes">
+  <data key="d6">40.98</data>
+</edge>
+<edge source="Frutal" target="Itapagipe">
+  <data key="d6">51.8</data>
+</edge>
+<edge source="Lagoa Formosa" target="Patos de Minas">
+  <data key="d6">26.27</data>
+</edge>
+<edge source="Pompéu" target="Curvelo">
+  <data key="d6">60.8</data>
+</edge>
+<edge source="Pompéu" target="Morada Nova de Minas">
+  <data key="d6">79.3</data>
+</edge>
+<edge source="Corinto" target="Augusto de Lima">
+  <data key="d6">50.94</data>
+</edge>
+<edge source="Corinto" target="Curvelo">
+  <data key="d6">56.5</data>
+</edge>
+<edge source="Tapira" target="Araxá">
+  <data key="d6">32.8</data>
+</edge>
+<edge source="Tapira" target="Ibiá">
+  <data key="d6">48.86</data>
+</edge>
+<edge source="Curvelo" target="Inimutaba">
+  <data key="d6">19.17</data>
+</edge>
+<edge source="Grupiara" target="Cascalho Rico">
+  <data key="d6">15.2</data>
+</edge>
+<edge source="Grupiara" target="Monte Carmelo">
+  <data key="d6">39.98</data>
+</edge>
+<edge source="Conceição das Alagoas" target="Água Comprida">
+  <data key="d6">29.49</data>
+</edge>
+<edge source="Conceição das Alagoas" target="Campo Florido">
+  <data key="d6">40.59</data>
+</edge>
+<edge source="Campina Verde" target="Itapagipe">
+  <data key="d6">53.66</data>
+</edge>
+<edge source="Campina Verde" target="Comendador Gomes">
+  <data key="d6">80.62</data>
+</edge>
+<edge source="Campina Verde" target="Prata">
+  <data key="d6">91.59</data>
+</edge>
+<edge source="Pedrinópolis" target="Santa Juliana">
+  <data key="d6">20.82</data>
+</edge>
+<edge source="Itapagipe" target="Comendador Gomes">
+  <data key="d6">39.44</data>
+</edge>
+<edge source="Ibiá" target="Araxá">
+  <data key="d6">40.44</data>
+</edge>
+<edge source="Ibiá" target="Pratinha">
+  <data key="d6">30.17</data>
+</edge>
+<edge source="Ibiá" target="Rio Paranaíba">
+  <data key="d6">47.0</data>
+</edge>
+<edge source="Comendador Gomes" target="Campo Florido">
+  <data key="d6">44.67</data>
+</edge>
+<edge source="Comendador Gomes" target="Prata">
+  <data key="d6">39.89</data>
+</edge>
+<edge source="Campo Florido" target="Prata">
+  <data key="d6">53.36</data>
+</edge>
+</graph></graphml>

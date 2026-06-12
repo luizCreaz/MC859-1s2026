@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="rodovias" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Santa Helena de Minas">
+  <data key="d0">3157658</data>
+  <data key="d1">-16.901978</data>
+  <data key="d2">-40.658836</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Gurinhatã">
+  <data key="d0">3129103</data>
+  <data key="d1">-19.098365</data>
+  <data key="d2">-49.870091</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Setubinha">
+  <data key="d0">3165552</data>
+  <data key="d1">-17.6225</data>
+  <data key="d2">-42.156822</data>
+  <data key="d3">0.164</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Ituiutaba">
+  <data key="d0">3134202</data>
+  <data key="d1">-18.992644</data>
+  <data key="d2">-49.544208</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Capinópolis">
+  <data key="d0">3112604</data>
+  <data key="d1">-18.687229</data>
+  <data key="d2">-49.581589</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Cachoeira Dourada">
+  <data key="d0">3109808</data>
+  <data key="d1">-18.607331</data>
+  <data key="d2">-49.47892</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Nanuque">
+  <data key="d0">3144300</data>
+  <data key="d1">-17.779288</data>
+  <data key="d2">-40.496944</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Ipiaçu">
+  <data key="d0">3131406</data>
+  <data key="d1">-18.698223</data>
+  <data key="d2">-49.932119</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Teófilo Otoni">
+  <data key="d0">3168606</data>
+  <data key="d1">-17.714603</data>
+  <data key="d2">-41.383655</data>
+  <data key="d3">0.045</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Umburatiba">
+  <data key="d0">3170305</data>
+  <data key="d1">-17.272387</data>
+  <data key="d2">-40.666907</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Machacalis">
+  <data key="d0">3138906</data>
+  <data key="d1">-17.083857</data>
+  <data key="d2">-40.719726</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Carlos Chagas">
+  <data key="d0">3113701</data>
+  <data key="d1">-17.67418</data>
+  <data key="d2">-40.842006</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Serra dos Aimorés">
+  <data key="d0">3166709</data>
+  <data key="d1">-17.78409</data>
+  <data key="d2">-40.264432</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Santa Vitória">
+  <data key="d0">3159803</data>
+  <data key="d1">-18.98947</data>
+  <data key="d2">-50.275245</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Araguari">
+  <data key="d0">3103504</data>
+  <data key="d1">-18.577113</data>
+  <data key="d2">-48.222047</data>
+  <data key="d3">0.013</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Bertópolis">
+  <data key="d0">3106606</data>
+  <data key="d1">-16.97453</data>
+  <data key="d2">-40.574244</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Fronteira dos Vales">
+  <data key="d0">3127057</data>
+  <data key="d1">-16.893867</data>
+  <data key="d2">-40.83541</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Águas Formosas">
+  <data key="d0">3100906</data>
+  <data key="d1">-17.041643</data>
+  <data key="d2">-40.973905</data>
+  <data key="d3">0.087</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<node id="Crisólita">
+  <data key="d0">3120151</data>
+  <data key="d1">-17.240102</data>
+  <data key="d2">-40.961483</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_mucuri</data>
+  <data key="d5">Vale do Mucuri</data>
+</node>
+<edge source="Santa Helena de Minas" target="Bertópolis">
+  <data key="d6">12.1</data>
+  <data key="d7">Estrada para Bom Jesus da Vitória, Estrada para Umburaninha via Reserva Indígena</data>
+</edge>
+<edge source="Santa Helena de Minas" target="Fronteira dos Vales">
+  <data key="d6">18.87</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Santa Helena de Minas" target="Machacalis">
+  <data key="d6">21.19</data>
+  <data key="d7">AMG-900</data>
+</edge>
+<edge source="Gurinhatã" target="Ituiutaba">
+  <data key="d6">36.33</data>
+  <data key="d7">BR-365, DIU-065, s/ref</data>
+</edge>
+<edge source="Gurinhatã" target="Santa Vitória">
+  <data key="d6">44.44</data>
+  <data key="d7">BR-364, BR-365</data>
+</edge>
+<edge source="Ituiutaba" target="Capinópolis">
+  <data key="d6">34.11</data>
+  <data key="d7">BR-154;MGC-154, DIU-205, DIU-215, DIU-322, DSC-381, DSC-396, MG-226</data>
+</edge>
+<edge source="Ituiutaba" target="Ipiaçu">
+  <data key="d6">52.4</data>
+  <data key="d7">DIU-215, MG-226</data>
+</edge>
+<edge source="Capinópolis" target="Cachoeira Dourada">
+  <data key="d6">14.02</data>
+  <data key="d7">BR-154;MGC-154, CNS-310, Estrada Municipal 360, Estrada Municipal 390, MG-226</data>
+</edge>
+<edge source="Nanuque" target="Carlos Chagas">
+  <data key="d6">38.48</data>
+  <data key="d7">BR-418, LMG-718, Rua Antonio Almeida, s/ref</data>
+</edge>
+<edge source="Nanuque" target="Serra dos Aimorés">
+  <data key="d6">24.71</data>
+  <data key="d7">BR-418, Rua Bahia Minas</data>
+</edge>
+<edge source="Teófilo Otoni" target="Carlos Chagas">
+  <data key="d6">57.74</data>
+  <data key="d7">BR-418, TOT-450, s/ref</data>
+</edge>
+<edge source="Umburatiba" target="Bertópolis">
+  <data key="d6">34.49</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Umburatiba" target="Carlos Chagas">
+  <data key="d6">48.29</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Umburatiba" target="Crisólita">
+  <data key="d6">31.59</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Umburatiba" target="Machacalis">
+  <data key="d6">21.66</data>
+  <data key="d7">LMG-686</data>
+</edge>
+<edge source="Machacalis" target="Águas Formosas">
+  <data key="d6">27.51</data>
+  <data key="d7">LMG-682, s/ref</data>
+</edge>
+<edge source="Machacalis" target="Bertópolis">
+  <data key="d6">19.71</data>
+  <data key="d7">LMG-682</data>
+</edge>
+<edge source="Machacalis" target="Fronteira dos Vales">
+  <data key="d6">24.42</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Carlos Chagas" target="Crisólita">
+  <data key="d6">49.77</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Fronteira dos Vales" target="Águas Formosas">
+  <data key="d6">22.07</data>
+  <data key="d7">Estrada dos Pereiras, MG-105</data>
+</edge>
+<edge source="Águas Formosas" target="Crisólita">
+  <data key="d6">22.05</data>
+  <data key="d7">MG-105, s/ref</data>
+</edge>
+</graph></graphml>

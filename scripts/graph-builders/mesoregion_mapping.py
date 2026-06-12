@@ -1,9 +1,3 @@
-"""
-Mesoregion mapping for Minas Gerais municipalities.
-
-Source: data/bronze/ibge/meso-micro-regioes-mg.pdf (IBGE meso/micro regions).
-"""
-
 from __future__ import annotations
 
 import re
@@ -12,8 +6,8 @@ import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
-PDF_PATH = ROOT / "data" / "bronze" / "ibge" / "meso-micro-regioes-mg.pdf"
-MAPPING_CSV_PATH = ROOT / "data" / "bronze" / "ibge" / "mesoregion_municipalities.csv"
+PDF_PATH = ROOT / "data" / "bronze" / "ibge" / "meso-regioes" / "meso-micro-regioes-mg.pdf"
+MAPPING_CSV_PATH = ROOT / "data" / "silver" / "mesoregion_municipalities.csv"
 
 MESOREGION_LABELS = {
     "noroeste_de_minas": "Noroeste de Minas",

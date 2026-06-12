@@ -1,0 +1,1542 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Cantagalo">
+  <data key="d0">3112059</data>
+  <data key="d1">-18.516132</data>
+  <data key="d2">-42.648697</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Governador Valadares">
+  <data key="d0">3127701</data>
+  <data key="d1">-18.783426</data>
+  <data key="d2">-41.963554</data>
+  <data key="d3">0.031</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Resplendor">
+  <data key="d0">3154309</data>
+  <data key="d1">-19.211934</data>
+  <data key="d2">-41.153089</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Santa Rita do Itueto">
+  <data key="d0">3159506</data>
+  <data key="d1">-19.412808</data>
+  <data key="d2">-41.388686</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Piedade de Caratinga">
+  <data key="d0">3150158</data>
+  <data key="d1">-19.763027</data>
+  <data key="d2">-42.044714</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Dom Cavati">
+  <data key="d0">3122504</data>
+  <data key="d1">-19.385972</data>
+  <data key="d2">-42.091233</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Dores de Guanhães">
+  <data key="d0">3123106</data>
+  <data key="d1">-19.054017</data>
+  <data key="d2">-42.931109</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São João do Manteninha">
+  <data key="d0">3162575</data>
+  <data key="d1">-18.75262</data>
+  <data key="d2">-41.164358</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Antônio Dias">
+  <data key="d0">3103009</data>
+  <data key="d1">-19.567066</data>
+  <data key="d2">-42.876357</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Joanésia">
+  <data key="d0">3136108</data>
+  <data key="d1">-19.209624</data>
+  <data key="d2">-42.704367</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Mutum">
+  <data key="d0">3144003</data>
+  <data key="d1">-19.919233</data>
+  <data key="d2">-41.446914</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Fernandes Tourinho">
+  <data key="d0">3125804</data>
+  <data key="d1">-19.101903</data>
+  <data key="d2">-42.096548</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Bom Jesus do Galho">
+  <data key="d0">3107802</data>
+  <data key="d1">-19.742309</data>
+  <data key="d2">-42.351041</data>
+  <data key="d3">0.109</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Bambuí">
+  <data key="d0">3105103</data>
+  <data key="d1">-20.110955</data>
+  <data key="d2">-45.998876</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Materlândia">
+  <data key="d0">3140605</data>
+  <data key="d1">-18.461265</data>
+  <data key="d2">-43.046879</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Itabirinha">
+  <data key="d0">3131802</data>
+  <data key="d1">-18.549193</data>
+  <data key="d2">-41.244619</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Sardoá">
+  <data key="d0">3165503</data>
+  <data key="d1">-18.775481</data>
+  <data key="d2">-42.407048</data>
+  <data key="d3">0.336</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São Domingos das Dores">
+  <data key="d0">3160959</data>
+  <data key="d1">-19.524607</data>
+  <data key="d2">-42.030864</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Ipatinga">
+  <data key="d0">3131307</data>
+  <data key="d1">-19.438973</data>
+  <data key="d2">-42.600922</data>
+  <data key="d3">0.023</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Nacip Raydan">
+  <data key="d0">3144201</data>
+  <data key="d1">-18.480623</data>
+  <data key="d2">-42.187975</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Caratinga">
+  <data key="d0">3113404</data>
+  <data key="d1">-19.71213</data>
+  <data key="d2">-42.101956</data>
+  <data key="d3">0.055</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Tarumirim">
+  <data key="d0">3168408</data>
+  <data key="d1">-19.301466</data>
+  <data key="d2">-41.901917</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Vargem Alegre">
+  <data key="d0">3170578</data>
+  <data key="d1">-19.60368</data>
+  <data key="d2">-42.321296</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Água Boa">
+  <data key="d0">3100609</data>
+  <data key="d1">-18.027265</data>
+  <data key="d2">-42.275932</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Gonzaga">
+  <data key="d0">3127503</data>
+  <data key="d1">-18.873871</data>
+  <data key="d2">-42.505095</data>
+  <data key="d3">0.309</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Frei Lagonegro">
+  <data key="d0">3126950</data>
+  <data key="d1">-18.143403</data>
+  <data key="d2">-42.755873</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Coroaci">
+  <data key="d0">3119203</data>
+  <data key="d1">-18.616931</data>
+  <data key="d2">-42.268611</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Virginópolis">
+  <data key="d0">3171808</data>
+  <data key="d1">-18.791881</data>
+  <data key="d2">-42.670291</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Naque">
+  <data key="d0">3144359</data>
+  <data key="d1">-19.181098</data>
+  <data key="d2">-42.324449</data>
+  <data key="d3">0.253</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Goiabeira">
+  <data key="d0">3127370</data>
+  <data key="d1">-19.021938</data>
+  <data key="d2">-41.236066</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Coronel Fabriciano">
+  <data key="d0">3119401</data>
+  <data key="d1">-19.458587</data>
+  <data key="d2">-42.689925</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Belo Oriente">
+  <data key="d0">3106309</data>
+  <data key="d1">-19.259416</data>
+  <data key="d2">-42.450417</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Engenheiro Caldas">
+  <data key="d0">3123700</data>
+  <data key="d1">-19.128019</data>
+  <data key="d2">-42.019256</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Inhapim">
+  <data key="d0">3130903</data>
+  <data key="d1">-19.498631</data>
+  <data key="d2">-41.966914</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Paulistas">
+  <data key="d0">3148400</data>
+  <data key="d1">-18.458201</data>
+  <data key="d2">-42.865273</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São Pedro do Suaçuí">
+  <data key="d0">3164100</data>
+  <data key="d1">-18.34789</data>
+  <data key="d2">-42.592629</data>
+  <data key="d3">0.314</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Tumiritinga">
+  <data key="d0">3169505</data>
+  <data key="d1">-19.015004</data>
+  <data key="d2">-41.705497</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Jampruca">
+  <data key="d0">3135076</data>
+  <data key="d1">-18.464006</data>
+  <data key="d2">-41.740318</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Santa Efigênia de Minas">
+  <data key="d0">3157500</data>
+  <data key="d1">-18.862834</data>
+  <data key="d2">-42.40434</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São João Evangelista">
+  <data key="d0">3162807</data>
+  <data key="d1">-18.513626</data>
+  <data key="d2">-42.775599</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Campanário">
+  <data key="d0">3110806</data>
+  <data key="d1">-18.283969</data>
+  <data key="d2">-41.734418</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Ipanema">
+  <data key="d0">3131208</data>
+  <data key="d1">-19.7578</data>
+  <data key="d2">-41.749355</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Pocrane">
+  <data key="d0">3151909</data>
+  <data key="d1">-19.58495</data>
+  <data key="d2">-41.557151</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Peçanha">
+  <data key="d0">3148608</data>
+  <data key="d1">-18.55706</data>
+  <data key="d2">-42.510363</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São Sebastião do Anta">
+  <data key="d0">3164472</data>
+  <data key="d1">-19.507236</data>
+  <data key="d2">-41.957316</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Sabinópolis">
+  <data key="d0">3156809</data>
+  <data key="d1">-18.650898</data>
+  <data key="d2">-43.063516</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Santa Maria do Suaçuí">
+  <data key="d0">3158201</data>
+  <data key="d1">-18.258483</data>
+  <data key="d2">-42.324348</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São Geraldo do Baixio">
+  <data key="d0">3161650</data>
+  <data key="d1">-18.916808</data>
+  <data key="d2">-41.366864</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Periquito">
+  <data key="d0">3149952</data>
+  <data key="d1">-19.084232</data>
+  <data key="d2">-42.231826</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Marilac">
+  <data key="d0">3140100</data>
+  <data key="d1">-18.493979</data>
+  <data key="d2">-42.074048</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Itueta">
+  <data key="d0">3134103</data>
+  <data key="d1">-19.372696</data>
+  <data key="d2">-41.103853</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Ipaba">
+  <data key="d0">3131158</data>
+  <data key="d1">-19.408841</data>
+  <data key="d2">-42.370798</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São Sebastião do Maranhão">
+  <data key="d0">3164506</data>
+  <data key="d1">-18.059732</data>
+  <data key="d2">-42.541183</data>
+  <data key="d3">0.162</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Santana do Paraíso">
+  <data key="d0">3158953</data>
+  <data key="d1">-19.38507</data>
+  <data key="d2">-42.520474</data>
+  <data key="d3">0.086</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Córrego Danta">
+  <data key="d0">3119807</data>
+  <data key="d1">-19.781585</data>
+  <data key="d2">-45.982882</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Sobrália">
+  <data key="d0">3167707</data>
+  <data key="d1">-19.21823</data>
+  <data key="d2">-42.145858</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="José Raydan">
+  <data key="d0">3136553</data>
+  <data key="d1">-18.247174</data>
+  <data key="d2">-42.480144</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Aimorés">
+  <data key="d0">3101102</data>
+  <data key="d1">-19.625176</data>
+  <data key="d2">-41.21394</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Mesquita">
+  <data key="d0">3141702</data>
+  <data key="d1">-19.247951</data>
+  <data key="d2">-42.612132</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Timóteo">
+  <data key="d0">3168705</data>
+  <data key="d1">-19.558007</data>
+  <data key="d2">-42.60263</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Iapu">
+  <data key="d0">3129301</data>
+  <data key="d1">-19.347139</data>
+  <data key="d2">-42.242766</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Divino das Laranjeiras">
+  <data key="d0">3122108</data>
+  <data key="d1">-18.712453</data>
+  <data key="d2">-41.506988</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Itambacuri">
+  <data key="d0">3132701</data>
+  <data key="d1">-18.159125</data>
+  <data key="d2">-41.846207</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Senhora do Porto">
+  <data key="d0">3166105</data>
+  <data key="d1">-18.913206</data>
+  <data key="d2">-43.080527</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Nova Belém">
+  <data key="d0">3144672</data>
+  <data key="d1">-18.48817</data>
+  <data key="d2">-41.102037</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Santa Rita de Minas">
+  <data key="d0">3159357</data>
+  <data key="d1">-19.875037</data>
+  <data key="d2">-42.123265</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Ubaporanga">
+  <data key="d0">3170057</data>
+  <data key="d1">-19.660522</data>
+  <data key="d2">-42.069942</data>
+  <data key="d3">0.125</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Guanhães">
+  <data key="d0">3128006</data>
+  <data key="d1">-18.833671</data>
+  <data key="d2">-42.853182</data>
+  <data key="d3">0.101</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Frei Inocêncio">
+  <data key="d0">3126901</data>
+  <data key="d1">-18.519728</data>
+  <data key="d2">-41.87919</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Pingo-d'Água">
+  <data key="d0">3150539</data>
+  <data key="d1">-19.743406</data>
+  <data key="d2">-42.421844</data>
+  <data key="d3">0.34</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Conselheiro Pena">
+  <data key="d0">3118403</data>
+  <data key="d1">-19.170198</data>
+  <data key="d2">-41.456718</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São José da Safira">
+  <data key="d0">3163003</data>
+  <data key="d1">-18.317512</data>
+  <data key="d2">-42.123353</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Nova Módica">
+  <data key="d0">3144904</data>
+  <data key="d1">-18.45256</data>
+  <data key="d2">-41.522409</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Galiléia">
+  <data key="d0">3127305</data>
+  <data key="d1">-18.880239</data>
+  <data key="d2">-41.545139</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Córrego Novo">
+  <data key="d0">3120003</data>
+  <data key="d1">-19.830499</data>
+  <data key="d2">-42.44572</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Mantena">
+  <data key="d0">3139607</data>
+  <data key="d1">-18.684919</data>
+  <data key="d2">-41.080869</data>
+  <data key="d3">0.061</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Conceição de Ipanema">
+  <data key="d0">3117405</data>
+  <data key="d1">-19.91352</data>
+  <data key="d2">-41.686727</data>
+  <data key="d3">0.367</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Itanhomi">
+  <data key="d0">3133204</data>
+  <data key="d1">-19.160957</data>
+  <data key="d2">-41.820332</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Mathias Lobato">
+  <data key="d0">3171501</data>
+  <data key="d1">-18.611134</data>
+  <data key="d2">-41.927182</data>
+  <data key="d3">0.551</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Alpercata">
+  <data key="d0">3101805</data>
+  <data key="d1">-18.983743</data>
+  <data key="d2">-42.019204</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São José do Jacuri">
+  <data key="d0">3163508</data>
+  <data key="d1">-18.242868</data>
+  <data key="d2">-42.668271</data>
+  <data key="d3">0.263</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Marliéria">
+  <data key="d0">3140308</data>
+  <data key="d1">-19.705786</data>
+  <data key="d2">-42.614802</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Jaguaraçu">
+  <data key="d0">3135001</data>
+  <data key="d1">-19.63758</data>
+  <data key="d2">-42.718188</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Mendes Pimentel">
+  <data key="d0">3141504</data>
+  <data key="d1">-18.629316</data>
+  <data key="d2">-41.355834</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Taparuba">
+  <data key="d0">3168051</data>
+  <data key="d1">-19.738614</data>
+  <data key="d2">-41.61156</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Cuparaque">
+  <data key="d0">3120839</data>
+  <data key="d1">-19.009293</data>
+  <data key="d2">-41.12931</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Bugre">
+  <data key="d0">3109253</data>
+  <data key="d1">-19.357673</data>
+  <data key="d2">-42.311</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São Geraldo da Piedade">
+  <data key="d0">3161601</data>
+  <data key="d1">-18.896329</data>
+  <data key="d2">-42.310362</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Virgolândia">
+  <data key="d0">3171907</data>
+  <data key="d1">-18.45167</data>
+  <data key="d2">-42.317546</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Açucena">
+  <data key="d0">3100500</data>
+  <data key="d1">-19.052635</data>
+  <data key="d2">-42.450744</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Entre Folhas">
+  <data key="d0">3123858</data>
+  <data key="d1">-19.655212</data>
+  <data key="d2">-42.241631</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Central de Minas">
+  <data key="d0">3115706</data>
+  <data key="d1">-18.768434</data>
+  <data key="d2">-41.294862</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Imbé de Minas">
+  <data key="d0">3130556</data>
+  <data key="d1">-19.618645</data>
+  <data key="d2">-41.967703</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São Félix de Minas">
+  <data key="d0">3161056</data>
+  <data key="d1">-18.568623</data>
+  <data key="d2">-41.44856</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São João do Oriente">
+  <data key="d0">3162609</data>
+  <data key="d1">-19.353959</data>
+  <data key="d2">-42.170338</data>
+  <data key="d3">0.228</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="São José do Divino">
+  <data key="d0">3163300</data>
+  <data key="d1">-18.39828</data>
+  <data key="d2">-41.37598</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Alvarenga">
+  <data key="d0">3102209</data>
+  <data key="d1">-19.419945</data>
+  <data key="d2">-41.695435</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Pescador">
+  <data key="d0">3150000</data>
+  <data key="d1">-18.331132</data>
+  <data key="d2">-41.560068</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<node id="Capitão Andrade">
+  <data key="d0">3112653</data>
+  <data key="d1">-19.051197</data>
+  <data key="d2">-41.822159</data>
+  <data key="d3">0.0</data>
+  <data key="d4">vale_do_rio_doce</data>
+  <data key="d5">Vale do Rio Doce</data>
+</node>
+<edge source="Cantagalo" target="Peçanha">
+  <data key="d6">15.3</data>
+</edge>
+<edge source="Cantagalo" target="São João Evangelista">
+  <data key="d6">13.41</data>
+</edge>
+<edge source="Cantagalo" target="São Pedro do Suaçuí">
+  <data key="d6">19.55</data>
+</edge>
+<edge source="Governador Valadares" target="Açucena">
+  <data key="d6">59.4</data>
+</edge>
+<edge source="Governador Valadares" target="Alpercata">
+  <data key="d6">22.96</data>
+</edge>
+<edge source="Governador Valadares" target="Coroaci">
+  <data key="d6">37.12</data>
+</edge>
+<edge source="Governador Valadares" target="Divino das Laranjeiras">
+  <data key="d6">48.82</data>
+</edge>
+<edge source="Governador Valadares" target="Fernandes Tourinho">
+  <data key="d6">37.97</data>
+</edge>
+<edge source="Governador Valadares" target="Frei Inocêncio">
+  <data key="d6">30.54</data>
+</edge>
+<edge source="Governador Valadares" target="Galiléia">
+  <data key="d6">45.42</data>
+</edge>
+<edge source="Governador Valadares" target="Tumiritinga">
+  <data key="d6">37.39</data>
+</edge>
+<edge source="Governador Valadares" target="Santa Efigênia de Minas">
+  <data key="d6">47.33</data>
+</edge>
+<edge source="Governador Valadares" target="Sardoá">
+  <data key="d6">46.81</data>
+</edge>
+<edge source="Governador Valadares" target="Periquito">
+  <data key="d6">43.71</data>
+</edge>
+<edge source="Governador Valadares" target="São Geraldo da Piedade">
+  <data key="d6">38.67</data>
+</edge>
+<edge source="Governador Valadares" target="Mathias Lobato">
+  <data key="d6">19.47</data>
+</edge>
+<edge source="Governador Valadares" target="São Félix de Minas">
+  <data key="d6">59.35</data>
+</edge>
+<edge source="Governador Valadares" target="Jampruca">
+  <data key="d6">42.52</data>
+</edge>
+<edge source="Governador Valadares" target="Nova Módica">
+  <data key="d6">59.29</data>
+</edge>
+<edge source="Governador Valadares" target="Marilac">
+  <data key="d6">34.13</data>
+</edge>
+<edge source="Resplendor" target="Conselheiro Pena">
+  <data key="d6">32.3</data>
+</edge>
+<edge source="Resplendor" target="Cuparaque">
+  <data key="d6">22.61</data>
+</edge>
+<edge source="Resplendor" target="Goiabeira">
+  <data key="d6">22.81</data>
+</edge>
+<edge source="Resplendor" target="Itueta">
+  <data key="d6">18.56</data>
+</edge>
+<edge source="Resplendor" target="Santa Rita do Itueto">
+  <data key="d6">33.33</data>
+</edge>
+<edge source="Santa Rita do Itueto" target="Aimorés">
+  <data key="d6">29.86</data>
+</edge>
+<edge source="Santa Rita do Itueto" target="Conselheiro Pena">
+  <data key="d6">27.83</data>
+</edge>
+<edge source="Santa Rita do Itueto" target="Itueta">
+  <data key="d6">30.3</data>
+</edge>
+<edge source="Santa Rita do Itueto" target="Pocrane">
+  <data key="d6">26.03</data>
+</edge>
+<edge source="Piedade de Caratinga" target="Caratinga">
+  <data key="d6">8.24</data>
+</edge>
+<edge source="Piedade de Caratinga" target="Imbé de Minas">
+  <data key="d6">17.92</data>
+</edge>
+<edge source="Piedade de Caratinga" target="Ubaporanga">
+  <data key="d6">11.66</data>
+</edge>
+<edge source="Dom Cavati" target="Inhapim">
+  <data key="d6">18.08</data>
+</edge>
+<edge source="Dom Cavati" target="São João do Oriente">
+  <data key="d6">9.04</data>
+</edge>
+<edge source="Dom Cavati" target="Tarumirim">
+  <data key="d6">22.0</data>
+</edge>
+<edge source="Dores de Guanhães" target="Guanhães">
+  <data key="d6">25.74</data>
+</edge>
+<edge source="Dores de Guanhães" target="Senhora do Porto">
+  <data key="d6">22.15</data>
+</edge>
+<edge source="São João do Manteninha" target="Central de Minas">
+  <data key="d6">13.89</data>
+</edge>
+<edge source="São João do Manteninha" target="Mantena">
+  <data key="d6">11.58</data>
+</edge>
+<edge source="Antônio Dias" target="Jaguaraçu">
+  <data key="d6">18.34</data>
+</edge>
+<edge source="Antônio Dias" target="Timóteo">
+  <data key="d6">28.75</data>
+</edge>
+<edge source="Antônio Dias" target="Coronel Fabriciano">
+  <data key="d6">22.96</data>
+</edge>
+<edge source="Joanésia" target="Açucena">
+  <data key="d6">31.86</data>
+</edge>
+<edge source="Joanésia" target="Coronel Fabriciano">
+  <data key="d6">27.61</data>
+</edge>
+<edge source="Joanésia" target="Mesquita">
+  <data key="d6">10.59</data>
+</edge>
+<edge source="Mutum" target="Aimorés">
+  <data key="d6">40.76</data>
+</edge>
+<edge source="Mutum" target="Conceição de Ipanema">
+  <data key="d6">25.14</data>
+</edge>
+<edge source="Mutum" target="Taparuba">
+  <data key="d6">26.43</data>
+</edge>
+<edge source="Mutum" target="Pocrane">
+  <data key="d6">38.81</data>
+</edge>
+<edge source="Fernandes Tourinho" target="Alpercata">
+  <data key="d6">15.42</data>
+</edge>
+<edge source="Fernandes Tourinho" target="Engenheiro Caldas">
+  <data key="d6">8.64</data>
+</edge>
+<edge source="Fernandes Tourinho" target="Sobrália">
+  <data key="d6">13.89</data>
+</edge>
+<edge source="Fernandes Tourinho" target="Periquito">
+  <data key="d6">14.38</data>
+</edge>
+<edge source="Bom Jesus do Galho" target="Córrego Novo">
+  <data key="d6">13.92</data>
+</edge>
+<edge source="Bom Jesus do Galho" target="Caratinga">
+  <data key="d6">26.33</data>
+</edge>
+<edge source="Bom Jesus do Galho" target="Entre Folhas">
+  <data key="d6">15.0</data>
+</edge>
+<edge source="Bom Jesus do Galho" target="Vargem Alegre">
+  <data key="d6">15.67</data>
+</edge>
+<edge source="Bom Jesus do Galho" target="Pingo-d'Água">
+  <data key="d6">7.42</data>
+</edge>
+<edge source="Bom Jesus do Galho" target="Marliéria">
+  <data key="d6">27.95</data>
+</edge>
+<edge source="Bom Jesus do Galho" target="Timóteo">
+  <data key="d6">33.36</data>
+</edge>
+<edge source="Bambuí" target="Córrego Danta">
+  <data key="d6">36.49</data>
+</edge>
+<edge source="Materlândia" target="Sabinópolis">
+  <data key="d6">21.06</data>
+</edge>
+<edge source="Materlândia" target="Paulistas">
+  <data key="d6">19.19</data>
+</edge>
+<edge source="Itabirinha" target="Mantena">
+  <data key="d6">22.93</data>
+</edge>
+<edge source="Itabirinha" target="Mendes Pimentel">
+  <data key="d6">14.73</data>
+</edge>
+<edge source="Itabirinha" target="Nova Belém">
+  <data key="d6">16.53</data>
+</edge>
+<edge source="Itabirinha" target="São José do Divino">
+  <data key="d6">21.75</data>
+</edge>
+<edge source="Sardoá" target="Coroaci">
+  <data key="d6">22.84</data>
+</edge>
+<edge source="Sardoá" target="Gonzaga">
+  <data key="d6">15.02</data>
+</edge>
+<edge source="Sardoá" target="Peçanha">
+  <data key="d6">26.54</data>
+</edge>
+<edge source="Sardoá" target="Santa Efigênia de Minas">
+  <data key="d6">9.68</data>
+</edge>
+<edge source="Sardoá" target="São Geraldo da Piedade">
+  <data key="d6">16.82</data>
+</edge>
+<edge source="São Domingos das Dores" target="Imbé de Minas">
+  <data key="d6">12.35</data>
+</edge>
+<edge source="São Domingos das Dores" target="Inhapim">
+  <data key="d6">7.31</data>
+</edge>
+<edge source="São Domingos das Dores" target="São Sebastião do Anta">
+  <data key="d6">7.96</data>
+</edge>
+<edge source="Ipatinga" target="Caratinga">
+  <data key="d6">60.48</data>
+</edge>
+<edge source="Ipatinga" target="Coronel Fabriciano">
+  <data key="d6">9.6</data>
+</edge>
+<edge source="Ipatinga" target="Timóteo">
+  <data key="d6">13.18</data>
+</edge>
+<edge source="Ipatinga" target="Santana do Paraíso">
+  <data key="d6">10.35</data>
+</edge>
+<edge source="Ipatinga" target="Mesquita">
+  <data key="d6">21.19</data>
+</edge>
+<edge source="Nacip Raydan" target="Coroaci">
+  <data key="d6">17.34</data>
+</edge>
+<edge source="Nacip Raydan" target="Marilac">
+  <data key="d6">12.13</data>
+</edge>
+<edge source="Nacip Raydan" target="Virgolândia">
+  <data key="d6">14.07</data>
+</edge>
+<edge source="Nacip Raydan" target="São José da Safira">
+  <data key="d6">19.32</data>
+</edge>
+<edge source="Nacip Raydan" target="Santa Maria do Suaçuí">
+  <data key="d6">28.52</data>
+</edge>
+<edge source="Caratinga" target="Bugre">
+  <data key="d6">44.98</data>
+</edge>
+<edge source="Caratinga" target="Santa Rita de Minas">
+  <data key="d6">18.18</data>
+</edge>
+<edge source="Caratinga" target="Ubaporanga">
+  <data key="d6">6.64</data>
+</edge>
+<edge source="Caratinga" target="Entre Folhas">
+  <data key="d6">15.95</data>
+</edge>
+<edge source="Caratinga" target="Imbé de Minas">
+  <data key="d6">17.5</data>
+</edge>
+<edge source="Caratinga" target="Vargem Alegre">
+  <data key="d6">25.95</data>
+</edge>
+<edge source="Caratinga" target="Ipanema">
+  <data key="d6">37.35</data>
+</edge>
+<edge source="Caratinga" target="Timóteo">
+  <data key="d6">55.23</data>
+</edge>
+<edge source="Caratinga" target="Ipaba">
+  <data key="d6">43.88</data>
+</edge>
+<edge source="Caratinga" target="Santana do Paraíso">
+  <data key="d6">56.95</data>
+</edge>
+<edge source="Caratinga" target="Inhapim">
+  <data key="d6">27.59</data>
+</edge>
+<edge source="Caratinga" target="Iapu">
+  <data key="d6">43.06</data>
+</edge>
+<edge source="Tarumirim" target="Alvarenga">
+  <data key="d6">25.38</data>
+</edge>
+<edge source="Tarumirim" target="Conselheiro Pena">
+  <data key="d6">49.09</data>
+</edge>
+<edge source="Tarumirim" target="Engenheiro Caldas">
+  <data key="d6">22.85</data>
+</edge>
+<edge source="Tarumirim" target="Inhapim">
+  <data key="d6">22.89</data>
+</edge>
+<edge source="Tarumirim" target="Itanhomi">
+  <data key="d6">17.78</data>
+</edge>
+<edge source="Tarumirim" target="São João do Oriente">
+  <data key="d6">28.82</data>
+</edge>
+<edge source="Tarumirim" target="Sobrália">
+  <data key="d6">27.27</data>
+</edge>
+<edge source="Vargem Alegre" target="Entre Folhas">
+  <data key="d6">10.12</data>
+</edge>
+<edge source="Água Boa" target="São Sebastião do Maranhão">
+  <data key="d6">28.32</data>
+</edge>
+<edge source="Água Boa" target="São José da Safira">
+  <data key="d6">35.98</data>
+</edge>
+<edge source="Água Boa" target="Santa Maria do Suaçuí">
+  <data key="d6">26.12</data>
+</edge>
+<edge source="Água Boa" target="Itambacuri">
+  <data key="d6">47.83</data>
+</edge>
+<edge source="Gonzaga" target="Açucena">
+  <data key="d6">20.61</data>
+</edge>
+<edge source="Gonzaga" target="Santa Efigênia de Minas">
+  <data key="d6">10.69</data>
+</edge>
+<edge source="Gonzaga" target="Guanhães">
+  <data key="d6">36.97</data>
+</edge>
+<edge source="Gonzaga" target="Virginópolis">
+  <data key="d6">19.64</data>
+</edge>
+<edge source="Frei Lagonegro" target="São José do Jacuri">
+  <data key="d6">14.39</data>
+</edge>
+<edge source="Frei Lagonegro" target="São Sebastião do Maranhão">
+  <data key="d6">24.55</data>
+</edge>
+<edge source="Coroaci" target="Peçanha">
+  <data key="d6">26.38</data>
+</edge>
+<edge source="Coroaci" target="Marilac">
+  <data key="d6">24.66</data>
+</edge>
+<edge source="Coroaci" target="Virgolândia">
+  <data key="d6">19.02</data>
+</edge>
+<edge source="Virginópolis" target="Guanhães">
+  <data key="d6">19.83</data>
+</edge>
+<edge source="Virginópolis" target="Peçanha">
+  <data key="d6">31.0</data>
+</edge>
+<edge source="Naque" target="Açucena">
+  <data key="d6">19.47</data>
+</edge>
+<edge source="Naque" target="Belo Oriente">
+  <data key="d6">15.84</data>
+</edge>
+<edge source="Naque" target="Iapu">
+  <data key="d6">20.29</data>
+</edge>
+<edge source="Naque" target="Periquito">
+  <data key="d6">14.5</data>
+</edge>
+<edge source="Goiabeira" target="Conselheiro Pena">
+  <data key="d6">28.45</data>
+</edge>
+<edge source="Goiabeira" target="Cuparaque">
+  <data key="d6">11.35</data>
+</edge>
+<edge source="Coronel Fabriciano" target="Timóteo">
+  <data key="d6">14.33</data>
+</edge>
+<edge source="Coronel Fabriciano" target="Mesquita">
+  <data key="d6">24.72</data>
+</edge>
+<edge source="Belo Oriente" target="Açucena">
+  <data key="d6">22.9</data>
+</edge>
+<edge source="Belo Oriente" target="Ipaba">
+  <data key="d6">18.55</data>
+</edge>
+<edge source="Belo Oriente" target="Santana do Paraíso">
+  <data key="d6">15.75</data>
+</edge>
+<edge source="Belo Oriente" target="Bugre">
+  <data key="d6">18.26</data>
+</edge>
+<edge source="Belo Oriente" target="Iapu">
+  <data key="d6">23.9</data>
+</edge>
+<edge source="Belo Oriente" target="Mesquita">
+  <data key="d6">17.05</data>
+</edge>
+<edge source="Engenheiro Caldas" target="Alpercata">
+  <data key="d6">15.98</data>
+</edge>
+<edge source="Engenheiro Caldas" target="Capitão Andrade">
+  <data key="d6">22.43</data>
+</edge>
+<edge source="Engenheiro Caldas" target="Sobrália">
+  <data key="d6">16.66</data>
+</edge>
+<edge source="Engenheiro Caldas" target="Itanhomi">
+  <data key="d6">21.26</data>
+</edge>
+<edge source="Inhapim" target="Alvarenga">
+  <data key="d6">29.83</data>
+</edge>
+<edge source="Inhapim" target="Iapu">
+  <data key="d6">33.51</data>
+</edge>
+<edge source="Inhapim" target="Imbé de Minas">
+  <data key="d6">13.29</data>
+</edge>
+<edge source="Inhapim" target="Ubaporanga">
+  <data key="d6">20.94</data>
+</edge>
+<edge source="Inhapim" target="Ipanema">
+  <data key="d6">36.68</data>
+</edge>
+<edge source="Inhapim" target="Pocrane">
+  <data key="d6">44.09</data>
+</edge>
+<edge source="Inhapim" target="São Sebastião do Anta">
+  <data key="d6">1.38</data>
+</edge>
+<edge source="Inhapim" target="São João do Oriente">
+  <data key="d6">26.73</data>
+</edge>
+<edge source="Paulistas" target="São João Evangelista">
+  <data key="d6">11.29</data>
+</edge>
+<edge source="Paulistas" target="Sabinópolis">
+  <data key="d6">29.88</data>
+</edge>
+<edge source="São Pedro do Suaçuí" target="José Raydan">
+  <data key="d6">16.3</data>
+</edge>
+<edge source="São Pedro do Suaçuí" target="Peçanha">
+  <data key="d6">24.73</data>
+</edge>
+<edge source="São Pedro do Suaçuí" target="São João Evangelista">
+  <data key="d6">26.66</data>
+</edge>
+<edge source="São Pedro do Suaçuí" target="São José do Jacuri">
+  <data key="d6">14.12</data>
+</edge>
+<edge source="Tumiritinga" target="Alpercata">
+  <data key="d6">33.24</data>
+</edge>
+<edge source="Tumiritinga" target="Capitão Andrade">
+  <data key="d6">12.93</data>
+</edge>
+<edge source="Tumiritinga" target="Conselheiro Pena">
+  <data key="d6">31.36</data>
+</edge>
+<edge source="Tumiritinga" target="Galiléia">
+  <data key="d6">22.57</data>
+</edge>
+<edge source="Tumiritinga" target="Itanhomi">
+  <data key="d6">20.2</data>
+</edge>
+<edge source="Jampruca" target="Campanário">
+  <data key="d6">19.96</data>
+</edge>
+<edge source="Jampruca" target="Frei Inocêncio">
+  <data key="d6">15.93</data>
+</edge>
+<edge source="Jampruca" target="Itambacuri">
+  <data key="d6">35.59</data>
+</edge>
+<edge source="Jampruca" target="Nova Módica">
+  <data key="d6">23.08</data>
+</edge>
+<edge source="Jampruca" target="Pescador">
+  <data key="d6">24.1</data>
+</edge>
+<edge source="Santa Efigênia de Minas" target="Açucena">
+  <data key="d6">21.58</data>
+</edge>
+<edge source="Santa Efigênia de Minas" target="São Geraldo da Piedade">
+  <data key="d6">10.58</data>
+</edge>
+<edge source="São João Evangelista" target="Guanhães">
+  <data key="d6">36.37</data>
+</edge>
+<edge source="São João Evangelista" target="Peçanha">
+  <data key="d6">28.42</data>
+</edge>
+<edge source="São João Evangelista" target="Sabinópolis">
+  <data key="d6">33.98</data>
+</edge>
+<edge source="São João Evangelista" target="São José do Jacuri">
+  <data key="d6">32.05</data>
+</edge>
+<edge source="Campanário" target="Pescador">
+  <data key="d6">19.18</data>
+</edge>
+<edge source="Campanário" target="Itambacuri">
+  <data key="d6">18.2</data>
+</edge>
+<edge source="Ipanema" target="Conceição de Ipanema">
+  <data key="d6">18.47</data>
+</edge>
+<edge source="Ipanema" target="Taparuba">
+  <data key="d6">14.61</data>
+</edge>
+<edge source="Ipanema" target="Pocrane">
+  <data key="d6">27.82</data>
+</edge>
+<edge source="Pocrane" target="Aimorés">
+  <data key="d6">36.34</data>
+</edge>
+<edge source="Pocrane" target="Alvarenga">
+  <data key="d6">23.36</data>
+</edge>
+<edge source="Pocrane" target="Conselheiro Pena">
+  <data key="d6">47.19</data>
+</edge>
+<edge source="Pocrane" target="Taparuba">
+  <data key="d6">17.96</data>
+</edge>
+<edge source="Peçanha" target="Guanhães">
+  <data key="d6">47.4</data>
+</edge>
+<edge source="Peçanha" target="José Raydan">
+  <data key="d6">34.46</data>
+</edge>
+<edge source="Peçanha" target="Virgolândia">
+  <data key="d6">23.48</data>
+</edge>
+<edge source="Peçanha" target="Santa Maria do Suaçuí">
+  <data key="d6">38.46</data>
+</edge>
+<edge source="São Sebastião do Anta" target="Imbé de Minas">
+  <data key="d6">12.39</data>
+</edge>
+<edge source="Sabinópolis" target="Guanhães">
+  <data key="d6">30.02</data>
+</edge>
+<edge source="Sabinópolis" target="Senhora do Porto">
+  <data key="d6">29.1</data>
+</edge>
+<edge source="Santa Maria do Suaçuí" target="José Raydan">
+  <data key="d6">16.53</data>
+</edge>
+<edge source="Santa Maria do Suaçuí" target="São Sebastião do Maranhão">
+  <data key="d6">31.8</data>
+</edge>
+<edge source="Santa Maria do Suaçuí" target="Virgolândia">
+  <data key="d6">21.41</data>
+</edge>
+<edge source="Santa Maria do Suaçuí" target="São José da Safira">
+  <data key="d6">22.25</data>
+</edge>
+<edge source="São Geraldo do Baixio" target="Central de Minas">
+  <data key="d6">18.12</data>
+</edge>
+<edge source="São Geraldo do Baixio" target="Conselheiro Pena">
+  <data key="d6">29.62</data>
+</edge>
+<edge source="São Geraldo do Baixio" target="Galiléia">
+  <data key="d6">19.24</data>
+</edge>
+<edge source="Periquito" target="Açucena">
+  <data key="d6">23.32</data>
+</edge>
+<edge source="Periquito" target="Iapu">
+  <data key="d6">29.14</data>
+</edge>
+<edge source="Periquito" target="Sobrália">
+  <data key="d6">17.38</data>
+</edge>
+<edge source="Marilac" target="Frei Inocêncio">
+  <data key="d6">20.79</data>
+</edge>
+<edge source="Marilac" target="Itambacuri">
+  <data key="d6">44.26</data>
+</edge>
+<edge source="Marilac" target="Mathias Lobato">
+  <data key="d6">20.23</data>
+</edge>
+<edge source="Marilac" target="São José da Safira">
+  <data key="d6">20.23</data>
+</edge>
+<edge source="Itueta" target="Aimorés">
+  <data key="d6">30.28</data>
+</edge>
+<edge source="Ipaba" target="Bugre">
+  <data key="d6">8.46</data>
+</edge>
+<edge source="Ipaba" target="Santana do Paraíso">
+  <data key="d6">15.95</data>
+</edge>
+<edge source="São Sebastião do Maranhão" target="José Raydan">
+  <data key="d6">21.74</data>
+</edge>
+<edge source="São Sebastião do Maranhão" target="São José do Jacuri">
+  <data key="d6">24.34</data>
+</edge>
+<edge source="Santana do Paraíso" target="Mesquita">
+  <data key="d6">17.98</data>
+</edge>
+<edge source="Sobrália" target="Iapu">
+  <data key="d6">17.54</data>
+</edge>
+<edge source="Sobrália" target="São João do Oriente">
+  <data key="d6">15.25</data>
+</edge>
+<edge source="José Raydan" target="São José do Jacuri">
+  <data key="d6">19.91</data>
+</edge>
+<edge source="Mesquita" target="Açucena">
+  <data key="d6">27.5</data>
+</edge>
+<edge source="Timóteo" target="Jaguaraçu">
+  <data key="d6">14.99</data>
+</edge>
+<edge source="Timóteo" target="Marliéria">
+  <data key="d6">16.41</data>
+</edge>
+<edge source="Iapu" target="Bugre">
+  <data key="d6">7.27</data>
+</edge>
+<edge source="Iapu" target="São João do Oriente">
+  <data key="d6">7.65</data>
+</edge>
+<edge source="Divino das Laranjeiras" target="Central de Minas">
+  <data key="d6">23.24</data>
+</edge>
+<edge source="Divino das Laranjeiras" target="Galiléia">
+  <data key="d6">19.03</data>
+</edge>
+<edge source="Divino das Laranjeiras" target="Mendes Pimentel">
+  <data key="d6">18.44</data>
+</edge>
+<edge source="Divino das Laranjeiras" target="São Félix de Minas">
+  <data key="d6">17.09</data>
+</edge>
+<edge source="Divino das Laranjeiras" target="Nova Módica">
+  <data key="d6">28.85</data>
+</edge>
+<edge source="Itambacuri" target="Frei Inocêncio">
+  <data key="d6">40.11</data>
+</edge>
+<edge source="Itambacuri" target="São José da Safira">
+  <data key="d6">34.2</data>
+</edge>
+<edge source="Senhora do Porto" target="Guanhães">
+  <data key="d6">25.53</data>
+</edge>
+<edge source="Nova Belém" target="Mantena">
+  <data key="d6">21.93</data>
+</edge>
+<edge source="Ubaporanga" target="Imbé de Minas">
+  <data key="d6">11.69</data>
+</edge>
+<edge source="Guanhães" target="Açucena">
+  <data key="d6">48.85</data>
+</edge>
+<edge source="Frei Inocêncio" target="Mathias Lobato">
+  <data key="d6">11.32</data>
+</edge>
+<edge source="Pingo-d'Água" target="Córrego Novo">
+  <data key="d6">9.96</data>
+</edge>
+<edge source="Pingo-d'Água" target="Marliéria">
+  <data key="d6">20.66</data>
+</edge>
+<edge source="Conselheiro Pena" target="Alvarenga">
+  <data key="d6">37.4</data>
+</edge>
+<edge source="Conselheiro Pena" target="Central de Minas">
+  <data key="d6">47.67</data>
+</edge>
+<edge source="Conselheiro Pena" target="Itanhomi">
+  <data key="d6">38.33</data>
+</edge>
+<edge source="Conselheiro Pena" target="Cuparaque">
+  <data key="d6">38.82</data>
+</edge>
+<edge source="Conselheiro Pena" target="Galiléia">
+  <data key="d6">33.45</data>
+</edge>
+<edge source="Nova Módica" target="São Félix de Minas">
+  <data key="d6">15.05</data>
+</edge>
+<edge source="Nova Módica" target="São José do Divino">
+  <data key="d6">16.62</data>
+</edge>
+<edge source="Nova Módica" target="Pescador">
+  <data key="d6">14.03</data>
+</edge>
+<edge source="Galiléia" target="Central de Minas">
+  <data key="d6">29.18</data>
+</edge>
+<edge source="Mantena" target="Central de Minas">
+  <data key="d6">24.42</data>
+</edge>
+<edge source="Mantena" target="Mendes Pimentel">
+  <data key="d6">29.7</data>
+</edge>
+<edge source="Conceição de Ipanema" target="Taparuba">
+  <data key="d6">20.93</data>
+</edge>
+<edge source="Itanhomi" target="Capitão Andrade">
+  <data key="d6">12.16</data>
+</edge>
+<edge source="Alpercata" target="Capitão Andrade">
+  <data key="d6">22.07</data>
+</edge>
+<edge source="Marliéria" target="Jaguaraçu">
+  <data key="d6">13.22</data>
+</edge>
+<edge source="Mendes Pimentel" target="Central de Minas">
+  <data key="d6">16.71</data>
+</edge>
+<edge source="Mendes Pimentel" target="São Félix de Minas">
+  <data key="d6">11.89</data>
+</edge>
+<edge source="Mendes Pimentel" target="São José do Divino">
+  <data key="d6">25.7</data>
+</edge>
+<edge source="São Geraldo da Piedade" target="Açucena">
+  <data key="d6">22.77</data>
+</edge>
+<edge source="São Félix de Minas" target="São José do Divino">
+  <data key="d6">20.38</data>
+</edge>
+<edge source="São José do Divino" target="Pescador">
+  <data key="d6">20.85</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,1602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="rodovias" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Esmeraldas">
+  <data key="d0">3124104</data>
+  <data key="d1">-19.732994</data>
+  <data key="d2">-44.307519</data>
+  <data key="d3">0.047</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Rio Manso">
+  <data key="d0">3155306</data>
+  <data key="d1">-20.267054</data>
+  <data key="d2">-44.344961</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Passabém">
+  <data key="d0">3147501</data>
+  <data key="d1">-19.360287</data>
+  <data key="d2">-43.1753</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Ouro Branco">
+  <data key="d0">3145901</data>
+  <data key="d1">-20.52466</data>
+  <data key="d2">-43.675337</data>
+  <data key="d3">0.082</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Belo Vale">
+  <data key="d0">3106408</data>
+  <data key="d1">-20.424738</data>
+  <data key="d2">-44.059989</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Moeda">
+  <data key="d0">3142304</data>
+  <data key="d1">-20.330108</data>
+  <data key="d2">-43.992115</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Pitangui">
+  <data key="d0">3151404</data>
+  <data key="d1">-19.58779</data>
+  <data key="d2">-44.886452</data>
+  <data key="d3">0.06</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Entre Rios de Minas">
+  <data key="d0">3123908</data>
+  <data key="d1">-20.705156</data>
+  <data key="d2">-44.094823</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Confins">
+  <data key="d0">3117876</data>
+  <data key="d1">-19.642127</data>
+  <data key="d2">-43.97496</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Inhaúma">
+  <data key="d0">3131000</data>
+  <data key="d1">-19.497944</data>
+  <data key="d2">-44.409129</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Funilândia">
+  <data key="d0">3127206</data>
+  <data key="d1">-19.361051</data>
+  <data key="d2">-44.074104</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Sarzedo">
+  <data key="d0">3165537</data>
+  <data key="d1">-20.059145</data>
+  <data key="d2">-44.121043</data>
+  <data key="d3">0.044</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Barão de Cocais">
+  <data key="d0">3105400</data>
+  <data key="d1">-19.891661</data>
+  <data key="d2">-43.495523</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Alvorada de Minas">
+  <data key="d0">3102407</data>
+  <data key="d1">-18.779019</data>
+  <data key="d2">-43.367599</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Brumadinho">
+  <data key="d0">3109006</data>
+  <data key="d1">-20.177826</data>
+  <data key="d2">-44.122676</data>
+  <data key="d3">0.125</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santo Antônio do Itambé">
+  <data key="d0">3160207</data>
+  <data key="d1">-18.478409</data>
+  <data key="d2">-43.266743</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Belo Horizonte">
+  <data key="d0">3106200</data>
+  <data key="d1">-19.902684</data>
+  <data key="d2">-43.959983</data>
+  <data key="d3">0.027</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Congonhas do Norte">
+  <data key="d0">3118106</data>
+  <data key="d1">-18.863357</data>
+  <data key="d2">-43.687167</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São José da Varginha">
+  <data key="d0">3163102</data>
+  <data key="d1">-19.696076</data>
+  <data key="d2">-44.56151</data>
+  <data key="d3">0.365</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Piedade dos Gerais">
+  <data key="d0">3150406</data>
+  <data key="d1">-20.474052</data>
+  <data key="d2">-44.246439</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Lagoa Santa">
+  <data key="d0">3137601</data>
+  <data key="d1">-19.628407</data>
+  <data key="d2">-43.885812</data>
+  <data key="d3">0.045</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Rio Piracicaba">
+  <data key="d0">3155702</data>
+  <data key="d1">-19.970815</data>
+  <data key="d2">-43.149201</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Mateus Leme">
+  <data key="d0">3140704</data>
+  <data key="d1">-20.027283</data>
+  <data key="d2">-44.437498</data>
+  <data key="d3">0.036</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Morro do Pilar">
+  <data key="d0">3143708</data>
+  <data key="d1">-19.235104</data>
+  <data key="d2">-43.402502</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santa Luzia">
+  <data key="d0">3157807</data>
+  <data key="d1">-19.744838</data>
+  <data key="d2">-43.836645</data>
+  <data key="d3">0.038</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Itaverava">
+  <data key="d0">3133907</data>
+  <data key="d1">-20.685227</data>
+  <data key="d2">-43.6129</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santana de Pirapama">
+  <data key="d0">3158508</data>
+  <data key="d1">-18.915768</data>
+  <data key="d2">-43.901122</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Catas Altas da Noruega">
+  <data key="d0">3115409</data>
+  <data key="d1">-20.669585</data>
+  <data key="d2">-43.499977</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São Domingos do Prata">
+  <data key="d0">3161007</data>
+  <data key="d1">-19.903045</data>
+  <data key="d2">-42.90323</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São José do Goiabal">
+  <data key="d0">3163409</data>
+  <data key="d1">-19.931222</data>
+  <data key="d2">-42.693311</data>
+  <data key="d3">0.297</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Mário Campos">
+  <data key="d0">3140159</data>
+  <data key="d1">-20.076675</data>
+  <data key="d2">-44.176073</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Prudente de Morais">
+  <data key="d0">3153608</data>
+  <data key="d1">-19.464455</data>
+  <data key="d2">-44.111442</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Caeté">
+  <data key="d0">3110004</data>
+  <data key="d1">-19.867772</data>
+  <data key="d2">-43.636887</data>
+  <data key="d3">0.081</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Bela Vista de Minas">
+  <data key="d0">3106002</data>
+  <data key="d1">-19.798036</data>
+  <data key="d2">-43.105588</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São Brás do Suaçuí">
+  <data key="d0">3160900</data>
+  <data key="d1">-20.627495</data>
+  <data key="d2">-43.972402</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Conselheiro Lafaiete">
+  <data key="d0">3118304</data>
+  <data key="d1">-20.666008</data>
+  <data key="d2">-43.788657</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São José da Lapa">
+  <data key="d0">3162955</data>
+  <data key="d1">-19.696891</data>
+  <data key="d2">-43.990399</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Sabará">
+  <data key="d0">3156700</data>
+  <data key="d1">-19.851315</data>
+  <data key="d2">-43.779173</data>
+  <data key="d3">0.037</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Ferros">
+  <data key="d0">3125903</data>
+  <data key="d1">-19.245525</data>
+  <data key="d2">-42.940157</data>
+  <data key="d3">0.174</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Conceição do Mato Dentro">
+  <data key="d0">3117504</data>
+  <data key="d1">-18.936963</data>
+  <data key="d2">-43.50789</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santa Bárbara">
+  <data key="d0">3157203</data>
+  <data key="d1">-20.028902</data>
+  <data key="d2">-43.475135</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Carmésia">
+  <data key="d0">3113800</data>
+  <data key="d1">-19.060347</data>
+  <data key="d2">-43.174441</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São Sebastião do Rio Preto">
+  <data key="d0">3164803</data>
+  <data key="d1">-19.300504</data>
+  <data key="d2">-43.219483</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santo Antônio do Rio Abaixo">
+  <data key="d0">3160504</data>
+  <data key="d1">-19.241403</data>
+  <data key="d2">-43.249049</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Braúnas">
+  <data key="d0">3108800</data>
+  <data key="d1">-19.025725</data>
+  <data key="d2">-42.71643</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Raposos">
+  <data key="d0">3153905</data>
+  <data key="d1">-19.980931</data>
+  <data key="d2">-43.78316</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Rio Acima">
+  <data key="d0">3154804</data>
+  <data key="d1">-20.105806</data>
+  <data key="d2">-43.772908</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Pedro Leopoldo">
+  <data key="d0">3149309</data>
+  <data key="d1">-19.639869</data>
+  <data key="d2">-44.052744</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Pará de Minas">
+  <data key="d0">3147105</data>
+  <data key="d1">-19.834255</data>
+  <data key="d2">-44.607863</data>
+  <data key="d3">0.066</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santa Maria de Itabira">
+  <data key="d0">3158003</data>
+  <data key="d1">-19.435293</data>
+  <data key="d2">-43.044927</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Itaguara">
+  <data key="d0">3132206</data>
+  <data key="d1">-20.371926</data>
+  <data key="d2">-44.531815</data>
+  <data key="d3">0.111</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Crucilândia">
+  <data key="d0">3120607</data>
+  <data key="d1">-20.404057</data>
+  <data key="d2">-44.359771</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Igarapé">
+  <data key="d0">3130101</data>
+  <data key="d1">-20.059349</data>
+  <data key="d2">-44.321968</data>
+  <data key="d3">0.107</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Papagaios">
+  <data key="d0">3146909</data>
+  <data key="d1">-19.376478</data>
+  <data key="d2">-44.691332</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="João Monlevade">
+  <data key="d0">3136207</data>
+  <data key="d1">-19.837941</data>
+  <data key="d2">-43.161486</data>
+  <data key="d3">0.021</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Nova Lima">
+  <data key="d0">3144805</data>
+  <data key="d1">-20.074143</data>
+  <data key="d2">-43.904026</data>
+  <data key="d3">0.014</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Diogo de Vasconcelos">
+  <data key="d0">3121704</data>
+  <data key="d1">-20.481324</data>
+  <data key="d2">-43.183884</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São Joaquim de Bicas">
+  <data key="d0">3162922</data>
+  <data key="d1">-20.07085</data>
+  <data key="d2">-44.249001</data>
+  <data key="d3">0.046</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Jequitibá">
+  <data key="d0">3135704</data>
+  <data key="d1">-19.21158</data>
+  <data key="d2">-44.001193</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Dom Joaquim">
+  <data key="d0">3122603</data>
+  <data key="d1">-18.928284</data>
+  <data key="d2">-43.259248</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Catas Altas">
+  <data key="d0">3115359</data>
+  <data key="d1">-20.07549</data>
+  <data key="d2">-43.407787</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Mariana">
+  <data key="d0">3140001</data>
+  <data key="d1">-20.329103</data>
+  <data key="d2">-43.331334</data>
+  <data key="d3">0.025</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santana dos Montes">
+  <data key="d0">3159100</data>
+  <data key="d1">-20.796862</data>
+  <data key="d2">-43.669814</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="São Gonçalo do Rio Abaixo">
+  <data key="d0">3161908</data>
+  <data key="d1">-19.817153</data>
+  <data key="d2">-43.321368</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Bom Jesus do Amparo">
+  <data key="d0">3107703</data>
+  <data key="d1">-19.717667</data>
+  <data key="d2">-43.468642</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Nova União">
+  <data key="d0">3136603</data>
+  <data key="d1">-19.635339</data>
+  <data key="d2">-43.57204</data>
+  <data key="d3">0.28</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Jeceaba">
+  <data key="d0">3135407</data>
+  <data key="d1">-20.55243</data>
+  <data key="d2">-44.047084</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Alvinópolis">
+  <data key="d0">3102308</data>
+  <data key="d1">-20.111811</data>
+  <data key="d2">-43.152509</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Matozinhos">
+  <data key="d0">3141108</data>
+  <data key="d1">-19.523847</data>
+  <data key="d2">-44.051532</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Jaboticatubas">
+  <data key="d0">3134608</data>
+  <data key="d1">-19.440758</data>
+  <data key="d2">-43.718162</data>
+  <data key="d3">0.163</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Betim">
+  <data key="d0">3106705</data>
+  <data key="d1">-19.947465</data>
+  <data key="d2">-44.199169</data>
+  <data key="d3">0.026</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Florestal">
+  <data key="d0">3126000</data>
+  <data key="d1">-19.868492</data>
+  <data key="d2">-44.442114</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Divinolândia de Minas">
+  <data key="d0">3122207</data>
+  <data key="d1">-18.782268</data>
+  <data key="d2">-42.573422</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Coluna">
+  <data key="d0">3116803</data>
+  <data key="d1">-18.248002</data>
+  <data key="d2">-42.839395</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Paraopeba">
+  <data key="d0">3147402</data>
+  <data key="d1">-19.272196</data>
+  <data key="d2">-44.452664</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Onça de Pitangui">
+  <data key="d0">3145802</data>
+  <data key="d1">-19.708231</data>
+  <data key="d2">-44.735534</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Bonfim">
+  <data key="d0">3108107</data>
+  <data key="d1">-20.32145</data>
+  <data key="d2">-44.214759</data>
+  <data key="d3">0.218</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Vespasiano">
+  <data key="d0">3171204</data>
+  <data key="d1">-19.730941</data>
+  <data key="d2">-43.944846</data>
+  <data key="d3">0.012</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Cristiano Otoni">
+  <data key="d0">3120409</data>
+  <data key="d1">-20.835492</data>
+  <data key="d2">-43.826894</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Maravilhas">
+  <data key="d0">3139706</data>
+  <data key="d1">-19.501192</data>
+  <data key="d2">-44.671252</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Ouro Preto">
+  <data key="d0">3146107</data>
+  <data key="d1">-20.391104</data>
+  <data key="d2">-43.610388</data>
+  <data key="d3">0.021</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Juatuba">
+  <data key="d0">3136652</data>
+  <data key="d1">-19.956331</data>
+  <data key="d2">-44.354316</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Ribeirão das Neves">
+  <data key="d0">3154606</data>
+  <data key="d1">-19.779528</data>
+  <data key="d2">-44.071911</data>
+  <data key="d3">0.049</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Nova Era">
+  <data key="d0">3144706</data>
+  <data key="d1">-19.71882</data>
+  <data key="d2">-43.013747</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Itabirito">
+  <data key="d0">3131901</data>
+  <data key="d1">-20.253153</data>
+  <data key="d2">-43.809475</data>
+  <data key="d3">0.027</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Itambé do Mato Dentro">
+  <data key="d0">3132800</data>
+  <data key="d1">-19.396353</data>
+  <data key="d2">-43.351266</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Contagem">
+  <data key="d0">3118601</data>
+  <data key="d1">-19.887177</data>
+  <data key="d2">-44.084</data>
+  <data key="d3">0.026</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Sete Lagoas">
+  <data key="d0">3167202</data>
+  <data key="d1">-19.437252</data>
+  <data key="d2">-44.25346</data>
+  <data key="d3">0.021</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Congonhas">
+  <data key="d0">3118007</data>
+  <data key="d1">-20.516107</data>
+  <data key="d2">-43.861626</data>
+  <data key="d3">0.029</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Itabira">
+  <data key="d0">3131703</data>
+  <data key="d1">-19.600608</data>
+  <data key="d2">-43.299913</data>
+  <data key="d3">0.044</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Casa Grande">
+  <data key="d0">3114907</data>
+  <data key="d1">-20.836186</data>
+  <data key="d2">-43.938017</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Serra Azul de Minas">
+  <data key="d0">3166501</data>
+  <data key="d1">-18.390648</data>
+  <data key="d2">-43.207278</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Santana do Riacho">
+  <data key="d0">3159001</data>
+  <data key="d1">-19.188681</data>
+  <data key="d2">-43.644675</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Pequi">
+  <data key="d0">3149606</data>
+  <data key="d1">-19.604757</data>
+  <data key="d2">-44.635787</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Queluzito">
+  <data key="d0">3153806</data>
+  <data key="d1">-20.732107</data>
+  <data key="d2">-43.890759</data>
+  <data key="d3">0.902</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Serro">
+  <data key="d0">3167103</data>
+  <data key="d1">-18.536424</data>
+  <data key="d2">-43.401781</data>
+  <data key="d3">0.074</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Taquaraçu de Minas">
+  <data key="d0">3168309</data>
+  <data key="d1">-19.634011</data>
+  <data key="d2">-43.685621</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Rio Vermelho">
+  <data key="d0">3156007</data>
+  <data key="d1">-18.254667</data>
+  <data key="d2">-43.05506</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Desterro de Entre Rios">
+  <data key="d0">3121407</data>
+  <data key="d1">-20.62973</data>
+  <data key="d2">-44.271349</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Dionísio">
+  <data key="d0">3121803</data>
+  <data key="d1">-19.836816</data>
+  <data key="d2">-42.679088</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Itatiaiuçu">
+  <data key="d0">3133709</data>
+  <data key="d1">-20.20918</data>
+  <data key="d2">-44.452886</data>
+  <data key="d3">0.0</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<node id="Ibirité">
+  <data key="d0">3129806</data>
+  <data key="d1">-20.023583</data>
+  <data key="d2">-44.068499</data>
+  <data key="d3">0.018</data>
+  <data key="d4">metropolitana_belo_horizonte</data>
+  <data key="d5">Metropolitana de Belo Horizonte</data>
+</node>
+<edge source="Esmeraldas" target="Betim">
+  <data key="d6">26.31</data>
+  <data key="d7">MG-060, s/ref</data>
+</edge>
+<edge source="Esmeraldas" target="Contagem">
+  <data key="d6">28.97</data>
+  <data key="d7">Avenida Antônio Martins de Melo, LMG-808, Rua B, Rua Canadá, Rua Maria José de Jesus Oliveira, Rua R, Rua do Ipê</data>
+</edge>
+<edge source="Esmeraldas" target="Pedro Leopoldo">
+  <data key="d6">28.63</data>
+  <data key="d7">BR-040;BR-135, EES-311, Rodovia Maria Piedade Costa, s/ref</data>
+</edge>
+<edge source="Esmeraldas" target="Matozinhos">
+  <data key="d6">35.45</data>
+  <data key="d7">BR-040;BR-135</data>
+</edge>
+<edge source="Esmeraldas" target="Ribeirão das Neves">
+  <data key="d6">25.22</data>
+  <data key="d7">Avenida 2, Avenida Ida Jubelini, BR-040;BR-135, MG-432, Rua 42, Rua Antônio Fernandes, Rua Carlos Daniel Miranda, s/ref</data>
+</edge>
+<edge source="Esmeraldas" target="Sete Lagoas">
+  <data key="d6">33.22</data>
+  <data key="d7">BR-040;BR-135, EES-110, s/ref</data>
+</edge>
+<edge source="Esmeraldas" target="Inhaúma">
+  <data key="d6">28.11</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Esmeraldas" target="São José da Varginha">
+  <data key="d6">26.93</data>
+  <data key="d7">MG-060</data>
+</edge>
+<edge source="Esmeraldas" target="Florestal">
+  <data key="d6">20.58</data>
+  <data key="d7">EES-040</data>
+</edge>
+<edge source="Rio Manso" target="Bonfim">
+  <data key="d6">14.87</data>
+  <data key="d7">ABN-462, LMG-831, s/ref</data>
+</edge>
+<edge source="Rio Manso" target="Brumadinho">
+  <data key="d6">25.23</data>
+  <data key="d7">BR-381, IAT-105, s/ref</data>
+</edge>
+<edge source="Rio Manso" target="Itaguara">
+  <data key="d6">22.7</data>
+  <data key="d7">BR-381</data>
+</edge>
+<edge source="Rio Manso" target="Itatiaiuçu">
+  <data key="d6">12.96</data>
+  <data key="d7">BR-381, IAT-262, IAT-360, s/ref</data>
+</edge>
+<edge source="Passabém" target="Ferros">
+  <data key="d6">27.79</data>
+  <data key="d7">LMG-777</data>
+</edge>
+<edge source="Passabém" target="Itambé do Mato Dentro">
+  <data key="d6">18.91</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Passabém" target="Santa Maria de Itabira">
+  <data key="d6">16.02</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Passabém" target="São Sebastião do Rio Preto">
+  <data key="d6">8.08</data>
+  <data key="d7">LMG-777</data>
+</edge>
+<edge source="Ouro Branco" target="Congonhas">
+  <data key="d6">19.45</data>
+  <data key="d7">AMG-0440, Acesso Portão Leste Gerdau-Açominas, Avenida Conselheiro Lafaiete, Avenida Fernão Dias Paes Leme, Avenida Tatiane de Magalhães Fabrini, MG-129, MG-443, OUO-230, s/ref</data>
+</edge>
+<edge source="Ouro Branco" target="Conselheiro Lafaiete">
+  <data key="d6">19.6</data>
+  <data key="d7">CNL-425, MG-129, OUO-215, OUO-280, OUO-380</data>
+</edge>
+<edge source="Ouro Branco" target="Itaverava">
+  <data key="d6">18.93</data>
+  <data key="d7">AIV-090, AIV-205, AIV-215, OUO-175, OUO-180, OUO-370</data>
+</edge>
+<edge source="Ouro Branco" target="Ouro Preto">
+  <data key="d6">16.26</data>
+  <data key="d7">AMG-1780, AOU-150, AOU-459, AOU-460, MG-129, OUO-135, OUO-310</data>
+</edge>
+<edge source="Belo Vale" target="Moeda">
+  <data key="d6">12.64</data>
+  <data key="d7">Ponte Moeda-Belo Vale, s/ref</data>
+</edge>
+<edge source="Belo Vale" target="Brumadinho">
+  <data key="d6">28.1</data>
+  <data key="d7">BMO-319</data>
+</edge>
+<edge source="Belo Vale" target="Congonhas">
+  <data key="d6">23.03</data>
+  <data key="d7">MG-442</data>
+</edge>
+<edge source="Belo Vale" target="Piedade dos Gerais">
+  <data key="d6">20.2</data>
+  <data key="d7">Estrada Belo Vale/Piedade dos Gerais, s/ref</data>
+</edge>
+<edge source="Belo Vale" target="Bonfim">
+  <data key="d6">19.79</data>
+  <data key="d7">ABN-045, Estrada Bonfim/Moeda</data>
+</edge>
+<edge source="Belo Vale" target="Jeceaba">
+  <data key="d6">14.2</data>
+  <data key="d7">MG-155</data>
+</edge>
+<edge source="Moeda" target="Brumadinho">
+  <data key="d6">21.68</data>
+  <data key="d7">BMO-203, BMO-319</data>
+</edge>
+<edge source="Moeda" target="Itabirito">
+  <data key="d6">20.89</data>
+  <data key="d7">LMG-825</data>
+</edge>
+<edge source="Pitangui" target="Onça de Pitangui">
+  <data key="d6">20.69</data>
+  <data key="d7">BR-352</data>
+</edge>
+<edge source="Pitangui" target="Papagaios">
+  <data key="d6">31.08</data>
+  <data key="d7">MG-423</data>
+</edge>
+<edge source="Entre Rios de Minas" target="Casa Grande">
+  <data key="d6">21.84</data>
+  <data key="d7">Estrada Real</data>
+</edge>
+<edge source="Entre Rios de Minas" target="Desterro de Entre Rios">
+  <data key="d6">20.19</data>
+  <data key="d7">MG-270, s/ref</data>
+</edge>
+<edge source="Entre Rios de Minas" target="São Brás do Suaçuí">
+  <data key="d6">15.38</data>
+  <data key="d7">BR-383, Estrada Real</data>
+</edge>
+<edge source="Entre Rios de Minas" target="Queluzito">
+  <data key="d6">21.46</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Entre Rios de Minas" target="Jeceaba">
+  <data key="d6">17.62</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Confins" target="Lagoa Santa">
+  <data key="d6">9.47</data>
+  <data key="d7">LGT-090, LMG-800, s/ref</data>
+</edge>
+<edge source="Confins" target="São José da Lapa">
+  <data key="d6">6.27</data>
+  <data key="d7">MG-424, Rua José Oliveira Silva, s/ref</data>
+</edge>
+<edge source="Confins" target="Pedro Leopoldo">
+  <data key="d6">8.16</data>
+  <data key="d7">Estrada Variante do Trevo, LMG-800, MG-424, Rua Francisco Gonçalves Neves, s/ref</data>
+</edge>
+<edge source="Inhaúma" target="Sete Lagoas">
+  <data key="d6">17.67</data>
+  <data key="d7">AMG-0375, Estrada da Barra, MG-238, s/ref</data>
+</edge>
+<edge source="Inhaúma" target="Paraopeba">
+  <data key="d6">25.39</data>
+  <data key="d7">Estrada Inhaúma - Papagaios</data>
+</edge>
+<edge source="Funilândia" target="Sete Lagoas">
+  <data key="d6">20.63</data>
+  <data key="d7">AMG-0105, MG-238, s/ref</data>
+</edge>
+<edge source="Funilândia" target="Prudente de Morais">
+  <data key="d6">12.1</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Funilândia" target="Jequitibá">
+  <data key="d6">18.23</data>
+  <data key="d7">MG-238, s/ref</data>
+</edge>
+<edge source="Sarzedo" target="Betim">
+  <data key="d6">14.82</data>
+  <data key="d7">Avenida Fausto Ribeiro da Silva, SRZ-315</data>
+</edge>
+<edge source="Sarzedo" target="Ibirité">
+  <data key="d6">6.76</data>
+  <data key="d7">MG-040, SRZ-314</data>
+</edge>
+<edge source="Sarzedo" target="Mário Campos">
+  <data key="d6">6.07</data>
+  <data key="d7">MCP-201, MG-040, s/ref</data>
+</edge>
+<edge source="Barão de Cocais" target="Santa Bárbara">
+  <data key="d6">15.35</data>
+  <data key="d7">BAC-050, BAC-182, BAC-381, BR-262;MGC-262, Rua Afonso Pena, Rua Galego, s/ref</data>
+</edge>
+<edge source="Barão de Cocais" target="São Gonçalo do Rio Abaixo">
+  <data key="d6">20.01</data>
+  <data key="d7">ASO-090, BAC-249, BR-381</data>
+</edge>
+<edge source="Barão de Cocais" target="Bom Jesus do Amparo">
+  <data key="d6">19.46</data>
+  <data key="d7">BAC-135, BR-381</data>
+</edge>
+<edge source="Barão de Cocais" target="Caeté">
+  <data key="d6">15.04</data>
+  <data key="d7">BR-262;MGC-262, s/ref</data>
+</edge>
+<edge source="Alvorada de Minas" target="Conceição do Mato Dentro">
+  <data key="d6">22.9</data>
+  <data key="d7">MG-010, s/ref</data>
+</edge>
+<edge source="Alvorada de Minas" target="Serro">
+  <data key="d6">27.1</data>
+  <data key="d7">AMG-0810, MG-010, s/ref</data>
+</edge>
+<edge source="Alvorada de Minas" target="Dom Joaquim">
+  <data key="d6">20.08</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Brumadinho" target="Belo Horizonte">
+  <data key="d6">34.89</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Brumadinho" target="Bonfim">
+  <data key="d6">18.58</data>
+  <data key="d7">ABN-205, BMO-104, BMO-319, MG-040, Ponte Éder Amorim, s/ref</data>
+</edge>
+<edge source="Brumadinho" target="Ibirité">
+  <data key="d6">17.99</data>
+  <data key="d7">BMO-202, Estrada do Rola Moça, s/ref</data>
+</edge>
+<edge source="Brumadinho" target="Nova Lima">
+  <data key="d6">25.58</data>
+  <data key="d7">Estrada Nair Martins Drumond, LMG-813</data>
+</edge>
+<edge source="Brumadinho" target="Igarapé">
+  <data key="d6">24.62</data>
+  <data key="d7">BR-381, s/ref</data>
+</edge>
+<edge source="Brumadinho" target="São Joaquim de Bicas">
+  <data key="d6">17.74</data>
+  <data key="d7">Rua Antônio Souza Noschese, s/ref</data>
+</edge>
+<edge source="Brumadinho" target="Itatiaiuçu">
+  <data key="d6">34.67</data>
+  <data key="d7">IAT-105</data>
+</edge>
+<edge source="Brumadinho" target="Mário Campos">
+  <data key="d6">12.51</data>
+  <data key="d7">MG-040, s/ref</data>
+</edge>
+<edge source="Santo Antônio do Itambé" target="Serra Azul de Minas">
+  <data key="d6">11.57</data>
+  <data key="d7">MG-010</data>
+</edge>
+<edge source="Santo Antônio do Itambé" target="Serro">
+  <data key="d6">15.64</data>
+  <data key="d7">MG-010</data>
+</edge>
+<edge source="Belo Horizonte" target="Nova Lima">
+  <data key="d6">19.86</data>
+  <data key="d7">Alameda do Morro, BR-040;BR-356, MG-030, Rodovia Januário Carneiro, s/ref</data>
+</edge>
+<edge source="Belo Horizonte" target="Contagem">
+  <data key="d6">13.1</data>
+  <data key="d7">Avenida Abílio Machado, Avenida Amazonas, Avenida Chavantes, Avenida Estrela Dalva, Avenida Ghandi, Avenida João Soares, Avenida Jucelino Kubitscheck de Oliveira, Avenida Juscelino Kubitschek, Avenida Presidente Juscelino Kubitschek, Avenida Severino Ballesteros Rodrigues, Avenida Teresa Cristina, Avenida Xangri-lá, Avenida Águas Marinhas, BR-040;BR-135, MG-040, Praça Belarmino de Souza, Rua 1, Rua Aderbal Rodrigues Vaz, Rua Bragança, Rua Cerro Azul, Rua Delta, Rua General Clark, Rua Geremias Alves, Rua Guanabara, Rua Guaxupé, Rua Iguacaba, Rua Itinga, Rua Joaquim Correia de Aquino, Rua José Bicalho, Rua José Gonçalves, Rua Maria das Graças Teixeira, Rua Pedro Celestino Mendonça, Rua Pio XII, Rua Soares Nogueira, Rua Tenente Castorino da Silva, Rua Tiradentes, Rua Vinte e Três, Via Expressa de Contagem, Viaduto Engenheiro Andrade Pinto, s/ref</data>
+</edge>
+<edge source="Belo Horizonte" target="Vespasiano">
+  <data key="d6">19.07</data>
+  <data key="d7">Avenida Existente, MG-010, s/ref</data>
+</edge>
+<edge source="Belo Horizonte" target="Sabará">
+  <data key="d6">19.77</data>
+  <data key="d7">Avenida Country Clube de Belo Horizonte, Avenida José Cândido da Silveira, Avenida Marzagânia, BR-262, BR-262;MGC-262, BR-381, Rua Augusta Sacchetto Scalzo, Rua Contagem, Rua Magno Moura, Rua Marcelino Ferreira, s/ref</data>
+</edge>
+<edge source="Belo Horizonte" target="Ibirité">
+  <data key="d6">17.55</data>
+  <data key="d7">Avenida Minas Gerais, MG-040, Rua Carmelita Coelho da Rocha, s/ref</data>
+</edge>
+<edge source="Belo Horizonte" target="Santa Luzia">
+  <data key="d6">21.73</data>
+  <data key="d7">Avenida Euclides da Cunha, Avenida Senhor do Bonfim, MG-020, MG-433, Rua José Gomes Domingues, Rua Leila Diniz, Rua Machado de Assis, Rua São José</data>
+</edge>
+<edge source="Belo Horizonte" target="Ribeirão das Neves">
+  <data key="d6">17.98</data>
+  <data key="d7">Avenida Joaquim Abel Coelho, LMG-806, Rua Dona Conceição Martins, Rua Estanislau Pedro Boardman, Rua Helga Taveira de Souza, Rua Jardim de Alá, Rua José Martins de Souza, Rua José Rocha Paixão, Rua João Ferreira da Silva, Rua Nossa Senhora do Carmo, Rua do Comércio</data>
+</edge>
+<edge source="Congonhas do Norte" target="Conceição do Mato Dentro">
+  <data key="d6">20.55</data>
+  <data key="d7">LMG-739, s/ref</data>
+</edge>
+<edge source="São José da Varginha" target="Pará de Minas">
+  <data key="d6">16.04</data>
+  <data key="d7">MG-431, s/ref</data>
+</edge>
+<edge source="São José da Varginha" target="Pequi">
+  <data key="d6">12.76</data>
+  <data key="d7">MG-060, s/ref</data>
+</edge>
+<edge source="Piedade dos Gerais" target="Bonfim">
+  <data key="d6">17.21</data>
+  <data key="d7">ABN-497, LMG-831, s/ref</data>
+</edge>
+<edge source="Piedade dos Gerais" target="Crucilândia">
+  <data key="d6">14.14</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Piedade dos Gerais" target="Desterro de Entre Rios">
+  <data key="d6">17.42</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Piedade dos Gerais" target="Jeceaba">
+  <data key="d6">22.52</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Lagoa Santa" target="Jaboticatubas">
+  <data key="d6">27.22</data>
+  <data key="d7">MG-010, Rodovia Bom Caminho do Castrinho</data>
+</edge>
+<edge source="Lagoa Santa" target="Vespasiano">
+  <data key="d6">12.93</data>
+  <data key="d7">Avenida Adélia Issa, Avenida Paulo Ferreira da Costa, MG-010</data>
+</edge>
+<edge source="Lagoa Santa" target="Pedro Leopoldo">
+  <data key="d6">17.55</data>
+  <data key="d7">LGT-306, s/ref</data>
+</edge>
+<edge source="Lagoa Santa" target="Santa Luzia">
+  <data key="d6">13.88</data>
+  <data key="d7">LGT-290</data>
+</edge>
+<edge source="Rio Piracicaba" target="Alvinópolis">
+  <data key="d6">15.62</data>
+  <data key="d7">MG-123, s/ref</data>
+</edge>
+<edge source="Rio Piracicaba" target="Bela Vista de Minas">
+  <data key="d6">19.67</data>
+  <data key="d7">BR-262</data>
+</edge>
+<edge source="Rio Piracicaba" target="João Monlevade">
+  <data key="d6">14.77</data>
+  <data key="d7">BR-262, MG-123;BR-262</data>
+</edge>
+<edge source="Rio Piracicaba" target="Santa Bárbara">
+  <data key="d6">34.7</data>
+  <data key="d7">BR-262, s/ref</data>
+</edge>
+<edge source="Mateus Leme" target="Florestal">
+  <data key="d6">17.58</data>
+  <data key="d7">BR-262, Rua Boa Vista, s/ref</data>
+</edge>
+<edge source="Mateus Leme" target="Igarapé">
+  <data key="d6">12.59</data>
+  <data key="d7">Rua Antônio Fonseca Pinto, s/ref</data>
+</edge>
+<edge source="Mateus Leme" target="Juatuba">
+  <data key="d6">11.72</data>
+  <data key="d7">BR-262, MG-050</data>
+</edge>
+<edge source="Morro do Pilar" target="Conceição do Mato Dentro">
+  <data key="d6">34.83</data>
+  <data key="d7">MG-232, s/ref</data>
+</edge>
+<edge source="Morro do Pilar" target="Santo Antônio do Rio Abaixo">
+  <data key="d6">16.15</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Morro do Pilar" target="Santana do Riacho">
+  <data key="d6">25.98</data>
+  <data key="d7">MG-010</data>
+</edge>
+<edge source="Santa Luzia" target="Jaboticatubas">
+  <data key="d6">35.88</data>
+  <data key="d7">MG-020</data>
+</edge>
+<edge source="Santa Luzia" target="Sabará">
+  <data key="d6">13.23</data>
+  <data key="d7">AMG-0145, AMG-145, BR-381, s/ref</data>
+</edge>
+<edge source="Santa Luzia" target="Vespasiano">
+  <data key="d6">11.44</data>
+  <data key="d7">Avenida Carlos Murta Filho, Estrada da Maravilha, Rua Itapoan, s/ref</data>
+</edge>
+<edge source="Santa Luzia" target="Taquaraçu de Minas">
+  <data key="d6">20.03</data>
+  <data key="d7">LMG-855</data>
+</edge>
+<edge source="Itaverava" target="Catas Altas da Noruega">
+  <data key="d6">11.89</data>
+  <data key="d7">AIV-310, MGC-482;BR-482, s/ref</data>
+</edge>
+<edge source="Itaverava" target="Conselheiro Lafaiete">
+  <data key="d6">18.43</data>
+  <data key="d7">AIV-190, AIV-215, CNL-425, MGC-482;BR-482</data>
+</edge>
+<edge source="Itaverava" target="Ouro Preto">
+  <data key="d6">32.56</data>
+  <data key="d7">AOU-130</data>
+</edge>
+<edge source="Itaverava" target="Santana dos Montes">
+  <data key="d6">13.71</data>
+  <data key="d7">AIV-285, AIV-450, AIV-460</data>
+</edge>
+<edge source="Santana de Pirapama" target="Jequitibá">
+  <data key="d6">34.39</data>
+  <data key="d7">LMG-807, s/ref</data>
+</edge>
+<edge source="Catas Altas da Noruega" target="Ouro Preto">
+  <data key="d6">32.91</data>
+  <data key="d7">AOU-050, AOU-115</data>
+</edge>
+<edge source="São Domingos do Prata" target="Alvinópolis">
+  <data key="d6">34.85</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="São Domingos do Prata" target="Bela Vista de Minas">
+  <data key="d6">24.18</data>
+  <data key="d7">BR-262</data>
+</edge>
+<edge source="São Domingos do Prata" target="Dionísio">
+  <data key="d6">24.6</data>
+  <data key="d7">LMG-820</data>
+</edge>
+<edge source="São Domingos do Prata" target="Nova Era">
+  <data key="d6">23.46</data>
+  <data key="d7">MGC-120;BR-120</data>
+</edge>
+<edge source="São Domingos do Prata" target="São José do Goiabal">
+  <data key="d6">22.2</data>
+  <data key="d7">MG-320, s/ref</data>
+</edge>
+<edge source="São José do Goiabal" target="Dionísio">
+  <data key="d6">10.56</data>
+  <data key="d7">LMG-760, s/ref</data>
+</edge>
+<edge source="Mário Campos" target="Betim">
+  <data key="d6">14.5</data>
+  <data key="d7">MG-155</data>
+</edge>
+<edge source="Prudente de Morais" target="Matozinhos">
+  <data key="d6">9.1</data>
+  <data key="d7">MG-424</data>
+</edge>
+<edge source="Prudente de Morais" target="Sete Lagoas">
+  <data key="d6">15.21</data>
+  <data key="d7">AMG-0105, MG-424</data>
+</edge>
+<edge source="Caeté" target="Sabará">
+  <data key="d6">15.01</data>
+  <data key="d7">AMG-1235, BR-262;MGC-262, BR-381, MG-435, s/ref</data>
+</edge>
+<edge source="Caeté" target="Nova União">
+  <data key="d6">26.61</data>
+  <data key="d7">BR-381</data>
+</edge>
+<edge source="Caeté" target="Taquaraçu de Minas">
+  <data key="d6">26.37</data>
+  <data key="d7">AMG-1230</data>
+</edge>
+<edge source="Bela Vista de Minas" target="João Monlevade">
+  <data key="d6">7.34</data>
+  <data key="d7">Antiga BR 252, Avenida José Modestino de Ávila, BR-381, LMG-779, s/ref</data>
+</edge>
+<edge source="Bela Vista de Minas" target="Nova Era">
+  <data key="d6">13.02</data>
+  <data key="d7">BR-381</data>
+</edge>
+<edge source="Bela Vista de Minas" target="Itabira">
+  <data key="d6">29.88</data>
+  <data key="d7">LMG-779</data>
+</edge>
+<edge source="São Brás do Suaçuí" target="Conselheiro Lafaiete">
+  <data key="d6">19.61</data>
+  <data key="d7">CNL-215, MGC-383;BR-383</data>
+</edge>
+<edge source="São Brás do Suaçuí" target="Jeceaba">
+  <data key="d6">11.38</data>
+  <data key="d7">MG-155, s/ref</data>
+</edge>
+<edge source="São Brás do Suaçuí" target="Queluzito">
+  <data key="d6">14.37</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Conselheiro Lafaiete" target="Congonhas">
+  <data key="d6">18.25</data>
+  <data key="d7">BR-040, CNL-205, MGC-383;BR-383, s/ref</data>
+</edge>
+<edge source="Conselheiro Lafaiete" target="Queluzito">
+  <data key="d6">12.91</data>
+  <data key="d7">CNL-030, LMG-844, s/ref</data>
+</edge>
+<edge source="Conselheiro Lafaiete" target="Cristiano Otoni">
+  <data key="d6">19.18</data>
+  <data key="d7">BR-040, s/ref</data>
+</edge>
+<edge source="Conselheiro Lafaiete" target="Santana dos Montes">
+  <data key="d6">19.05</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="São José da Lapa" target="Pedro Leopoldo">
+  <data key="d6">9.08</data>
+  <data key="d7">Estrada para Areias, Estrada para Doutor Lund, Rua Cristóvão de Assis</data>
+</edge>
+<edge source="São José da Lapa" target="Vespasiano">
+  <data key="d6">6.08</data>
+  <data key="d7">Alameda Doutor Torquato Orsini, Alameda Horácio Picorelli, Alameda Presidente Eduardo Fureti, Avenida Consigliere Corrêa, Avenida Coronel Virgílio Machado, Avenida Doutor Jorge Dias de Oliva, MG-424, Rua Idalina Alves</data>
+</edge>
+<edge source="Sabará" target="Nova Lima">
+  <data key="d6">27.91</data>
+  <data key="d7">MG-437</data>
+</edge>
+<edge source="Sabará" target="Raposos">
+  <data key="d6">14.35</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Sabará" target="Taquaraçu de Minas">
+  <data key="d6">25.97</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Ferros" target="Carmésia">
+  <data key="d6">32.06</data>
+  <data key="d7">LMG-778</data>
+</edge>
+<edge source="Ferros" target="Conceição do Mato Dentro">
+  <data key="d6">68.84</data>
+  <data key="d7">LMG-778</data>
+</edge>
+<edge source="Ferros" target="Santa Maria de Itabira">
+  <data key="d6">23.72</data>
+  <data key="d7">LMG-777, MGC-120;BR-120</data>
+</edge>
+<edge source="Ferros" target="São Sebastião do Rio Preto">
+  <data key="d6">29.99</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Conceição do Mato Dentro" target="Carmésia">
+  <data key="d6">37.7</data>
+  <data key="d7">MG-232</data>
+</edge>
+<edge source="Conceição do Mato Dentro" target="Santana do Riacho">
+  <data key="d6">31.35</data>
+  <data key="d7">MG-010</data>
+</edge>
+<edge source="Conceição do Mato Dentro" target="Santo Antônio do Rio Abaixo">
+  <data key="d6">43.35</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Conceição do Mato Dentro" target="Dom Joaquim">
+  <data key="d6">26.23</data>
+  <data key="d7">MG-229</data>
+</edge>
+<edge source="Conceição do Mato Dentro" target="São Sebastião do Rio Preto">
+  <data key="d6">50.42</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Santa Bárbara" target="Catas Altas">
+  <data key="d6">8.72</data>
+  <data key="d7">AMG-1225, MG-129, s/ref</data>
+</edge>
+<edge source="Santa Bárbara" target="São Gonçalo do Rio Abaixo">
+  <data key="d6">28.43</data>
+  <data key="d7">ASO-482, ASO-490, MG-129, s/ref</data>
+</edge>
+<edge source="São Sebastião do Rio Preto" target="Itambé do Mato Dentro">
+  <data key="d6">17.45</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="São Sebastião do Rio Preto" target="Santo Antônio do Rio Abaixo">
+  <data key="d6">7.24</data>
+  <data key="d7">LMG-777, s/ref</data>
+</edge>
+<edge source="Raposos" target="Nova Lima">
+  <data key="d6">16.32</data>
+  <data key="d7">AMG-0150, Estrada para Queiroz, s/ref</data>
+</edge>
+<edge source="Rio Acima" target="Itabirito">
+  <data key="d6">16.75</data>
+  <data key="d7">BR-356, ITA-110, MG-030, s/ref</data>
+</edge>
+<edge source="Rio Acima" target="Nova Lima">
+  <data key="d6">14.15</data>
+  <data key="d7">BR-356, MG-030</data>
+</edge>
+<edge source="Pedro Leopoldo" target="Matozinhos">
+  <data key="d6">12.84</data>
+  <data key="d7">BR-040;BR-135, MG-424, Rua Joaquim Batista de Azevedo, s/ref</data>
+</edge>
+<edge source="Pedro Leopoldo" target="Ribeirão das Neves">
+  <data key="d6">15.59</data>
+  <data key="d7">Estrada Pedro Leopoldo para Ribeirão das Neves, Estrada para Areias, Rua Moacir Menezes, Rua Pedro Guerra</data>
+</edge>
+<edge source="Pedro Leopoldo" target="Vespasiano">
+  <data key="d6">15.15</data>
+  <data key="d7">Estrada para Areias</data>
+</edge>
+<edge source="Pará de Minas" target="Florestal">
+  <data key="d6">17.76</data>
+  <data key="d7">BR-262, LMG-818, s/ref</data>
+</edge>
+<edge source="Pará de Minas" target="Onça de Pitangui">
+  <data key="d6">19.32</data>
+  <data key="d7">BR-352, s/ref</data>
+</edge>
+<edge source="Santa Maria de Itabira" target="Itabira">
+  <data key="d6">32.43</data>
+  <data key="d7">MGC-120;BR-120, s/ref</data>
+</edge>
+<edge source="Santa Maria de Itabira" target="Itambé do Mato Dentro">
+  <data key="d6">32.47</data>
+  <data key="d7">Estrada de Santa Maria</data>
+</edge>
+<edge source="Itaguara" target="Crucilândia">
+  <data key="d6">18.3</data>
+  <data key="d7">MG-040</data>
+</edge>
+<edge source="Itaguara" target="Itatiaiuçu">
+  <data key="d6">19.81</data>
+  <data key="d7">BR-381, IAT-390, s/ref</data>
+</edge>
+<edge source="Crucilândia" target="Bonfim">
+  <data key="d6">17.68</data>
+  <data key="d7">MG-040, s/ref</data>
+</edge>
+<edge source="Igarapé" target="São Joaquim de Bicas">
+  <data key="d6">7.74</data>
+  <data key="d7">Avenida Anita Garibaldi, Avenida Castelo Branco, Avenida Fausto Eugênio da Silva, Avenida Nossa Senhora da Conceição, Avenida Silva Couto, BR-381, Estrada Osvaldo Cândido de Queiroz, Estrada da Sada, Rua Bernardino da Silva Couto, Rua Fernão Dias Paes Leme, Rua Ulisses Palhares, SJB-055, SJB-065, SJB-364</data>
+</edge>
+<edge source="Igarapé" target="Juatuba">
+  <data key="d6">11.89</data>
+  <data key="d7">Rua Santos Dumont, Rua das Mangueiras</data>
+</edge>
+<edge source="Igarapé" target="Itatiaiuçu">
+  <data key="d6">21.5</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Papagaios" target="Maravilhas">
+  <data key="d6">13.96</data>
+  <data key="d7">Estrada do Costa, MG-060, MG-423, s/ref</data>
+</edge>
+<edge source="João Monlevade" target="São Gonçalo do Rio Abaixo">
+  <data key="d6">16.91</data>
+  <data key="d7">BR-381, RM-1</data>
+</edge>
+<edge source="Nova Lima" target="Itabirito">
+  <data key="d6">22.14</data>
+  <data key="d7">BR-040, ITA-140, s/ref</data>
+</edge>
+<edge source="Diogo de Vasconcelos" target="Mariana">
+  <data key="d6">22.83</data>
+  <data key="d7">AMG-1735, AMR-465, s/ref</data>
+</edge>
+<edge source="São Joaquim de Bicas" target="Betim">
+  <data key="d6">14.62</data>
+  <data key="d7">BR-381</data>
+</edge>
+<edge source="Catas Altas" target="Alvinópolis">
+  <data key="d6">27.0</data>
+  <data key="d7">MG-326</data>
+</edge>
+<edge source="Catas Altas" target="Mariana">
+  <data key="d6">29.19</data>
+  <data key="d7">MG-129</data>
+</edge>
+<edge source="Mariana" target="Alvinópolis">
+  <data key="d6">30.46</data>
+  <data key="d7">AMR-210, AMR-410, MG-326</data>
+</edge>
+<edge source="Mariana" target="Ouro Preto">
+  <data key="d6">29.93</data>
+  <data key="d7">AMG-1730, AMR-480, AOU-010, AOU-020, AOU-260, MG-129, s/ref</data>
+</edge>
+<edge source="Santana dos Montes" target="Cristiano Otoni">
+  <data key="d6">16.9</data>
+  <data key="d7">AMG-0405</data>
+</edge>
+<edge source="São Gonçalo do Rio Abaixo" target="Bom Jesus do Amparo">
+  <data key="d6">18.96</data>
+  <data key="d7">ASO-195, MG-434</data>
+</edge>
+<edge source="São Gonçalo do Rio Abaixo" target="Itabira">
+  <data key="d6">24.07</data>
+  <data key="d7">ASO-110, ASO-190, ASO-230, MG-129, MG-434, s/ref</data>
+</edge>
+<edge source="Bom Jesus do Amparo" target="Itabira">
+  <data key="d6">21.93</data>
+  <data key="d7">LMG-776</data>
+</edge>
+<edge source="Bom Jesus do Amparo" target="Nova União">
+  <data key="d6">14.16</data>
+  <data key="d7">BR-381</data>
+</edge>
+<edge source="Nova União" target="Taquaraçu de Minas">
+  <data key="d6">11.91</data>
+  <data key="d7">LMG-855</data>
+</edge>
+<edge source="Jeceaba" target="Congonhas">
+  <data key="d6">19.75</data>
+  <data key="d7">Ponte sobre o Rio Paraopeba - Santa Quitéria, s/ref</data>
+</edge>
+<edge source="Jeceaba" target="Desterro de Entre Rios">
+  <data key="d6">24.89</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Jaboticatubas" target="Taquaraçu de Minas">
+  <data key="d6">21.66</data>
+  <data key="d7">JBU-050, JBU-260, JBU-270, LMG855, MG-020, s/ref</data>
+</edge>
+<edge source="Jaboticatubas" target="Santana do Riacho">
+  <data key="d6">28.95</data>
+  <data key="d7">MG-010</data>
+</edge>
+<edge source="Betim" target="Contagem">
+  <data key="d6">13.78</data>
+  <data key="d7">Avenida B, Avenida Mato Grosso, Avenida Sycaba, Avenida Tapajós, BR-381, Estrada Renato Azeredo, Rua B, Rua Goiás, Rua Guidoval, Rua Monte Belo, Rua Padre José Maria de Man, Rua Pará, Rua Quatro, Rua Rio Comprido, Rua Simonesia, Rua São Paulo, Via Expressa Francisco Cleuton Lopes, s/ref</data>
+</edge>
+<edge source="Betim" target="Juatuba">
+  <data key="d6">16.27</data>
+  <data key="d7">BR-262, MG-050</data>
+</edge>
+<edge source="Betim" target="Ibirité">
+  <data key="d6">16.06</data>
+  <data key="d7">Avenida C, Avenida Petrobrás, SRZ-315, s/ref</data>
+</edge>
+<edge source="Florestal" target="Juatuba">
+  <data key="d6">13.38</data>
+  <data key="d7">LMG-818</data>
+</edge>
+<edge source="Coluna" target="Rio Vermelho">
+  <data key="d6">22.82</data>
+  <data key="d7">Estrada de Rio Vermelho para Coluna, Estrada para Matão, s/ref</data>
+</edge>
+<edge source="Vespasiano" target="Ribeirão das Neves">
+  <data key="d6">14.36</data>
+  <data key="d7">Avenida das Águias, s/ref</data>
+</edge>
+<edge source="Cristiano Otoni" target="Casa Grande">
+  <data key="d6">11.56</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Cristiano Otoni" target="Queluzito">
+  <data key="d6">13.24</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Maravilhas" target="Pequi">
+  <data key="d6">12.05</data>
+  <data key="d7">MG-060, MG-238, s/ref</data>
+</edge>
+<edge source="Ouro Preto" target="Congonhas">
+  <data key="d6">29.64</data>
+  <data key="d7">AOU-250, BR-040, MG-030, MG-442</data>
+</edge>
+<edge source="Ouro Preto" target="Itabirito">
+  <data key="d6">25.79</data>
+  <data key="d7">AOU-152, AOU-405, BR-040, BR-356, ITA-020, ITA-300, ITA-320, ITA-485, MG-030, Viaduto das Almas, s/ref</data>
+</edge>
+<edge source="Ribeirão das Neves" target="Contagem">
+  <data key="d6">11.98</data>
+  <data key="d7">Avenida Barroso, BR-040;BR-135, Rua 1, s/ref</data>
+</edge>
+<edge source="Nova Era" target="Itabira">
+  <data key="d6">32.74</data>
+  <data key="d7">MGC-120;BR-120</data>
+</edge>
+<edge source="Itambé do Mato Dentro" target="Itabira">
+  <data key="d6">23.24</data>
+  <data key="d7">LMG-776, s/ref</data>
+</edge>
+<edge source="Contagem" target="Ibirité">
+  <data key="d6">15.18</data>
+  <data key="d7">Avenida César Augusto Faria Simões, Rua Geremias Alves, Rua Panorama, Rua São Conrado</data>
+</edge>
+<edge source="Casa Grande" target="Queluzito">
+  <data key="d6">12.53</data>
+  <data key="d7">LMG-844</data>
+</edge>
+<edge source="Serra Azul de Minas" target="Rio Vermelho">
+  <data key="d6">22.04</data>
+  <data key="d7">MG-010</data>
+</edge>
+</graph></graphml>

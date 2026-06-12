@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Guarda-Mor">
+  <data key="d0">3128600</data>
+  <data key="d1">-17.731831</data>
+  <data key="d2">-47.126153</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Miravânia">
+  <data key="d0">3142254</data>
+  <data key="d1">-14.752964</data>
+  <data key="d2">-44.4216</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="São João das Missões">
+  <data key="d0">3162450</data>
+  <data key="d1">-14.891893</data>
+  <data key="d2">-44.22772</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Buritis">
+  <data key="d0">3109303</data>
+  <data key="d1">-15.453172</data>
+  <data key="d2">-46.604368</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Lagamar">
+  <data key="d0">3137106</data>
+  <data key="d1">-18.103542</data>
+  <data key="d2">-46.734622</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Paracatu">
+  <data key="d0">3147006</data>
+  <data key="d1">-17.172988</data>
+  <data key="d2">-46.884244</data>
+  <data key="d3">0.017</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Formoso">
+  <data key="d0">3126208</data>
+  <data key="d1">-15.1297</data>
+  <data key="d2">-46.158482</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="São Francisco">
+  <data key="d0">3161106</data>
+  <data key="d1">-15.896469</data>
+  <data key="d2">-44.861289</data>
+  <data key="d3">0.031</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Vazante">
+  <data key="d0">3171006</data>
+  <data key="d1">-17.869152</data>
+  <data key="d2">-46.867624</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Montalvânia">
+  <data key="d0">3142700</data>
+  <data key="d1">-14.473191</data>
+  <data key="d2">-44.501535</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Bonfinópolis de Minas">
+  <data key="d0">3108206</data>
+  <data key="d1">-16.486352</data>
+  <data key="d2">-46.190389</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Pintópolis">
+  <data key="d0">3150570</data>
+  <data key="d1">-16.049381</data>
+  <data key="d2">-45.247247</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Itacarambi">
+  <data key="d0">3132107</data>
+  <data key="d1">-15.177268</data>
+  <data key="d2">-44.125008</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Uruana de Minas">
+  <data key="d0">3170479</data>
+  <data key="d1">-16.092587</data>
+  <data key="d2">-46.319614</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Presidente Olegário">
+  <data key="d0">3153400</data>
+  <data key="d1">-18.239194</data>
+  <data key="d2">-46.336181</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Chapada Gaúcha">
+  <data key="d0">3116159</data>
+  <data key="d1">-15.46938</data>
+  <data key="d2">-45.458571</data>
+  <data key="d3">0.131</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Unaí">
+  <data key="d0">3170404</data>
+  <data key="d1">-16.375773</data>
+  <data key="d2">-46.819558</data>
+  <data key="d3">0.018</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Januária">
+  <data key="d0">3135209</data>
+  <data key="d1">-15.319961</data>
+  <data key="d2">-44.849479</data>
+  <data key="d3">0.049</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Bonito de Minas">
+  <data key="d0">3108255</data>
+  <data key="d1">-14.992765</data>
+  <data key="d2">-44.896755</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Manga">
+  <data key="d0">3139300</data>
+  <data key="d1">-14.6481</data>
+  <data key="d2">-44.092546</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Varjão de Minas">
+  <data key="d0">3170750</data>
+  <data key="d1">-18.466567</data>
+  <data key="d2">-45.935175</data>
+  <data key="d3">0.228</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Juvenília">
+  <data key="d0">3136959</data>
+  <data key="d1">-14.385665</data>
+  <data key="d2">-44.084134</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Matias Cardoso">
+  <data key="d0">3140852</data>
+  <data key="d1">-14.902826</data>
+  <data key="d2">-43.760958</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Natalândia">
+  <data key="d0">3144375</data>
+  <data key="d1">-16.545175</data>
+  <data key="d2">-46.474758</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Icaraí de Minas">
+  <data key="d0">3130051</data>
+  <data key="d1">-16.225127</data>
+  <data key="d2">-44.916393</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Lagoa Grande">
+  <data key="d0">3137536</data>
+  <data key="d1">-17.76637</data>
+  <data key="d2">-46.501607</data>
+  <data key="d3">0.176</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Dom Bosco">
+  <data key="d0">3122470</data>
+  <data key="d1">-16.740318</data>
+  <data key="d2">-46.28992</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Pedras de Maria da Cruz">
+  <data key="d0">3149150</data>
+  <data key="d1">-15.625732</data>
+  <data key="d2">-44.323632</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="João Pinheiro">
+  <data key="d0">3136306</data>
+  <data key="d1">-17.60493</data>
+  <data key="d2">-45.934271</data>
+  <data key="d3">0.101</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="São Gonçalo do Abaeté">
+  <data key="d0">3161700</data>
+  <data key="d1">-18.176697</data>
+  <data key="d2">-45.545927</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Arinos">
+  <data key="d0">3104502</data>
+  <data key="d1">-15.750686</data>
+  <data key="d2">-45.988575</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Brasilândia de Minas">
+  <data key="d0">3108552</data>
+  <data key="d1">-16.956983</data>
+  <data key="d2">-45.902478</data>
+  <data key="d3">0.218</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Cônego Marinho">
+  <data key="d0">3117836</data>
+  <data key="d1">-14.984689</data>
+  <data key="d2">-44.596396</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<node id="Cabeceira Grande">
+  <data key="d0">3109451</data>
+  <data key="d1">-16.076193</data>
+  <data key="d2">-47.123698</data>
+  <data key="d3">0.0</data>
+  <data key="d4">noroeste_de_minas</data>
+  <data key="d5">Noroeste de Minas</data>
+</node>
+<edge source="Guarda-Mor" target="Vazante">
+  <data key="d6">31.36</data>
+</edge>
+<edge source="Guarda-Mor" target="Paracatu">
+  <data key="d6">66.98</data>
+</edge>
+<edge source="Miravânia" target="Cônego Marinho">
+  <data key="d6">31.78</data>
+</edge>
+<edge source="Miravânia" target="Itacarambi">
+  <data key="d6">56.73</data>
+</edge>
+<edge source="Miravânia" target="Manga">
+  <data key="d6">37.28</data>
+</edge>
+<edge source="Miravânia" target="Montalvânia">
+  <data key="d6">32.12</data>
+</edge>
+<edge source="Miravânia" target="São João das Missões">
+  <data key="d6">25.91</data>
+</edge>
+<edge source="São João das Missões" target="Cônego Marinho">
+  <data key="d6">40.96</data>
+</edge>
+<edge source="São João das Missões" target="Itacarambi">
+  <data key="d6">33.43</data>
+</edge>
+<edge source="São João das Missões" target="Manga">
+  <data key="d6">30.65</data>
+</edge>
+<edge source="Buritis" target="Arinos">
+  <data key="d6">73.8</data>
+</edge>
+<edge source="Buritis" target="Unaí">
+  <data key="d6">104.66</data>
+</edge>
+<edge source="Buritis" target="Formoso">
+  <data key="d6">59.76</data>
+</edge>
+<edge source="Lagamar" target="Presidente Olegário">
+  <data key="d6">44.74</data>
+</edge>
+<edge source="Lagamar" target="Lagoa Grande">
+  <data key="d6">44.74</data>
+</edge>
+<edge source="Lagamar" target="Vazante">
+  <data key="d6">29.52</data>
+</edge>
+<edge source="Paracatu" target="João Pinheiro">
+  <data key="d6">111.66</data>
+</edge>
+<edge source="Paracatu" target="Lagoa Grande">
+  <data key="d6">77.23</data>
+</edge>
+<edge source="Paracatu" target="Vazante">
+  <data key="d6">77.07</data>
+</edge>
+<edge source="Paracatu" target="Unaí">
+  <data key="d6">88.52</data>
+</edge>
+<edge source="Formoso" target="Arinos">
+  <data key="d6">71.08</data>
+</edge>
+<edge source="Formoso" target="Chapada Gaúcha">
+  <data key="d6">84.02</data>
+</edge>
+<edge source="São Francisco" target="Chapada Gaúcha">
+  <data key="d6">79.57</data>
+</edge>
+<edge source="São Francisco" target="Icaraí de Minas">
+  <data key="d6">36.83</data>
+</edge>
+<edge source="São Francisco" target="Januária">
+  <data key="d6">63.77</data>
+</edge>
+<edge source="São Francisco" target="Pedras de Maria da Cruz">
+  <data key="d6">64.94</data>
+</edge>
+<edge source="São Francisco" target="Pintópolis">
+  <data key="d6">44.62</data>
+</edge>
+<edge source="Vazante" target="Lagoa Grande">
+  <data key="d6">40.42</data>
+</edge>
+<edge source="Montalvânia" target="Bonito de Minas">
+  <data key="d6">71.49</data>
+</edge>
+<edge source="Montalvânia" target="Cônego Marinho">
+  <data key="d6">57.47</data>
+</edge>
+<edge source="Montalvânia" target="Juvenília">
+  <data key="d6">46.02</data>
+</edge>
+<edge source="Montalvânia" target="Manga">
+  <data key="d6">48.11</data>
+</edge>
+<edge source="Bonfinópolis de Minas" target="Brasilândia de Minas">
+  <data key="d6">60.45</data>
+</edge>
+<edge source="Bonfinópolis de Minas" target="Dom Bosco">
+  <data key="d6">30.03</data>
+</edge>
+<edge source="Bonfinópolis de Minas" target="Unaí">
+  <data key="d6">68.29</data>
+</edge>
+<edge source="Bonfinópolis de Minas" target="Natalândia">
+  <data key="d6">31.03</data>
+</edge>
+<edge source="Bonfinópolis de Minas" target="Uruana de Minas">
+  <data key="d6">45.7</data>
+</edge>
+<edge source="Pintópolis" target="Chapada Gaúcha">
+  <data key="d6">68.05</data>
+</edge>
+<edge source="Pintópolis" target="Icaraí de Minas">
+  <data key="d6">40.37</data>
+</edge>
+<edge source="Itacarambi" target="Cônego Marinho">
+  <data key="d6">54.96</data>
+</edge>
+<edge source="Itacarambi" target="Januária">
+  <data key="d6">79.4</data>
+</edge>
+<edge source="Itacarambi" target="Matias Cardoso">
+  <data key="d6">49.54</data>
+</edge>
+<edge source="Itacarambi" target="Pedras de Maria da Cruz">
+  <data key="d6">53.99</data>
+</edge>
+<edge source="Itacarambi" target="Manga">
+  <data key="d6">58.64</data>
+</edge>
+<edge source="Uruana de Minas" target="Arinos">
+  <data key="d6">51.85</data>
+</edge>
+<edge source="Uruana de Minas" target="Unaí">
+  <data key="d6">61.95</data>
+</edge>
+<edge source="Presidente Olegário" target="João Pinheiro">
+  <data key="d6">82.1</data>
+</edge>
+<edge source="Presidente Olegário" target="Lagoa Grande">
+  <data key="d6">55.18</data>
+</edge>
+<edge source="Presidente Olegário" target="São Gonçalo do Abaeté">
+  <data key="d6">83.88</data>
+</edge>
+<edge source="Presidente Olegário" target="Varjão de Minas">
+  <data key="d6">49.29</data>
+</edge>
+<edge source="Chapada Gaúcha" target="Arinos">
+  <data key="d6">64.76</data>
+</edge>
+<edge source="Chapada Gaúcha" target="Januária">
+  <data key="d6">67.41</data>
+</edge>
+<edge source="Unaí" target="Arinos">
+  <data key="d6">112.64</data>
+</edge>
+<edge source="Unaí" target="Brasilândia de Minas">
+  <data key="d6">117.07</data>
+</edge>
+<edge source="Unaí" target="Cabeceira Grande">
+  <data key="d6">46.43</data>
+</edge>
+<edge source="Unaí" target="Dom Bosco">
+  <data key="d6">69.45</data>
+</edge>
+<edge source="Unaí" target="João Pinheiro">
+  <data key="d6">165.47</data>
+</edge>
+<edge source="Unaí" target="Natalândia">
+  <data key="d6">41.32</data>
+</edge>
+<edge source="Januária" target="Bonito de Minas">
+  <data key="d6">36.58</data>
+</edge>
+<edge source="Januária" target="Cônego Marinho">
+  <data key="d6">46.02</data>
+</edge>
+<edge source="Januária" target="Pedras de Maria da Cruz">
+  <data key="d6">65.8</data>
+</edge>
+<edge source="Bonito de Minas" target="Cônego Marinho">
+  <data key="d6">32.3</data>
+</edge>
+<edge source="Manga" target="Juvenília">
+  <data key="d6">29.04</data>
+</edge>
+<edge source="Manga" target="Matias Cardoso">
+  <data key="d6">45.48</data>
+</edge>
+<edge source="Varjão de Minas" target="São Gonçalo do Abaeté">
+  <data key="d6">52.18</data>
+</edge>
+<edge source="Natalândia" target="Dom Bosco">
+  <data key="d6">29.24</data>
+</edge>
+<edge source="Lagoa Grande" target="João Pinheiro">
+  <data key="d6">62.77</data>
+</edge>
+<edge source="Dom Bosco" target="Brasilândia de Minas">
+  <data key="d6">47.73</data>
+</edge>
+<edge source="João Pinheiro" target="Brasilândia de Minas">
+  <data key="d6">71.74</data>
+</edge>
+<edge source="João Pinheiro" target="São Gonçalo do Abaeté">
+  <data key="d6">75.5</data>
+</edge>
+</graph></graphml>

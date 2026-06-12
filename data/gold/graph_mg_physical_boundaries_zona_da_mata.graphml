@@ -1,0 +1,2041 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Divinésia">
+  <data key="d0">3121902</data>
+  <data key="d1">-20.987916</data>
+  <data key="d2">-42.998061</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Rochedo de Minas">
+  <data key="d0">3156205</data>
+  <data key="d1">-21.641014</data>
+  <data key="d2">-43.028565</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santana do Manhuaçu">
+  <data key="d0">3158904</data>
+  <data key="d1">-20.055958</data>
+  <data key="d2">-41.892311</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Alto Rio Doce">
+  <data key="d0">3102100</data>
+  <data key="d1">-21.035761</data>
+  <data key="d2">-43.403399</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Martins Soares">
+  <data key="d0">3140530</data>
+  <data key="d1">-20.258885</data>
+  <data key="d2">-41.842668</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Matipó">
+  <data key="d0">3140902</data>
+  <data key="d1">-20.308476</data>
+  <data key="d2">-42.315688</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Sem-Peixe">
+  <data key="d0">3165560</data>
+  <data key="d1">-20.080052</data>
+  <data key="d2">-42.825121</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Patrocínio do Muriaé">
+  <data key="d0">3148202</data>
+  <data key="d1">-21.167153</data>
+  <data key="d2">-42.252986</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Mar de Espanha">
+  <data key="d0">3139805</data>
+  <data key="d1">-21.877681</data>
+  <data key="d2">-43.018573</data>
+  <data key="d3">0.259</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Recreio">
+  <data key="d0">3154101</data>
+  <data key="d1">-21.519777</data>
+  <data key="d2">-42.43785</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Guiricema">
+  <data key="d0">3129004</data>
+  <data key="d1">-21.014903</data>
+  <data key="d2">-42.699682</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Rosário da Limeira">
+  <data key="d0">3156452</data>
+  <data key="d1">-20.979374</data>
+  <data key="d2">-42.511411</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Senhora de Oliveira">
+  <data key="d0">3166006</data>
+  <data key="d1">-20.801</data>
+  <data key="d2">-43.349449</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Tabuleiro">
+  <data key="d0">3167905</data>
+  <data key="d1">-21.363355</data>
+  <data key="d2">-43.256172</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Cipotânea">
+  <data key="d0">3116308</data>
+  <data key="d1">-20.923988</data>
+  <data key="d2">-43.358165</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Lamim">
+  <data key="d0">3137908</data>
+  <data key="d1">-20.779725</data>
+  <data key="d2">-43.474539</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Carangola">
+  <data key="d0">3113305</data>
+  <data key="d1">-20.702658</data>
+  <data key="d2">-42.087522</data>
+  <data key="d3">0.052</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Chácara">
+  <data key="d0">3115904</data>
+  <data key="d1">-21.686639</data>
+  <data key="d2">-43.213215</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São José do Mantimento">
+  <data key="d0">3163607</data>
+  <data key="d1">-20.020127</data>
+  <data key="d2">-41.770042</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Guarani">
+  <data key="d0">3128402</data>
+  <data key="d1">-21.356975</data>
+  <data key="d2">-43.057669</data>
+  <data key="d3">0.214</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Alto Caparaó">
+  <data key="d0">3102050</data>
+  <data key="d1">-20.458425</data>
+  <data key="d2">-41.864896</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Argirita">
+  <data key="d0">3104403</data>
+  <data key="d1">-21.635318</data>
+  <data key="d2">-42.83259</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Piranga">
+  <data key="d0">3150802</data>
+  <data key="d1">-20.633255</data>
+  <data key="d2">-43.299016</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Silveirânia">
+  <data key="d0">3167301</data>
+  <data key="d1">-21.143368</data>
+  <data key="d2">-43.203044</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Belmiro Braga">
+  <data key="d0">3106101</data>
+  <data key="d1">-21.985805</data>
+  <data key="d2">-43.468733</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Itamarati de Minas">
+  <data key="d0">3132602</data>
+  <data key="d1">-21.424045</data>
+  <data key="d2">-42.847855</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Paiva">
+  <data key="d0">3146602</data>
+  <data key="d1">-21.286755</data>
+  <data key="d2">-43.423872</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Ubá">
+  <data key="d0">3169901</data>
+  <data key="d1">-21.105329</data>
+  <data key="d2">-42.965274</data>
+  <data key="d3">0.065</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Bicas">
+  <data key="d0">3106903</data>
+  <data key="d1">-21.731512</data>
+  <data key="d2">-43.104802</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Caputira">
+  <data key="d0">3112901</data>
+  <data key="d1">-20.176479</data>
+  <data key="d2">-42.25231</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Dores do Turvo">
+  <data key="d0">3123304</data>
+  <data key="d1">-21.023913</data>
+  <data key="d2">-43.167216</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Orizânia">
+  <data key="d0">3145877</data>
+  <data key="d1">-20.514578</data>
+  <data key="d2">-42.212846</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Reduto">
+  <data key="d0">3154150</data>
+  <data key="d1">-20.23781</data>
+  <data key="d2">-41.940295</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Ewbank da Câmara">
+  <data key="d0">3125002</data>
+  <data key="d1">-21.57505</data>
+  <data key="d2">-43.56055</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Oliveira Fortes">
+  <data key="d0">3145703</data>
+  <data key="d1">-21.335819</data>
+  <data key="d2">-43.514918</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Caiana">
+  <data key="d0">3110103</data>
+  <data key="d1">-20.72531</data>
+  <data key="d2">-41.908415</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Chalé">
+  <data key="d0">3116001</data>
+  <data key="d1">-20.030978</data>
+  <data key="d2">-41.659784</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Pedra Dourada">
+  <data key="d0">3149002</data>
+  <data key="d1">-20.827694</data>
+  <data key="d2">-42.154906</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Aracitaba">
+  <data key="d0">3103306</data>
+  <data key="d1">-21.350335</data>
+  <data key="d2">-43.403757</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Barão de Monte Alto">
+  <data key="d0">3105509</data>
+  <data key="d1">-21.264787</data>
+  <data key="d2">-42.278433</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São João do Manhuaçu">
+  <data key="d0">3162559</data>
+  <data key="d1">-20.369993</data>
+  <data key="d2">-42.153481</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Abre Campo">
+  <data key="d0">3100302</data>
+  <data key="d1">-20.273172</data>
+  <data key="d2">-42.442634</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Piraúba">
+  <data key="d0">3151305</data>
+  <data key="d1">-21.263779</data>
+  <data key="d2">-43.029695</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Simão Pereira">
+  <data key="d0">3167509</data>
+  <data key="d1">-21.964229</data>
+  <data key="d2">-43.292983</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Araponga">
+  <data key="d0">3103702</data>
+  <data key="d1">-20.662792</data>
+  <data key="d2">-42.49885</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Guarará">
+  <data key="d0">3128501</data>
+  <data key="d1">-21.754717</data>
+  <data key="d2">-43.022064</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Descoberto">
+  <data key="d0">3121308</data>
+  <data key="d1">-21.446763</data>
+  <data key="d2">-42.963511</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santa Rita de Jacutinga">
+  <data key="d0">3159308</data>
+  <data key="d1">-22.101531</data>
+  <data key="d2">-44.091849</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santa Bárbara do Monte Verde">
+  <data key="d0">3157278</data>
+  <data key="d1">-21.963941</data>
+  <data key="d2">-43.694469</data>
+  <data key="d3">0.542</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Teixeiras">
+  <data key="d0">3168507</data>
+  <data key="d1">-20.632125</data>
+  <data key="d2">-42.862464</data>
+  <data key="d3">0.133</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Laranjal">
+  <data key="d0">3138005</data>
+  <data key="d1">-21.356635</data>
+  <data key="d2">-42.450763</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Manhuaçu">
+  <data key="d0">3139409</data>
+  <data key="d1">-20.195325</data>
+  <data key="d2">-42.106835</data>
+  <data key="d3">0.054</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Antônio Prado de Minas">
+  <data key="d0">3103108</data>
+  <data key="d1">-21.022543</data>
+  <data key="d2">-42.152021</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Senador Cortes">
+  <data key="d0">3165602</data>
+  <data key="d1">-21.770438</data>
+  <data key="d2">-42.909189</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Tocantins">
+  <data key="d0">3169000</data>
+  <data key="d1">-21.177475</data>
+  <data key="d2">-43.026478</data>
+  <data key="d3">0.108</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Pequeri">
+  <data key="d0">3149507</data>
+  <data key="d1">-21.825873</data>
+  <data key="d2">-43.132098</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Brás Pires">
+  <data key="d0">3108701</data>
+  <data key="d1">-20.875124</data>
+  <data key="d2">-43.227451</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Durandé">
+  <data key="d0">3123528</data>
+  <data key="d1">-20.147266</data>
+  <data key="d2">-41.795432</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Rio Preto">
+  <data key="d0">3155900</data>
+  <data key="d1">-22.041027</data>
+  <data key="d2">-43.878622</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Matias Barbosa">
+  <data key="d0">3140803</data>
+  <data key="d1">-21.871029</data>
+  <data key="d2">-43.308003</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Divino">
+  <data key="d0">3122009</data>
+  <data key="d1">-20.589991</data>
+  <data key="d2">-42.175424</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Miraí">
+  <data key="d0">3142205</data>
+  <data key="d1">-21.150075</data>
+  <data key="d2">-42.61789</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Cajuri">
+  <data key="d0">3110202</data>
+  <data key="d1">-20.785307</data>
+  <data key="d2">-42.764153</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Paula Cândido">
+  <data key="d0">3148301</data>
+  <data key="d1">-20.85588</data>
+  <data key="d2">-42.984976</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Goianá">
+  <data key="d0">3127388</data>
+  <data key="d1">-21.555547</data>
+  <data key="d2">-43.18928</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santa Rita de Ibitipoca">
+  <data key="d0">3159407</data>
+  <data key="d1">-21.577218</data>
+  <data key="d2">-43.930201</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Bias Fortes">
+  <data key="d0">3106804</data>
+  <data key="d1">-21.624691</data>
+  <data key="d2">-43.773674</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Viçosa">
+  <data key="d0">3171303</data>
+  <data key="d1">-20.74042</data>
+  <data key="d2">-42.885513</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Porto Firme">
+  <data key="d0">3152303</data>
+  <data key="d1">-20.663585</data>
+  <data key="d2">-43.080366</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Leopoldina">
+  <data key="d0">3138401</data>
+  <data key="d1">-21.548648</data>
+  <data key="d2">-42.644097</data>
+  <data key="d3">0.033</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Pedra do Anta">
+  <data key="d0">3148806</data>
+  <data key="d1">-20.592975</data>
+  <data key="d2">-42.721325</data>
+  <data key="d3">0.457</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Rodeiro">
+  <data key="d0">3156304</data>
+  <data key="d1">-21.210682</data>
+  <data key="d2">-42.841313</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Olaria">
+  <data key="d0">3145406</data>
+  <data key="d1">-21.9071</data>
+  <data key="d2">-43.96607</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santa Margarida">
+  <data key="d0">3157906</data>
+  <data key="d1">-20.428138</data>
+  <data key="d2">-42.266162</data>
+  <data key="d3">0.098</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Coimbra">
+  <data key="d0">3116704</data>
+  <data key="d1">-20.84383</data>
+  <data key="d2">-42.791493</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Cataguases">
+  <data key="d0">3115300</data>
+  <data key="d1">-21.342415</data>
+  <data key="d2">-42.674057</data>
+  <data key="d3">0.047</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Caparaó">
+  <data key="d0">3112109</data>
+  <data key="d1">-20.527214</data>
+  <data key="d2">-41.949507</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São João Nepomuceno">
+  <data key="d0">3162906</data>
+  <data key="d1">-21.583021</data>
+  <data key="d2">-43.003247</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São Sebastião da Vargem Alegre">
+  <data key="d0">3164431</data>
+  <data key="d1">-21.024256</data>
+  <data key="d2">-42.599234</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Manhumirim">
+  <data key="d0">3139508</data>
+  <data key="d1">-20.347321</data>
+  <data key="d2">-41.939402</data>
+  <data key="d3">0.081</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Vieiras">
+  <data key="d0">3171402</data>
+  <data key="d1">-20.912645</data>
+  <data key="d2">-42.281986</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Guidoval">
+  <data key="d0">3128808</data>
+  <data key="d1">-21.1668</data>
+  <data key="d2">-42.785669</data>
+  <data key="d3">0.224</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santo Antônio do Aventureiro">
+  <data key="d0">3160009</data>
+  <data key="d1">-21.751444</data>
+  <data key="d2">-42.811525</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Presidente Bernardes">
+  <data key="d0">3153103</data>
+  <data key="d1">-20.77044</data>
+  <data key="d2">-43.154775</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Chiador">
+  <data key="d0">3116209</data>
+  <data key="d1">-22.002992</data>
+  <data key="d2">-43.029657</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santana do Deserto">
+  <data key="d0">3158607</data>
+  <data key="d1">-21.945971</data>
+  <data key="d2">-43.182806</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Simonésia">
+  <data key="d0">3167608</data>
+  <data key="d1">-19.998956</data>
+  <data key="d2">-41.987261</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São Francisco do Glória">
+  <data key="d0">3161403</data>
+  <data key="d1">-20.791916</data>
+  <data key="d2">-42.282276</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Canaã">
+  <data key="d0">3111705</data>
+  <data key="d1">-20.6668</data>
+  <data key="d2">-42.621834</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Rio Novo">
+  <data key="d0">3155405</data>
+  <data key="d1">-21.468571</data>
+  <data key="d2">-43.14391</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Dona Euzébia">
+  <data key="d0">3122900</data>
+  <data key="d1">-21.331452</data>
+  <data key="d2">-42.801056</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Pirapetinga">
+  <data key="d0">3151107</data>
+  <data key="d1">-21.679087</data>
+  <data key="d2">-42.363932</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Miradouro">
+  <data key="d0">3142106</data>
+  <data key="d1">-20.849528</data>
+  <data key="d2">-42.399671</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Fervedouro">
+  <data key="d0">3125952</data>
+  <data key="d1">-20.68072</data>
+  <data key="d2">-42.346904</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Amparo do Serra">
+  <data key="d0">3102506</data>
+  <data key="d1">-20.528182</data>
+  <data key="d2">-42.804934</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Vermelho Novo">
+  <data key="d0">3171154</data>
+  <data key="d1">-20.033985</data>
+  <data key="d2">-42.254299</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São Geraldo">
+  <data key="d0">3161502</data>
+  <data key="d1">-20.9106</data>
+  <data key="d2">-42.829109</data>
+  <data key="d3">0.312</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Mercês">
+  <data key="d0">3141603</data>
+  <data key="d1">-21.188268</data>
+  <data key="d2">-43.332843</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Lajinha">
+  <data key="d0">3137700</data>
+  <data key="d1">-20.143694</data>
+  <data key="d2">-41.587903</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Senador Firmino">
+  <data key="d0">3165701</data>
+  <data key="d1">-20.904273</data>
+  <data key="d2">-43.10449</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Luisburgo">
+  <data key="d0">3138674</data>
+  <data key="d1">-20.43629</data>
+  <data key="d2">-42.07446</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Espera Feliz">
+  <data key="d0">3124203</data>
+  <data key="d1">-20.597288</data>
+  <data key="d2">-41.929937</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Lima Duarte">
+  <data key="d0">3138609</data>
+  <data key="d1">-21.799403</data>
+  <data key="d2">-43.886916</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Além Paraíba">
+  <data key="d0">3101508</data>
+  <data key="d1">-21.826449</data>
+  <data key="d2">-42.746464</data>
+  <data key="d3">0.052</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São Pedro dos Ferros">
+  <data key="d0">3164001</data>
+  <data key="d1">-20.054191</data>
+  <data key="d2">-42.569844</data>
+  <data key="d3">0.225</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Visconde do Rio Branco">
+  <data key="d0">3172004</data>
+  <data key="d1">-21.011577</data>
+  <data key="d2">-42.839965</data>
+  <data key="d3">0.083</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Pedra Bonita">
+  <data key="d0">3148756</data>
+  <data key="d1">-20.476643</data>
+  <data key="d2">-42.375302</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="São Miguel do Anta">
+  <data key="d0">3163805</data>
+  <data key="d1">-20.726824</data>
+  <data key="d2">-42.710834</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Rio Pomba">
+  <data key="d0">3155801</data>
+  <data key="d1">-21.24838</data>
+  <data key="d2">-43.1718</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Piau">
+  <data key="d0">3150109</data>
+  <data key="d1">-21.502384</data>
+  <data key="d2">-43.316744</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Muriaé">
+  <data key="d0">3143906</data>
+  <data key="d1">-21.091372</data>
+  <data key="d2">-42.421458</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Rio Espera">
+  <data key="d0">3155207</data>
+  <data key="d1">-20.867882</data>
+  <data key="d2">-43.492077</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santana de Cataguases">
+  <data key="d0">3158409</data>
+  <data key="d1">-21.282115</data>
+  <data key="d2">-42.556146</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Urucânia">
+  <data key="d0">3170503</data>
+  <data key="d1">-20.325314</data>
+  <data key="d2">-42.729792</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Maripá de Minas">
+  <data key="d0">3140209</data>
+  <data key="d1">-21.694303</data>
+  <data key="d2">-42.956546</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Juiz de Fora">
+  <data key="d0">3136702</data>
+  <data key="d1">-21.745499</data>
+  <data key="d2">-43.464733</data>
+  <data key="d3">0.023</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Faria Lemos">
+  <data key="d0">3125309</data>
+  <data key="d1">-20.781174</data>
+  <data key="d2">-42.035655</data>
+  <data key="d3">1.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santo Antônio do Grama">
+  <data key="d0">3160108</data>
+  <data key="d1">-20.322177</data>
+  <data key="d2">-42.603926</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Pedro Teixeira">
+  <data key="d0">3149408</data>
+  <data key="d1">-21.725281</data>
+  <data key="d2">-43.729117</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Alto Jequitibá">
+  <data key="d0">3153509</data>
+  <data key="d1">-20.437248</data>
+  <data key="d2">-41.948847</data>
+  <data key="d3">0.191</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santos Dumont">
+  <data key="d0">3160702</data>
+  <data key="d1">-21.457727</data>
+  <data key="d2">-43.525719</data>
+  <data key="d3">0.073</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Volta Grande">
+  <data key="d0">3172103</data>
+  <data key="d1">-21.758022</data>
+  <data key="d2">-42.557356</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Coronel Pacheco">
+  <data key="d0">3119609</data>
+  <data key="d1">-21.604668</data>
+  <data key="d2">-43.293096</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Ervália">
+  <data key="d0">3124005</data>
+  <data key="d1">-20.848973</data>
+  <data key="d2">-42.600638</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Eugenópolis">
+  <data key="d0">3124906</data>
+  <data key="d1">-21.014022</data>
+  <data key="d2">-42.22328</data>
+  <data key="d3">0.148</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Palma">
+  <data key="d0">3146701</data>
+  <data key="d1">-21.419077</data>
+  <data key="d2">-42.328882</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Tombos">
+  <data key="d0">3169208</data>
+  <data key="d1">-20.881901</data>
+  <data key="d2">-42.064172</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Sericita">
+  <data key="d0">3166303</data>
+  <data key="d1">-20.492319</data>
+  <data key="d2">-42.458723</data>
+  <data key="d3">0.218</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Estrela Dalva">
+  <data key="d0">3124609</data>
+  <data key="d1">-21.706503</data>
+  <data key="d2">-42.467085</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Santa Bárbara do Leste">
+  <data key="d0">3157252</data>
+  <data key="d1">-19.945139</data>
+  <data key="d2">-42.106604</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<node id="Astolfo Dutra">
+  <data key="d0">3104601</data>
+  <data key="d1">-21.315494</data>
+  <data key="d2">-42.879319</data>
+  <data key="d3">0.0</data>
+  <data key="d4">zona_da_mata</data>
+  <data key="d5">Zona da Mata</data>
+</node>
+<edge source="Divinésia" target="Ubá">
+  <data key="d6">13.44</data>
+</edge>
+<edge source="Divinésia" target="Visconde do Rio Branco">
+  <data key="d6">16.65</data>
+</edge>
+<edge source="Divinésia" target="Senador Firmino">
+  <data key="d6">14.43</data>
+</edge>
+<edge source="Divinésia" target="Paula Cândido">
+  <data key="d6">14.68</data>
+</edge>
+<edge source="Rochedo de Minas" target="Bicas">
+  <data key="d6">12.75</data>
+</edge>
+<edge source="Rochedo de Minas" target="Maripá de Minas">
+  <data key="d6">9.51</data>
+</edge>
+<edge source="Rochedo de Minas" target="São João Nepomuceno">
+  <data key="d6">6.94</data>
+</edge>
+<edge source="Santana do Manhuaçu" target="Durandé">
+  <data key="d6">14.33</data>
+</edge>
+<edge source="Santana do Manhuaçu" target="Manhuaçu">
+  <data key="d6">27.25</data>
+</edge>
+<edge source="Santana do Manhuaçu" target="Reduto">
+  <data key="d6">20.77</data>
+</edge>
+<edge source="Santana do Manhuaçu" target="São José do Mantimento">
+  <data key="d6">13.4</data>
+</edge>
+<edge source="Santana do Manhuaçu" target="Simonésia">
+  <data key="d6">11.78</data>
+</edge>
+<edge source="Alto Rio Doce" target="Mercês">
+  <data key="d6">18.41</data>
+</edge>
+<edge source="Alto Rio Doce" target="Dores do Turvo">
+  <data key="d6">24.59</data>
+</edge>
+<edge source="Alto Rio Doce" target="Cipotânea">
+  <data key="d6">13.24</data>
+</edge>
+<edge source="Alto Rio Doce" target="Rio Espera">
+  <data key="d6">20.75</data>
+</edge>
+<edge source="Alto Rio Doce" target="Brás Pires">
+  <data key="d6">25.52</data>
+</edge>
+<edge source="Martins Soares" target="Durandé">
+  <data key="d6">13.32</data>
+</edge>
+<edge source="Martins Soares" target="Manhumirim">
+  <data key="d6">14.08</data>
+</edge>
+<edge source="Martins Soares" target="Reduto">
+  <data key="d6">10.47</data>
+</edge>
+<edge source="Matipó" target="Abre Campo">
+  <data key="d6">13.83</data>
+</edge>
+<edge source="Matipó" target="Caputira">
+  <data key="d6">16.05</data>
+</edge>
+<edge source="Matipó" target="Manhuaçu">
+  <data key="d6">25.18</data>
+</edge>
+<edge source="Matipó" target="Pedra Bonita">
+  <data key="d6">19.64</data>
+</edge>
+<edge source="Matipó" target="Santa Margarida">
+  <data key="d6">14.23</data>
+</edge>
+<edge source="Matipó" target="São João do Manhuaçu">
+  <data key="d6">18.27</data>
+</edge>
+<edge source="Patrocínio do Muriaé" target="Barão de Monte Alto">
+  <data key="d6">11.13</data>
+</edge>
+<edge source="Patrocínio do Muriaé" target="Eugenópolis">
+  <data key="d6">17.25</data>
+</edge>
+<edge source="Patrocínio do Muriaé" target="Muriaé">
+  <data key="d6">19.42</data>
+</edge>
+<edge source="Mar de Espanha" target="Além Paraíba">
+  <data key="d6">28.7</data>
+</edge>
+<edge source="Mar de Espanha" target="Chiador">
+  <data key="d6">13.92</data>
+</edge>
+<edge source="Mar de Espanha" target="Guarará">
+  <data key="d6">13.62</data>
+</edge>
+<edge source="Mar de Espanha" target="Santana do Deserto">
+  <data key="d6">18.58</data>
+</edge>
+<edge source="Mar de Espanha" target="Pequeri">
+  <data key="d6">13.07</data>
+</edge>
+<edge source="Mar de Espanha" target="Senador Cortes">
+  <data key="d6">16.4</data>
+</edge>
+<edge source="Mar de Espanha" target="Santo Antônio do Aventureiro">
+  <data key="d6">25.57</data>
+</edge>
+<edge source="Mar de Espanha" target="Maripá de Minas">
+  <data key="d6">21.3</data>
+</edge>
+<edge source="Recreio" target="Laranjal">
+  <data key="d6">18.12</data>
+</edge>
+<edge source="Recreio" target="Leopoldina">
+  <data key="d6">21.61</data>
+</edge>
+<edge source="Recreio" target="Palma">
+  <data key="d6">15.88</data>
+</edge>
+<edge source="Recreio" target="Pirapetinga">
+  <data key="d6">19.24</data>
+</edge>
+<edge source="Guiricema" target="Ervália">
+  <data key="d6">21.07</data>
+</edge>
+<edge source="Guiricema" target="Guidoval">
+  <data key="d6">19.05</data>
+</edge>
+<edge source="Guiricema" target="Visconde do Rio Branco">
+  <data key="d6">14.59</data>
+</edge>
+<edge source="Guiricema" target="Miraí">
+  <data key="d6">17.22</data>
+</edge>
+<edge source="Guiricema" target="São Sebastião da Vargem Alegre">
+  <data key="d6">10.5</data>
+</edge>
+<edge source="Guiricema" target="São Geraldo">
+  <data key="d6">17.74</data>
+</edge>
+<edge source="Rosário da Limeira" target="Ervália">
+  <data key="d6">17.17</data>
+</edge>
+<edge source="Rosário da Limeira" target="Miraí">
+  <data key="d6">21.91</data>
+</edge>
+<edge source="Rosário da Limeira" target="Muriaé">
+  <data key="d6">15.53</data>
+</edge>
+<edge source="Rosário da Limeira" target="São Sebastião da Vargem Alegre">
+  <data key="d6">10.4</data>
+</edge>
+<edge source="Senhora de Oliveira" target="Brás Pires">
+  <data key="d6">15.12</data>
+</edge>
+<edge source="Senhora de Oliveira" target="Cipotânea">
+  <data key="d6">13.65</data>
+</edge>
+<edge source="Senhora de Oliveira" target="Lamim">
+  <data key="d6">13.23</data>
+</edge>
+<edge source="Senhora de Oliveira" target="Piranga">
+  <data key="d6">19.3</data>
+</edge>
+<edge source="Senhora de Oliveira" target="Presidente Bernardes">
+  <data key="d6">20.55</data>
+</edge>
+<edge source="Senhora de Oliveira" target="Rio Espera">
+  <data key="d6">16.59</data>
+</edge>
+<edge source="Tabuleiro" target="Aracitaba">
+  <data key="d6">15.37</data>
+</edge>
+<edge source="Tabuleiro" target="Guarani">
+  <data key="d6">20.6</data>
+</edge>
+<edge source="Tabuleiro" target="Mercês">
+  <data key="d6">20.96</data>
+</edge>
+<edge source="Tabuleiro" target="Piau">
+  <data key="d6">16.62</data>
+</edge>
+<edge source="Tabuleiro" target="Rio Novo">
+  <data key="d6">16.47</data>
+</edge>
+<edge source="Tabuleiro" target="Rio Pomba">
+  <data key="d6">15.45</data>
+</edge>
+<edge source="Tabuleiro" target="Santos Dumont">
+  <data key="d6">29.83</data>
+</edge>
+<edge source="Cipotânea" target="Brás Pires">
+  <data key="d6">14.64</data>
+</edge>
+<edge source="Cipotânea" target="Rio Espera">
+  <data key="d6">15.25</data>
+</edge>
+<edge source="Lamim" target="Rio Espera">
+  <data key="d6">9.93</data>
+</edge>
+<edge source="Lamim" target="Piranga">
+  <data key="d6">24.44</data>
+</edge>
+<edge source="Carangola" target="Caiana">
+  <data key="d6">18.84</data>
+</edge>
+<edge source="Carangola" target="Pedra Dourada">
+  <data key="d6">15.53</data>
+</edge>
+<edge source="Carangola" target="Faria Lemos">
+  <data key="d6">10.24</data>
+</edge>
+<edge source="Carangola" target="São Francisco do Glória">
+  <data key="d6">22.58</data>
+</edge>
+<edge source="Carangola" target="Fervedouro">
+  <data key="d6">27.15</data>
+</edge>
+<edge source="Carangola" target="Espera Feliz">
+  <data key="d6">20.16</data>
+</edge>
+<edge source="Carangola" target="Divino">
+  <data key="d6">15.49</data>
+</edge>
+<edge source="Chácara" target="Bicas">
+  <data key="d6">12.27</data>
+</edge>
+<edge source="Chácara" target="Juiz de Fora">
+  <data key="d6">26.82</data>
+</edge>
+<edge source="Chácara" target="Coronel Pacheco">
+  <data key="d6">12.28</data>
+</edge>
+<edge source="Chácara" target="São João Nepomuceno">
+  <data key="d6">24.58</data>
+</edge>
+<edge source="Chácara" target="Goianá">
+  <data key="d6">14.73</data>
+</edge>
+<edge source="São José do Mantimento" target="Chalé">
+  <data key="d6">11.61</data>
+</edge>
+<edge source="São José do Mantimento" target="Durandé">
+  <data key="d6">14.34</data>
+</edge>
+<edge source="Guarani" target="Astolfo Dutra">
+  <data key="d6">19.07</data>
+</edge>
+<edge source="Guarani" target="Descoberto">
+  <data key="d6">13.93</data>
+</edge>
+<edge source="Guarani" target="Rio Novo">
+  <data key="d6">15.25</data>
+</edge>
+<edge source="Guarani" target="Piraúba">
+  <data key="d6">10.72</data>
+</edge>
+<edge source="Guarani" target="Rio Pomba">
+  <data key="d6">16.88</data>
+</edge>
+<edge source="Alto Caparaó" target="Espera Feliz">
+  <data key="d6">16.82</data>
+</edge>
+<edge source="Alto Caparaó" target="Caparaó">
+  <data key="d6">11.67</data>
+</edge>
+<edge source="Alto Caparaó" target="Alto Jequitibá">
+  <data key="d6">9.08</data>
+</edge>
+<edge source="Argirita" target="Senador Cortes">
+  <data key="d6">16.93</data>
+</edge>
+<edge source="Argirita" target="Santo Antônio do Aventureiro">
+  <data key="d6">13.04</data>
+</edge>
+<edge source="Argirita" target="Maripá de Minas">
+  <data key="d6">14.4</data>
+</edge>
+<edge source="Argirita" target="São João Nepomuceno">
+  <data key="d6">18.6</data>
+</edge>
+<edge source="Argirita" target="Leopoldina">
+  <data key="d6">21.76</data>
+</edge>
+<edge source="Piranga" target="Presidente Bernardes">
+  <data key="d6">21.37</data>
+</edge>
+<edge source="Piranga" target="Porto Firme">
+  <data key="d6">23.03</data>
+</edge>
+<edge source="Silveirânia" target="Dores do Turvo">
+  <data key="d6">13.74</data>
+</edge>
+<edge source="Silveirânia" target="Mercês">
+  <data key="d6">14.37</data>
+</edge>
+<edge source="Silveirânia" target="Rio Pomba">
+  <data key="d6">12.07</data>
+</edge>
+<edge source="Belmiro Braga" target="Simão Pereira">
+  <data key="d6">18.3</data>
+</edge>
+<edge source="Belmiro Braga" target="Santa Bárbara do Monte Verde">
+  <data key="d6">23.44</data>
+</edge>
+<edge source="Belmiro Braga" target="Matias Barbosa">
+  <data key="d6">20.91</data>
+</edge>
+<edge source="Belmiro Braga" target="Juiz de Fora">
+  <data key="d6">26.61</data>
+</edge>
+<edge source="Itamarati de Minas" target="Astolfo Dutra">
+  <data key="d6">12.46</data>
+</edge>
+<edge source="Itamarati de Minas" target="Cataguases">
+  <data key="d6">20.17</data>
+</edge>
+<edge source="Itamarati de Minas" target="Descoberto">
+  <data key="d6">12.25</data>
+</edge>
+<edge source="Itamarati de Minas" target="Dona Euzébia">
+  <data key="d6">11.35</data>
+</edge>
+<edge source="Itamarati de Minas" target="Leopoldina">
+  <data key="d6">25.23</data>
+</edge>
+<edge source="Paiva" target="Aracitaba">
+  <data key="d6">7.34</data>
+</edge>
+<edge source="Paiva" target="Mercês">
+  <data key="d6">14.43</data>
+</edge>
+<edge source="Paiva" target="Oliveira Fortes">
+  <data key="d6">10.9</data>
+</edge>
+<edge source="Ubá" target="Astolfo Dutra">
+  <data key="d6">24.93</data>
+</edge>
+<edge source="Ubá" target="Dores do Turvo">
+  <data key="d6">22.84</data>
+</edge>
+<edge source="Ubá" target="Guidoval">
+  <data key="d6">19.87</data>
+</edge>
+<edge source="Ubá" target="Piraúba">
+  <data key="d6">18.78</data>
+</edge>
+<edge source="Ubá" target="Rodeiro">
+  <data key="d6">17.38</data>
+</edge>
+<edge source="Ubá" target="Senador Firmino">
+  <data key="d6">26.55</data>
+</edge>
+<edge source="Ubá" target="Tocantins">
+  <data key="d6">10.21</data>
+</edge>
+<edge source="Ubá" target="Visconde do Rio Branco">
+  <data key="d6">16.66</data>
+</edge>
+<edge source="Bicas" target="Pequeri">
+  <data key="d6">10.82</data>
+</edge>
+<edge source="Bicas" target="Guarará">
+  <data key="d6">8.94</data>
+</edge>
+<edge source="Bicas" target="Maripá de Minas">
+  <data key="d6">15.88</data>
+</edge>
+<edge source="Bicas" target="Juiz de Fora">
+  <data key="d6">37.27</data>
+</edge>
+<edge source="Bicas" target="São João Nepomuceno">
+  <data key="d6">19.52</data>
+</edge>
+<edge source="Caputira" target="Abre Campo">
+  <data key="d6">22.59</data>
+</edge>
+<edge source="Caputira" target="Manhuaçu">
+  <data key="d6">15.36</data>
+</edge>
+<edge source="Caputira" target="Vermelho Novo">
+  <data key="d6">15.79</data>
+</edge>
+<edge source="Dores do Turvo" target="Brás Pires">
+  <data key="d6">17.62</data>
+</edge>
+<edge source="Dores do Turvo" target="Mercês">
+  <data key="d6">25.04</data>
+</edge>
+<edge source="Dores do Turvo" target="Rio Pomba">
+  <data key="d6">24.86</data>
+</edge>
+<edge source="Dores do Turvo" target="Tocantins">
+  <data key="d6">22.43</data>
+</edge>
+<edge source="Dores do Turvo" target="Senador Firmino">
+  <data key="d6">14.77</data>
+</edge>
+<edge source="Orizânia" target="Divino">
+  <data key="d6">9.22</data>
+</edge>
+<edge source="Orizânia" target="Santa Margarida">
+  <data key="d6">11.08</data>
+</edge>
+<edge source="Orizânia" target="São João do Manhuaçu">
+  <data key="d6">17.18</data>
+</edge>
+<edge source="Reduto" target="Durandé">
+  <data key="d6">18.18</data>
+</edge>
+<edge source="Reduto" target="Manhuaçu">
+  <data key="d6">18.05</data>
+</edge>
+<edge source="Reduto" target="Manhumirim">
+  <data key="d6">12.14</data>
+</edge>
+<edge source="Reduto" target="Simonésia">
+  <data key="d6">26.92</data>
+</edge>
+<edge source="Ewbank da Câmara" target="Juiz de Fora">
+  <data key="d6">21.32</data>
+</edge>
+<edge source="Ewbank da Câmara" target="Santos Dumont">
+  <data key="d6">13.48</data>
+</edge>
+<edge source="Oliveira Fortes" target="Aracitaba">
+  <data key="d6">11.64</data>
+</edge>
+<edge source="Oliveira Fortes" target="Santos Dumont">
+  <data key="d6">13.54</data>
+</edge>
+<edge source="Caiana" target="Faria Lemos">
+  <data key="d6">14.64</data>
+</edge>
+<edge source="Caiana" target="Espera Feliz">
+  <data key="d6">14.36</data>
+</edge>
+<edge source="Chalé" target="Durandé">
+  <data key="d6">19.18</data>
+</edge>
+<edge source="Chalé" target="Lajinha">
+  <data key="d6">14.59</data>
+</edge>
+<edge source="Pedra Dourada" target="Eugenópolis">
+  <data key="d6">21.83</data>
+</edge>
+<edge source="Pedra Dourada" target="Faria Lemos">
+  <data key="d6">13.45</data>
+</edge>
+<edge source="Pedra Dourada" target="Vieiras">
+  <data key="d6">16.24</data>
+</edge>
+<edge source="Pedra Dourada" target="Tombos">
+  <data key="d6">11.2</data>
+</edge>
+<edge source="Pedra Dourada" target="São Francisco do Glória">
+  <data key="d6">13.85</data>
+</edge>
+<edge source="Aracitaba" target="Santos Dumont">
+  <data key="d6">17.36</data>
+</edge>
+<edge source="Aracitaba" target="Mercês">
+  <data key="d6">19.39</data>
+</edge>
+<edge source="Barão de Monte Alto" target="Palma">
+  <data key="d6">17.88</data>
+</edge>
+<edge source="Barão de Monte Alto" target="Muriaé">
+  <data key="d6">24.29</data>
+</edge>
+<edge source="São João do Manhuaçu" target="Divino">
+  <data key="d6">24.48</data>
+</edge>
+<edge source="São João do Manhuaçu" target="Luisburgo">
+  <data key="d6">11.05</data>
+</edge>
+<edge source="São João do Manhuaçu" target="Manhuaçu">
+  <data key="d6">19.96</data>
+</edge>
+<edge source="São João do Manhuaçu" target="Santa Margarida">
+  <data key="d6">13.42</data>
+</edge>
+<edge source="Abre Campo" target="Sericita">
+  <data key="d6">24.33</data>
+</edge>
+<edge source="Abre Campo" target="Pedra Bonita">
+  <data key="d6">23.61</data>
+</edge>
+<edge source="Abre Campo" target="Santo Antônio do Grama">
+  <data key="d6">17.71</data>
+</edge>
+<edge source="Abre Campo" target="São Pedro dos Ferros">
+  <data key="d6">27.67</data>
+</edge>
+<edge source="Piraúba" target="Astolfo Dutra">
+  <data key="d6">16.62</data>
+</edge>
+<edge source="Piraúba" target="Rio Pomba">
+  <data key="d6">14.85</data>
+</edge>
+<edge source="Piraúba" target="Tocantins">
+  <data key="d6">9.56</data>
+</edge>
+<edge source="Simão Pereira" target="Matias Barbosa">
+  <data key="d6">10.44</data>
+</edge>
+<edge source="Simão Pereira" target="Santana do Deserto">
+  <data key="d6">11.56</data>
+</edge>
+<edge source="Araponga" target="Ervália">
+  <data key="d6">23.19</data>
+</edge>
+<edge source="Araponga" target="Miradouro">
+  <data key="d6">23.12</data>
+</edge>
+<edge source="Araponga" target="São Miguel do Anta">
+  <data key="d6">23.21</data>
+</edge>
+<edge source="Araponga" target="Fervedouro">
+  <data key="d6">15.96</data>
+</edge>
+<edge source="Araponga" target="Canaã">
+  <data key="d6">12.83</data>
+</edge>
+<edge source="Araponga" target="Sericita">
+  <data key="d6">19.34</data>
+</edge>
+<edge source="Araponga" target="Pedra Bonita">
+  <data key="d6">24.31</data>
+</edge>
+<edge source="Guarará" target="Pequeri">
+  <data key="d6">13.84</data>
+</edge>
+<edge source="Guarará" target="Senador Cortes">
+  <data key="d6">11.81</data>
+</edge>
+<edge source="Guarará" target="Maripá de Minas">
+  <data key="d6">9.52</data>
+</edge>
+<edge source="Descoberto" target="Astolfo Dutra">
+  <data key="d6">16.96</data>
+</edge>
+<edge source="Descoberto" target="São João Nepomuceno">
+  <data key="d6">15.64</data>
+</edge>
+<edge source="Descoberto" target="Rio Novo">
+  <data key="d6">18.86</data>
+</edge>
+<edge source="Descoberto" target="Leopoldina">
+  <data key="d6">34.98</data>
+</edge>
+<edge source="Santa Rita de Jacutinga" target="Rio Preto">
+  <data key="d6">23.0</data>
+</edge>
+<edge source="Santa Bárbara do Monte Verde" target="Juiz de Fora">
+  <data key="d6">33.89</data>
+</edge>
+<edge source="Santa Bárbara do Monte Verde" target="Lima Duarte">
+  <data key="d6">26.97</data>
+</edge>
+<edge source="Santa Bárbara do Monte Verde" target="Rio Preto">
+  <data key="d6">20.84</data>
+</edge>
+<edge source="Teixeiras" target="Amparo do Serra">
+  <data key="d6">12.98</data>
+</edge>
+<edge source="Teixeiras" target="Pedra do Anta">
+  <data key="d6">15.34</data>
+</edge>
+<edge source="Teixeiras" target="São Miguel do Anta">
+  <data key="d6">18.96</data>
+</edge>
+<edge source="Teixeiras" target="Viçosa">
+  <data key="d6">12.23</data>
+</edge>
+<edge source="Laranjal" target="Cataguases">
+  <data key="d6">23.22</data>
+</edge>
+<edge source="Laranjal" target="Leopoldina">
+  <data key="d6">29.23</data>
+</edge>
+<edge source="Laranjal" target="Palma">
+  <data key="d6">14.41</data>
+</edge>
+<edge source="Laranjal" target="Santana de Cataguases">
+  <data key="d6">13.7</data>
+</edge>
+<edge source="Laranjal" target="Muriaé">
+  <data key="d6">29.55</data>
+</edge>
+<edge source="Manhuaçu" target="Luisburgo">
+  <data key="d6">26.91</data>
+</edge>
+<edge source="Manhuaçu" target="Manhumirim">
+  <data key="d6">24.3</data>
+</edge>
+<edge source="Manhuaçu" target="Vermelho Novo">
+  <data key="d6">23.61</data>
+</edge>
+<edge source="Manhuaçu" target="Simonésia">
+  <data key="d6">25.1</data>
+</edge>
+<edge source="Manhuaçu" target="Santa Bárbara do Leste">
+  <data key="d6">27.71</data>
+</edge>
+<edge source="Antônio Prado de Minas" target="Eugenópolis">
+  <data key="d6">7.47</data>
+</edge>
+<edge source="Antônio Prado de Minas" target="Tombos">
+  <data key="d6">18.07</data>
+</edge>
+<edge source="Senador Cortes" target="Maripá de Minas">
+  <data key="d6">9.75</data>
+</edge>
+<edge source="Senador Cortes" target="Santo Antônio do Aventureiro">
+  <data key="d6">10.32</data>
+</edge>
+<edge source="Tocantins" target="Rio Pomba">
+  <data key="d6">17.01</data>
+</edge>
+<edge source="Pequeri" target="Juiz de Fora">
+  <data key="d6">35.53</data>
+</edge>
+<edge source="Pequeri" target="Santana do Deserto">
+  <data key="d6">14.29</data>
+</edge>
+<edge source="Brás Pires" target="Senador Firmino">
+  <data key="d6">13.2</data>
+</edge>
+<edge source="Brás Pires" target="Presidente Bernardes">
+  <data key="d6">13.84</data>
+</edge>
+<edge source="Durandé" target="Lajinha">
+  <data key="d6">21.73</data>
+</edge>
+<edge source="Rio Preto" target="Lima Duarte">
+  <data key="d6">26.76</data>
+</edge>
+<edge source="Rio Preto" target="Olaria">
+  <data key="d6">17.36</data>
+</edge>
+<edge source="Matias Barbosa" target="Juiz de Fora">
+  <data key="d6">21.35</data>
+</edge>
+<edge source="Matias Barbosa" target="Santana do Deserto">
+  <data key="d6">15.37</data>
+</edge>
+<edge source="Divino" target="Caparaó">
+  <data key="d6">24.58</data>
+</edge>
+<edge source="Divino" target="Fervedouro">
+  <data key="d6">20.51</data>
+</edge>
+<edge source="Divino" target="Pedra Bonita">
+  <data key="d6">24.35</data>
+</edge>
+<edge source="Divino" target="Espera Feliz">
+  <data key="d6">25.62</data>
+</edge>
+<edge source="Divino" target="Santa Margarida">
+  <data key="d6">20.28</data>
+</edge>
+<edge source="Divino" target="Luisburgo">
+  <data key="d6">20.03</data>
+</edge>
+<edge source="Miraí" target="Cataguases">
+  <data key="d6">22.09</data>
+</edge>
+<edge source="Miraí" target="Guidoval">
+  <data key="d6">17.53</data>
+</edge>
+<edge source="Miraí" target="Santana de Cataguases">
+  <data key="d6">15.97</data>
+</edge>
+<edge source="Miraí" target="Muriaé">
+  <data key="d6">21.42</data>
+</edge>
+<edge source="Miraí" target="São Sebastião da Vargem Alegre">
+  <data key="d6">14.07</data>
+</edge>
+<edge source="Cajuri" target="Coimbra">
+  <data key="d6">7.08</data>
+</edge>
+<edge source="Cajuri" target="São Miguel do Anta">
+  <data key="d6">8.53</data>
+</edge>
+<edge source="Cajuri" target="Viçosa">
+  <data key="d6">13.58</data>
+</edge>
+<edge source="Paula Cândido" target="Coimbra">
+  <data key="d6">20.19</data>
+</edge>
+<edge source="Paula Cândido" target="Visconde do Rio Branco">
+  <data key="d6">22.91</data>
+</edge>
+<edge source="Paula Cândido" target="São Geraldo">
+  <data key="d6">17.32</data>
+</edge>
+<edge source="Paula Cândido" target="Senador Firmino">
+  <data key="d6">13.54</data>
+</edge>
+<edge source="Paula Cândido" target="Presidente Bernardes">
+  <data key="d6">20.05</data>
+</edge>
+<edge source="Paula Cândido" target="Viçosa">
+  <data key="d6">16.45</data>
+</edge>
+<edge source="Paula Cândido" target="Porto Firme">
+  <data key="d6">23.5</data>
+</edge>
+<edge source="Goianá" target="Coronel Pacheco">
+  <data key="d6">12.05</data>
+</edge>
+<edge source="Goianá" target="São João Nepomuceno">
+  <data key="d6">19.51</data>
+</edge>
+<edge source="Goianá" target="Rio Novo">
+  <data key="d6">10.72</data>
+</edge>
+<edge source="Goianá" target="Piau">
+  <data key="d6">14.46</data>
+</edge>
+<edge source="Santa Rita de Ibitipoca" target="Bias Fortes">
+  <data key="d6">17.04</data>
+</edge>
+<edge source="Santa Rita de Ibitipoca" target="Lima Duarte">
+  <data key="d6">25.0</data>
+</edge>
+<edge source="Bias Fortes" target="Lima Duarte">
+  <data key="d6">22.61</data>
+</edge>
+<edge source="Bias Fortes" target="Juiz de Fora">
+  <data key="d6">34.65</data>
+</edge>
+<edge source="Bias Fortes" target="Pedro Teixeira">
+  <data key="d6">12.05</data>
+</edge>
+<edge source="Bias Fortes" target="Santos Dumont">
+  <data key="d6">31.64</data>
+</edge>
+<edge source="Viçosa" target="Coimbra">
+  <data key="d6">15.07</data>
+</edge>
+<edge source="Viçosa" target="Porto Firme">
+  <data key="d6">22.01</data>
+</edge>
+<edge source="Viçosa" target="São Miguel do Anta">
+  <data key="d6">18.26</data>
+</edge>
+<edge source="Porto Firme" target="Presidente Bernardes">
+  <data key="d6">14.14</data>
+</edge>
+<edge source="Leopoldina" target="Além Paraíba">
+  <data key="d6">32.54</data>
+</edge>
+<edge source="Leopoldina" target="Cataguases">
+  <data key="d6">23.05</data>
+</edge>
+<edge source="Leopoldina" target="Estrela Dalva">
+  <data key="d6">25.33</data>
+</edge>
+<edge source="Leopoldina" target="Santo Antônio do Aventureiro">
+  <data key="d6">28.37</data>
+</edge>
+<edge source="Leopoldina" target="São João Nepomuceno">
+  <data key="d6">37.4</data>
+</edge>
+<edge source="Leopoldina" target="Volta Grande">
+  <data key="d6">24.87</data>
+</edge>
+<edge source="Leopoldina" target="Pirapetinga">
+  <data key="d6">32.42</data>
+</edge>
+<edge source="Pedra do Anta" target="Amparo do Serra">
+  <data key="d6">11.29</data>
+</edge>
+<edge source="Pedra do Anta" target="Canaã">
+  <data key="d6">13.21</data>
+</edge>
+<edge source="Pedra do Anta" target="São Miguel do Anta">
+  <data key="d6">14.86</data>
+</edge>
+<edge source="Rodeiro" target="Astolfo Dutra">
+  <data key="d6">12.26</data>
+</edge>
+<edge source="Rodeiro" target="Dona Euzébia">
+  <data key="d6">14.01</data>
+</edge>
+<edge source="Rodeiro" target="Guidoval">
+  <data key="d6">7.55</data>
+</edge>
+<edge source="Olaria" target="Lima Duarte">
+  <data key="d6">14.46</data>
+</edge>
+<edge source="Santa Margarida" target="Pedra Bonita">
+  <data key="d6">12.6</data>
+</edge>
+<edge source="Coimbra" target="Ervália">
+  <data key="d6">19.88</data>
+</edge>
+<edge source="Coimbra" target="São Miguel do Anta">
+  <data key="d6">15.44</data>
+</edge>
+<edge source="Coimbra" target="São Geraldo">
+  <data key="d6">8.37</data>
+</edge>
+<edge source="Cataguases" target="Dona Euzébia">
+  <data key="d6">13.23</data>
+</edge>
+<edge source="Cataguases" target="Santana de Cataguases">
+  <data key="d6">13.94</data>
+</edge>
+<edge source="Cataguases" target="Guidoval">
+  <data key="d6">22.64</data>
+</edge>
+<edge source="Caparaó" target="Espera Feliz">
+  <data key="d6">8.03</data>
+</edge>
+<edge source="Caparaó" target="Alto Jequitibá">
+  <data key="d6">9.97</data>
+</edge>
+<edge source="Caparaó" target="Luisburgo">
+  <data key="d6">16.48</data>
+</edge>
+<edge source="São João Nepomuceno" target="Maripá de Minas">
+  <data key="d6">13.24</data>
+</edge>
+<edge source="São João Nepomuceno" target="Rio Novo">
+  <data key="d6">19.32</data>
+</edge>
+<edge source="São Sebastião da Vargem Alegre" target="Ervália">
+  <data key="d6">19.41</data>
+</edge>
+<edge source="São Sebastião da Vargem Alegre" target="Muriaé">
+  <data key="d6">19.92</data>
+</edge>
+<edge source="Manhumirim" target="Luisburgo">
+  <data key="d6">17.21</data>
+</edge>
+<edge source="Manhumirim" target="Alto Jequitibá">
+  <data key="d6">10.01</data>
+</edge>
+<edge source="Vieiras" target="Eugenópolis">
+  <data key="d6">12.78</data>
+</edge>
+<edge source="Vieiras" target="Miradouro">
+  <data key="d6">14.11</data>
+</edge>
+<edge source="Vieiras" target="Muriaé">
+  <data key="d6">24.54</data>
+</edge>
+<edge source="Vieiras" target="São Francisco do Glória">
+  <data key="d6">13.37</data>
+</edge>
+<edge source="Guidoval" target="Astolfo Dutra">
+  <data key="d6">19.12</data>
+</edge>
+<edge source="Guidoval" target="Dona Euzébia">
+  <data key="d6">18.3</data>
+</edge>
+<edge source="Guidoval" target="Visconde do Rio Branco">
+  <data key="d6">18.09</data>
+</edge>
+<edge source="Santo Antônio do Aventureiro" target="Além Paraíba">
+  <data key="d6">10.69</data>
+</edge>
+<edge source="Presidente Bernardes" target="Senador Firmino">
+  <data key="d6">15.71</data>
+</edge>
+<edge source="Chiador" target="Além Paraíba">
+  <data key="d6">35.2</data>
+</edge>
+<edge source="Chiador" target="Santana do Deserto">
+  <data key="d6">17.04</data>
+</edge>
+<edge source="Santana do Deserto" target="Juiz de Fora">
+  <data key="d6">36.63</data>
+</edge>
+<edge source="Simonésia" target="Santa Bárbara do Leste">
+  <data key="d6">13.85</data>
+</edge>
+<edge source="São Francisco do Glória" target="Fervedouro">
+  <data key="d6">14.04</data>
+</edge>
+<edge source="São Francisco do Glória" target="Miradouro">
+  <data key="d6">13.79</data>
+</edge>
+<edge source="Canaã" target="Ervália">
+  <data key="d6">20.3</data>
+</edge>
+<edge source="Canaã" target="São Miguel do Anta">
+  <data key="d6">11.41</data>
+</edge>
+<edge source="Rio Novo" target="Piau">
+  <data key="d6">18.3</data>
+</edge>
+<edge source="Dona Euzébia" target="Astolfo Dutra">
+  <data key="d6">8.31</data>
+</edge>
+<edge source="Pirapetinga" target="Estrela Dalva">
+  <data key="d6">11.1</data>
+</edge>
+<edge source="Miradouro" target="Ervália">
+  <data key="d6">20.92</data>
+</edge>
+<edge source="Miradouro" target="Fervedouro">
+  <data key="d6">19.49</data>
+</edge>
+<edge source="Miradouro" target="Muriaé">
+  <data key="d6">26.88</data>
+</edge>
+<edge source="Fervedouro" target="Pedra Bonita">
+  <data key="d6">22.8</data>
+</edge>
+<edge source="São Geraldo" target="Ervália">
+  <data key="d6">24.74</data>
+</edge>
+<edge source="São Geraldo" target="Visconde do Rio Branco">
+  <data key="d6">11.24</data>
+</edge>
+<edge source="Mercês" target="Rio Pomba">
+  <data key="d6">18.0</data>
+</edge>
+<edge source="Luisburgo" target="Alto Jequitibá">
+  <data key="d6">13.12</data>
+</edge>
+<edge source="Lima Duarte" target="Juiz de Fora">
+  <data key="d6">44.07</data>
+</edge>
+<edge source="Lima Duarte" target="Pedro Teixeira">
+  <data key="d6">18.27</data>
+</edge>
+<edge source="Além Paraíba" target="Volta Grande">
+  <data key="d6">20.97</data>
+</edge>
+<edge source="Pedra Bonita" target="Sericita">
+  <data key="d6">8.88</data>
+</edge>
+<edge source="São Miguel do Anta" target="Ervália">
+  <data key="d6">17.74</data>
+</edge>
+<edge source="Piau" target="Coronel Pacheco">
+  <data key="d6">11.59</data>
+</edge>
+<edge source="Piau" target="Juiz de Fora">
+  <data key="d6">30.97</data>
+</edge>
+<edge source="Piau" target="Santos Dumont">
+  <data key="d6">22.21</data>
+</edge>
+<edge source="Muriaé" target="Ervália">
+  <data key="d6">32.68</data>
+</edge>
+<edge source="Muriaé" target="Eugenópolis">
+  <data key="d6">22.32</data>
+</edge>
+<edge source="Muriaé" target="Palma">
+  <data key="d6">37.56</data>
+</edge>
+<edge source="Muriaé" target="Santana de Cataguases">
+  <data key="d6">25.35</data>
+</edge>
+<edge source="Urucânia" target="Santo Antônio do Grama">
+  <data key="d6">13.15</data>
+</edge>
+<edge source="Juiz de Fora" target="Coronel Pacheco">
+  <data key="d6">23.63</data>
+</edge>
+<edge source="Juiz de Fora" target="Pedro Teixeira">
+  <data key="d6">27.44</data>
+</edge>
+<edge source="Juiz de Fora" target="Santos Dumont">
+  <data key="d6">32.48</data>
+</edge>
+<edge source="Faria Lemos" target="Tombos">
+  <data key="d6">11.55</data>
+</edge>
+<edge source="Volta Grande" target="Estrela Dalva">
+  <data key="d6">10.95</data>
+</edge>
+<edge source="Eugenópolis" target="Tombos">
+  <data key="d6">22.1</data>
+</edge>
+</graph></graphml>

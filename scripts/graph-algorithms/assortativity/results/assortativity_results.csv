@@ -1,0 +1,27 @@
+graph_name,scope,graph_type,mesoregion_slug,mesoregion_label,nodes,edges,pearson_r_nx,pearson_r_scipy,pearson_p_scipy,spearman_r_scipy,spearman_p_scipy,interpretation
+physical_boundaries,state,physical_boundaries,all,Minas Gerais (state),853,2424,0.027948,0.029709,0.143667,0.062524,0.002072,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways,state,highways,all,Minas Gerais (state),853,1724,0.038031,0.039264,0.103157,0.083816,0.000494,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__campo_das_vertentes,mesoregion,highways,campo_das_vertentes,Campo das Vertentes,42,56,-0.077181,-0.072239,0.596744,-0.116829,0.391175,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__central_mineira,mesoregion,highways,central_mineira,Central Mineira,23,18,-0.032927,0.418949,0.083543,0.175103,0.487077,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__jequitinhonha,mesoregion,highways,jequitinhonha,Jequitinhonha,43,58,-0.035193,-0.018746,0.888922,-0.016976,0.899351,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__metropolitana_belo_horizonte,mesoregion,highways,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,102,194,-0.067982,-0.088804,0.218195,0.030036,0.677597,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__noroeste_de_minas,mesoregion,highways,noroeste_de_minas,Noroeste de Minas,34,51,0.061957,0.109813,0.443018,0.042915,0.764927,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__norte_de_minas,mesoregion,highways,norte_de_minas,Norte de Minas,93,155,0.135678,0.136539,0.090250,0.112719,0.162584,MODERATELY ASSORTATIVE: slight spatial clustering tendency
+highways__oeste_de_minas,mesoregion,highways,oeste_de_minas,Oeste de Minas,47,79,0.214023,0.226806,0.044427,0.260378,0.020475,MODERATELY ASSORTATIVE: slight spatial clustering tendency
+highways__sul_sudoeste_de_minas,mesoregion,highways,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,147,276,0.028449,0.030460,0.614358,0.115915,0.054420,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__triangulo_mineiro_alto_paranaiba,mesoregion,highways,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,73,125,-0.114419,-0.115768,0.198566,-0.117735,0.190995,MODERATELY DISASSORTATIVE: neighboring municipalities tend to have different rates
+highways__vale_do_mucuri,mesoregion,highways,vale_do_mucuri,Vale do Mucuri,19,21,-0.099074,-0.099826,0.666812,-0.105131,0.650165,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__vale_do_rio_doce,mesoregion,highways,vale_do_rio_doce,Vale do Rio Doce,99,165,0.021899,0.022092,0.778207,0.059013,0.451492,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways__zona_da_mata,mesoregion,highways,zona_da_mata,Zona da Mata,131,230,-0.006221,-0.005874,0.929401,0.002436,0.970691,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__campo_das_vertentes,mesoregion,physical_boundaries,campo_das_vertentes,Campo das Vertentes,42,76,-0.083001,-0.083020,0.475851,-0.130706,0.260411,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__central_mineira,mesoregion,physical_boundaries,central_mineira,Central Mineira,23,27,-0.049287,0.124374,0.536515,0.043147,0.830790,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__jequitinhonha,mesoregion,physical_boundaries,jequitinhonha,Jequitinhonha,43,84,0.008127,0.017255,0.876202,0.029720,0.788416,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__metropolitana_belo_horizonte,mesoregion,physical_boundaries,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,102,247,-0.054365,-0.066196,0.300100,0.029917,0.639850,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__noroeste_de_minas,mesoregion,physical_boundaries,noroeste_de_minas,Noroeste de Minas,34,70,0.000238,0.037839,0.755803,0.082949,0.494807,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__norte_de_minas,mesoregion,physical_boundaries,norte_de_minas,Norte de Minas,93,224,0.064162,0.072797,0.277980,0.065786,0.327016,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__oeste_de_minas,mesoregion,physical_boundaries,oeste_de_minas,Oeste de Minas,47,97,0.197789,0.202973,0.046158,0.187013,0.066623,MODERATELY ASSORTATIVE: slight spatial clustering tendency
+physical_boundaries__sul_sudoeste_de_minas,mesoregion,physical_boundaries,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,147,372,0.006356,0.007685,0.882561,0.043904,0.398471,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__triangulo_mineiro_alto_paranaiba,mesoregion,physical_boundaries,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,73,160,-0.099714,-0.099673,0.209836,-0.121328,0.126436,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__vale_do_mucuri,mesoregion,physical_boundaries,vale_do_mucuri,Vale do Mucuri,19,24,-0.085630,-0.086270,0.688552,-0.090823,0.672980,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__vale_do_rio_doce,mesoregion,physical_boundaries,vale_do_rio_doce,Vale do Rio Doce,99,247,0.018470,0.018742,0.769454,0.009966,0.876156,NEARLY NEUTRAL: no clear spatial clustering pattern
+physical_boundaries__zona_da_mata,mesoregion,physical_boundaries,zona_da_mata,Zona da Mata,131,328,-0.039563,-0.039744,0.473174,-0.025611,0.643981,NEARLY NEUTRAL: no clear spatial clustering pattern

@@ -346,8 +346,7 @@ def visualizar_grafo(
         )
 
     ax.set_title(
-        "Grafo de Conexões Rodoviárias — Municípios de Minas Gerais\n"
-        "(Fonte: OpenStreetMap via GEOFABRIK + IBGE 2022)",
+        "Municípios de Minas Gerais conectados por rodovias"
         fontsize=13,
     )
     ax.axis("off")

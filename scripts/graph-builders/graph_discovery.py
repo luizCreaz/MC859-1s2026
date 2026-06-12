@@ -1,12 +1,9 @@
-"""Utilities to discover state-level and mesoregion subgraph files."""
-
 from __future__ import annotations
 
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 GOLD_DIR = ROOT / "data" / "gold"
-MESOREGION_DIR = GOLD_DIR / "mesoregions"
 
 BASE_GRAPH_FILES = {
     "physical_boundaries": GOLD_DIR / "graph_mg_physical_boundaries.graphml",
@@ -32,10 +29,10 @@ def parse_graph_name(graph_name: str) -> dict[str, str]:
 def discover_graph_paths() -> dict[str, Path]:
     graph_paths = dict(BASE_GRAPH_FILES)
 
-    if not MESOREGION_DIR.exists():
+    if not GOLD_DIR.exists():
         return graph_paths
 
-    for graphml_path in sorted(MESOREGION_DIR.glob("graph_mg_*.graphml")):
+    for graphml_path in sorted(GOLD_DIR.glob("graph_mg_*.graphml")):
         stem = graphml_path.stem.removeprefix("graph_mg_")
         if stem in BASE_GRAPH_FILES:
             continue

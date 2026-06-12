@@ -1,0 +1,1374 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="rodovias" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Angelândia">
+  <data key="d0">3102852</data>
+  <data key="d1">-17.703241</data>
+  <data key="d2">-42.282835</data>
+  <data key="d3">0.208</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Serranópolis de Minas">
+  <data key="d0">3166956</data>
+  <data key="d1">-15.856825</data>
+  <data key="d2">-42.860924</data>
+  <data key="d3">0.365</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Carbonita">
+  <data key="d0">3113503</data>
+  <data key="d1">-17.49413</data>
+  <data key="d2">-43.057712</data>
+  <data key="d3">0.189</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Mamonas">
+  <data key="d0">3139250</data>
+  <data key="d1">-15.012833</data>
+  <data key="d2">-42.953913</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Datas">
+  <data key="d0">3121001</data>
+  <data key="d1">-18.471115</data>
+  <data key="d2">-43.647668</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Leme do Prado">
+  <data key="d0">3138351</data>
+  <data key="d1">-17.069809</data>
+  <data key="d2">-42.744549</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Japonvar">
+  <data key="d0">3135357</data>
+  <data key="d1">-15.944498</data>
+  <data key="d2">-44.329257</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Aricanduva">
+  <data key="d0">3104452</data>
+  <data key="d1">-17.881104</data>
+  <data key="d2">-42.605562</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Montes Claros">
+  <data key="d0">3143302</data>
+  <data key="d1">-16.620718</data>
+  <data key="d2">-43.928817</data>
+  <data key="d3">0.015</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Buritizeiro">
+  <data key="d0">3109402</data>
+  <data key="d1">-17.286053</data>
+  <data key="d2">-45.19181</data>
+  <data key="d3">0.068</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="José Gonçalves de Minas">
+  <data key="d0">3136520</data>
+  <data key="d1">-16.900187</data>
+  <data key="d2">-42.656135</data>
+  <data key="d3">0.409</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Indaiabira">
+  <data key="d0">3130655</data>
+  <data key="d1">-15.562196</data>
+  <data key="d2">-42.14296</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Grão Mogol">
+  <data key="d0">3127800</data>
+  <data key="d1">-16.463903</data>
+  <data key="d2">-42.994004</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Cristália">
+  <data key="d0">3120300</data>
+  <data key="d1">-16.718635</data>
+  <data key="d2">-42.821016</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Lassance">
+  <data key="d0">3138104</data>
+  <data key="d1">-17.880815</data>
+  <data key="d2">-44.695552</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Mato Verde">
+  <data key="d0">3141009</data>
+  <data key="d1">-15.425301</data>
+  <data key="d2">-42.864164</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Olhos-d'Água">
+  <data key="d0">3145455</data>
+  <data key="d1">-17.478035</data>
+  <data key="d2">-43.594915</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="São Romão">
+  <data key="d0">3164209</data>
+  <data key="d1">-16.389449</data>
+  <data key="d2">-45.4063</data>
+  <data key="d3">0.164</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Divisa Alegre">
+  <data key="d0">3122355</data>
+  <data key="d1">-15.698673</data>
+  <data key="d2">-41.374068</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Gouveia">
+  <data key="d0">3127602</data>
+  <data key="d1">-18.523523</data>
+  <data key="d2">-43.833494</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Lontra">
+  <data key="d0">3138658</data>
+  <data key="d1">-15.856349</data>
+  <data key="d2">-44.26962</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Berizal">
+  <data key="d0">3106655</data>
+  <data key="d1">-15.684116</data>
+  <data key="d2">-41.761758</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Guaraciama">
+  <data key="d0">3128253</data>
+  <data key="d1">-17.078522</data>
+  <data key="d2">-43.620615</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Bocaiúva">
+  <data key="d0">3107307</data>
+  <data key="d1">-17.289724</data>
+  <data key="d2">-43.686538</data>
+  <data key="d3">0.032</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Francisco Sá">
+  <data key="d0">3126703</data>
+  <data key="d1">-16.3937</data>
+  <data key="d2">-43.478962</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Chapada do Norte">
+  <data key="d0">3116100</data>
+  <data key="d1">-17.147365</data>
+  <data key="d2">-42.412156</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Urucuia">
+  <data key="d0">3170529</data>
+  <data key="d1">-16.028639</data>
+  <data key="d2">-45.572879</data>
+  <data key="d3">0.184</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Francisco Dumont">
+  <data key="d0">3126604</data>
+  <data key="d1">-17.469808</data>
+  <data key="d2">-44.26986</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Josenópolis">
+  <data key="d0">3136579</data>
+  <data key="d1">-16.541651</data>
+  <data key="d2">-42.550697</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="São João da Lagoa">
+  <data key="d0">3162252</data>
+  <data key="d1">-16.859783</data>
+  <data key="d2">-44.334765</data>
+  <data key="d3">0.333</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Várzea da Palma">
+  <data key="d0">3170800</data>
+  <data key="d1">-17.49574</data>
+  <data key="d2">-44.727269</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Ponto Chique">
+  <data key="d0">3152131</data>
+  <data key="d1">-16.608805</data>
+  <data key="d2">-44.973616</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Santa Fé de Minas">
+  <data key="d0">3157609</data>
+  <data key="d1">-16.70147</data>
+  <data key="d2">-45.557072</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Ibiracatu">
+  <data key="d0">3129657</data>
+  <data key="d1">-15.696854</data>
+  <data key="d2">-44.144931</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Jenipapo de Minas">
+  <data key="d0">3135456</data>
+  <data key="d1">-17.168263</data>
+  <data key="d2">-42.215292</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Luislândia">
+  <data key="d0">3138682</data>
+  <data key="d1">-16.19627</data>
+  <data key="d2">-44.596487</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Ubaí">
+  <data key="d0">3170008</data>
+  <data key="d1">-16.364026</data>
+  <data key="d2">-44.847682</data>
+  <data key="d3">0.276</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Padre Carvalho">
+  <data key="d0">3146255</data>
+  <data key="d1">-16.301247</data>
+  <data key="d2">-42.586291</data>
+  <data key="d3">0.319</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="São João do Paraíso">
+  <data key="d0">3162708</data>
+  <data key="d1">-15.342813</data>
+  <data key="d2">-41.976885</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Berilo">
+  <data key="d0">3106507</data>
+  <data key="d1">-16.862376</data>
+  <data key="d2">-42.494289</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Capelinha">
+  <data key="d0">3112307</data>
+  <data key="d1">-17.692873</data>
+  <data key="d2">-42.491959</data>
+  <data key="d3">0.122</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Salinas">
+  <data key="d0">3157005</data>
+  <data key="d1">-16.111139</data>
+  <data key="d2">-42.152069</data>
+  <data key="d3">0.04</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Porteirinha">
+  <data key="d0">3152204</data>
+  <data key="d1">-15.7166</data>
+  <data key="d2">-43.075823</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Brasília de Minas">
+  <data key="d0">3108602</data>
+  <data key="d1">-16.242706</data>
+  <data key="d2">-44.439121</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Riacho dos Machados">
+  <data key="d0">3154507</data>
+  <data key="d1">-16.054479</data>
+  <data key="d2">-42.993421</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Felício dos Santos">
+  <data key="d0">3125408</data>
+  <data key="d1">-18.133175</data>
+  <data key="d2">-43.238919</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Taiobeiras">
+  <data key="d0">3168002</data>
+  <data key="d1">-15.824495</data>
+  <data key="d2">-42.056108</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Engenheiro Navarro">
+  <data key="d0">3123809</data>
+  <data key="d1">-17.296491</data>
+  <data key="d2">-44.014039</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Espinosa">
+  <data key="d0">3124302</data>
+  <data key="d1">-14.859025</data>
+  <data key="d2">-42.965811</data>
+  <data key="d3">0.054</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Coração de Jesus">
+  <data key="d0">3118809</data>
+  <data key="d1">-16.613171</data>
+  <data key="d2">-44.37875</data>
+  <data key="d3">0.129</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Patis">
+  <data key="d0">3147956</data>
+  <data key="d1">-16.080637</data>
+  <data key="d2">-44.101417</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Presidente Kubitschek">
+  <data key="d0">3153301</data>
+  <data key="d1">-18.633917</data>
+  <data key="d2">-43.578097</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Itacambira">
+  <data key="d0">3132008</data>
+  <data key="d1">-16.935006</data>
+  <data key="d2">-43.328817</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Fruta de Leite">
+  <data key="d0">3127073</data>
+  <data key="d1">-16.125596</data>
+  <data key="d2">-42.519945</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Santo Antônio do Retiro">
+  <data key="d0">3160454</data>
+  <data key="d1">-15.288146</data>
+  <data key="d2">-42.660995</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Vargem Grande do Rio Pardo">
+  <data key="d0">3170651</data>
+  <data key="d1">-15.340664</data>
+  <data key="d2">-42.29894</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Catuti">
+  <data key="d0">3115474</data>
+  <data key="d1">-15.335646</data>
+  <data key="d2">-43.097411</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Glaucilândia">
+  <data key="d0">3127354</data>
+  <data key="d1">-16.903863</data>
+  <data key="d2">-43.639275</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Pai Pedro">
+  <data key="d0">3146552</data>
+  <data key="d1">-15.419123</data>
+  <data key="d2">-43.149589</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Jaíba">
+  <data key="d0">3135050</data>
+  <data key="d1">-15.232649</data>
+  <data key="d2">-43.675894</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Diamantina">
+  <data key="d0">3121605</data>
+  <data key="d1">-17.993791</data>
+  <data key="d2">-43.610796</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Janaúba">
+  <data key="d0">3135100</data>
+  <data key="d1">-15.799019</data>
+  <data key="d2">-43.396713</data>
+  <data key="d3">0.046</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Juramento">
+  <data key="d0">3136801</data>
+  <data key="d1">-16.840117</data>
+  <data key="d2">-43.564489</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Ninheira">
+  <data key="d0">3144656</data>
+  <data key="d1">-15.36811</data>
+  <data key="d2">-41.659857</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Pirapora">
+  <data key="d0">3151206</data>
+  <data key="d1">-17.393347</data>
+  <data key="d2">-44.867447</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Águas Vermelhas">
+  <data key="d0">3101003</data>
+  <data key="d1">-15.683155</data>
+  <data key="d2">-41.521511</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Riachinho">
+  <data key="d0">3154457</data>
+  <data key="d1">-16.276691</data>
+  <data key="d2">-45.927943</data>
+  <data key="d3">0.196</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="São João da Ponte">
+  <data key="d0">3162401</data>
+  <data key="d1">-15.908449</data>
+  <data key="d2">-43.895268</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Botumirim">
+  <data key="d0">3108503</data>
+  <data key="d1">-16.937849</data>
+  <data key="d2">-43.005639</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Couto de Magalhães de Minas">
+  <data key="d0">3120102</data>
+  <data key="d1">-18.084486</data>
+  <data key="d2">-43.439817</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Verdelândia">
+  <data key="d0">3171030</data>
+  <data key="d1">-15.54019</data>
+  <data key="d2">-43.6283</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Nova Porteirinha">
+  <data key="d0">3145059</data>
+  <data key="d1">-15.734575</data>
+  <data key="d2">-43.27504</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Campo Azul">
+  <data key="d0">3111150</data>
+  <data key="d1">-16.508751</data>
+  <data key="d2">-44.763321</data>
+  <data key="d3">0.444</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Ibiaí">
+  <data key="d0">3129608</data>
+  <data key="d1">-16.82878</data>
+  <data key="d2">-44.790245</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Curral de Dentro">
+  <data key="d0">3120870</data>
+  <data key="d1">-15.861783</data>
+  <data key="d2">-41.764812</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="São João do Pacuí">
+  <data key="d0">3162658</data>
+  <data key="d1">-16.55532</data>
+  <data key="d2">-44.524365</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Rio Pardo de Minas">
+  <data key="d0">3155603</data>
+  <data key="d1">-15.708962</data>
+  <data key="d2">-42.551364</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="São Gonçalo do Rio Preto">
+  <data key="d0">3125507</data>
+  <data key="d1">-18.076345</data>
+  <data key="d2">-43.358503</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Itamarandiba">
+  <data key="d0">3132503</data>
+  <data key="d1">-17.856461</data>
+  <data key="d2">-42.877043</data>
+  <data key="d3">0.05</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Jequitaí">
+  <data key="d0">3135605</data>
+  <data key="d1">-17.2099</data>
+  <data key="d2">-44.475838</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Lagoa dos Patos">
+  <data key="d0">3137304</data>
+  <data key="d1">-17.007815</data>
+  <data key="d2">-44.646363</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Francisco Badaró">
+  <data key="d0">3126505</data>
+  <data key="d1">-16.977631</data>
+  <data key="d2">-42.309847</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Santa Cruz de Salinas">
+  <data key="d0">3157377</data>
+  <data key="d1">-16.050739</data>
+  <data key="d2">-41.789861</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Senador Modestino Gonçalves">
+  <data key="d0">3165909</data>
+  <data key="d1">-17.855245</data>
+  <data key="d2">-43.240951</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Claro dos Poções">
+  <data key="d0">3116506</data>
+  <data key="d1">-17.068713</data>
+  <data key="d2">-44.228127</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Montezuma">
+  <data key="d0">3143450</data>
+  <data key="d1">-15.191268</data>
+  <data key="d2">-42.469495</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Gameleiras">
+  <data key="d0">3127339</data>
+  <data key="d1">-14.971033</data>
+  <data key="d2">-43.259681</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Mirabela">
+  <data key="d0">3142007</data>
+  <data key="d1">-16.259396</data>
+  <data key="d2">-44.157699</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Monte Azul">
+  <data key="d0">3142908</data>
+  <data key="d1">-15.206748</data>
+  <data key="d2">-42.968737</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Capitão Enéas">
+  <data key="d0">3112703</data>
+  <data key="d1">-16.136242</data>
+  <data key="d2">-43.66466</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Rubelita">
+  <data key="d0">3156502</data>
+  <data key="d1">-16.367659</data>
+  <data key="d2">-42.233964</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Varzelândia">
+  <data key="d0">3170909</data>
+  <data key="d1">-15.641476</data>
+  <data key="d2">-43.93443</data>
+  <data key="d3">0.085</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<node id="Novorizonte">
+  <data key="d0">3145372</data>
+  <data key="d1">-16.011024</data>
+  <data key="d2">-42.397685</data>
+  <data key="d3">0.0</data>
+  <data key="d4">norte_de_minas</data>
+  <data key="d5">Norte de Minas</data>
+</node>
+<edge source="Angelândia" target="Capelinha">
+  <data key="d6">22.23</data>
+  <data key="d7">LMG-721, MG-211</data>
+</edge>
+<edge source="Serranópolis de Minas" target="Porteirinha">
+  <data key="d6">27.77</data>
+  <data key="d7">AMG-3215, s/ref</data>
+</edge>
+<edge source="Carbonita" target="Itamarandiba">
+  <data key="d6">44.45</data>
+  <data key="d7">MGC-451;BR-451</data>
+</edge>
+<edge source="Carbonita" target="Senador Modestino Gonçalves">
+  <data key="d6">44.45</data>
+  <data key="d7">MGC-451;BR-451</data>
+</edge>
+<edge source="Carbonita" target="Diamantina">
+  <data key="d6">80.56</data>
+  <data key="d7">MGC-367;BR-367</data>
+</edge>
+<edge source="Mamonas" target="Monte Azul">
+  <data key="d6">21.52</data>
+  <data key="d7">AMG-3210</data>
+</edge>
+<edge source="Datas" target="Gouveia">
+  <data key="d6">20.46</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Datas" target="Presidente Kubitschek">
+  <data key="d6">19.46</data>
+  <data key="d7">BR-259;MGC-259, s/ref</data>
+</edge>
+<edge source="Datas" target="Diamantina">
+  <data key="d6">53.0</data>
+  <data key="d7">BR-367;MGC-367</data>
+</edge>
+<edge source="Leme do Prado" target="José Gonçalves de Minas">
+  <data key="d6">21.01</data>
+  <data key="d7">LMG-677</data>
+</edge>
+<edge source="Japonvar" target="Brasília de Minas">
+  <data key="d6">35.01</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Japonvar" target="Lontra">
+  <data key="d6">11.66</data>
+  <data key="d7">BR-135;MG-135, BR-135;MGC-135, MG-202, s/ref</data>
+</edge>
+<edge source="Japonvar" target="Patis">
+  <data key="d6">28.66</data>
+  <data key="d7">BR-135;MGC-135</data>
+</edge>
+<edge source="Aricanduva" target="Capelinha">
+  <data key="d6">24.08</data>
+  <data key="d7">LMG-723</data>
+</edge>
+<edge source="Aricanduva" target="Itamarandiba">
+  <data key="d6">28.9</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Montes Claros" target="Bocaiúva">
+  <data key="d6">78.42</data>
+  <data key="d7">MGC-135;BR-135</data>
+</edge>
+<edge source="Montes Claros" target="Capitão Enéas">
+  <data key="d6">60.55</data>
+  <data key="d7">LMG-631, s/ref</data>
+</edge>
+<edge source="Montes Claros" target="Claro dos Poções">
+  <data key="d6">58.97</data>
+  <data key="d7">BR-365;BR-251</data>
+</edge>
+<edge source="Montes Claros" target="Coração de Jesus">
+  <data key="d6">47.99</data>
+  <data key="d7">Estrada para Tamburizinho, LMG-654, s/ref</data>
+</edge>
+<edge source="Montes Claros" target="Francisco Sá">
+  <data key="d6">54.19</data>
+  <data key="d7">BR-251;MGC-251;BR-12</data>
+</edge>
+<edge source="Montes Claros" target="Glaucilândia">
+  <data key="d6">44.0</data>
+  <data key="d7">MG-308</data>
+</edge>
+<edge source="Montes Claros" target="Mirabela">
+  <data key="d6">46.83</data>
+  <data key="d7">BR-135, s/ref</data>
+</edge>
+<edge source="Montes Claros" target="São João da Ponte">
+  <data key="d6">78.85</data>
+  <data key="d7">LMG-631, s/ref</data>
+</edge>
+<edge source="Montes Claros" target="Patis">
+  <data key="d6">62.5</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Buritizeiro" target="Pirapora">
+  <data key="d6">36.46</data>
+  <data key="d7">BR-365</data>
+</edge>
+<edge source="Buritizeiro" target="Santa Fé de Minas">
+  <data key="d6">75.41</data>
+  <data key="d7">LMG-670, s/ref</data>
+</edge>
+<edge source="José Gonçalves de Minas" target="Berilo">
+  <data key="d6">17.75</data>
+  <data key="d7">LMG-677</data>
+</edge>
+<edge source="José Gonçalves de Minas" target="Chapada do Norte">
+  <data key="d6">37.74</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Indaiabira" target="Rio Pardo de Minas">
+  <data key="d6">46.73</data>
+  <data key="d7">LMG-602</data>
+</edge>
+<edge source="Indaiabira" target="São João do Paraíso">
+  <data key="d6">30.14</data>
+  <data key="d7">LMG-602</data>
+</edge>
+<edge source="Indaiabira" target="Vargem Grande do Rio Pardo">
+  <data key="d6">29.71</data>
+  <data key="d7">LMG-624, s/ref</data>
+</edge>
+<edge source="Grão Mogol" target="Berilo">
+  <data key="d6">69.19</data>
+  <data key="d7">Estrada da Usina de Irapé</data>
+</edge>
+<edge source="Grão Mogol" target="Botumirim">
+  <data key="d6">52.47</data>
+  <data key="d7">LMG-655</data>
+</edge>
+<edge source="Grão Mogol" target="Cristália">
+  <data key="d6">33.69</data>
+  <data key="d7">MG-307</data>
+</edge>
+<edge source="Grão Mogol" target="Francisco Sá">
+  <data key="d6">52.38</data>
+  <data key="d7">BR-251, s/ref</data>
+</edge>
+<edge source="Grão Mogol" target="Riacho dos Machados">
+  <data key="d6">45.32</data>
+  <data key="d7">MG-120</data>
+</edge>
+<edge source="Grão Mogol" target="Josenópolis">
+  <data key="d6">48.1</data>
+  <data key="d7">Estrada da Usina de Irapé, s/ref</data>
+</edge>
+<edge source="Grão Mogol" target="Padre Carvalho">
+  <data key="d6">47.12</data>
+  <data key="d7">BR-251, LMG-626</data>
+</edge>
+<edge source="Grão Mogol" target="Itacambira">
+  <data key="d6">63.2</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Cristália" target="Botumirim">
+  <data key="d6">31.24</data>
+  <data key="d7">MG-407, s/ref</data>
+</edge>
+<edge source="Lassance" target="Francisco Dumont">
+  <data key="d6">64.08</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Lassance" target="Várzea da Palma">
+  <data key="d6">42.75</data>
+  <data key="d7">BR-496, s/ref</data>
+</edge>
+<edge source="Mato Verde" target="Catuti">
+  <data key="d6">26.94</data>
+  <data key="d7">LMG-635, s/ref</data>
+</edge>
+<edge source="Mato Verde" target="Monte Azul">
+  <data key="d6">26.67</data>
+  <data key="d7">BR-122;MGC-122, LMG-635, s/ref</data>
+</edge>
+<edge source="Mato Verde" target="Pai Pedro">
+  <data key="d6">30.66</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Mato Verde" target="Porteirinha">
+  <data key="d6">39.42</data>
+  <data key="d7">BR-122;MGC-122</data>
+</edge>
+<edge source="Olhos-d'Água" target="Bocaiúva">
+  <data key="d6">23.0</data>
+  <data key="d7">MGC-451;BR-451, s/ref</data>
+</edge>
+<edge source="Olhos-d'Água" target="Diamantina">
+  <data key="d6">57.07</data>
+  <data key="d7">MGC-451;BR-451</data>
+</edge>
+<edge source="São Romão" target="Riachinho">
+  <data key="d6">57.11</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="São Romão" target="Santa Fé de Minas">
+  <data key="d6">38.08</data>
+  <data key="d7">MG-161</data>
+</edge>
+<edge source="São Romão" target="Urucuia">
+  <data key="d6">43.72</data>
+  <data key="d7">MG-202</data>
+</edge>
+<edge source="Divisa Alegre" target="Águas Vermelhas">
+  <data key="d6">15.92</data>
+  <data key="d7">BR-116, LMG-618</data>
+</edge>
+<edge source="Lontra" target="Ibiracatu">
+  <data key="d6">22.13</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Lontra" target="São João da Ponte">
+  <data key="d6">40.5</data>
+  <data key="d7">MG-202, s/ref</data>
+</edge>
+<edge source="Berizal" target="Águas Vermelhas">
+  <data key="d6">25.79</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Berizal" target="Taiobeiras">
+  <data key="d6">35.19</data>
+  <data key="d7">LMG-625</data>
+</edge>
+<edge source="Guaraciama" target="Bocaiúva">
+  <data key="d6">24.39</data>
+  <data key="d7">LMG-651</data>
+</edge>
+<edge source="Guaraciama" target="Itacambira">
+  <data key="d6">34.9</data>
+  <data key="d7">MG-308</data>
+</edge>
+<edge source="Bocaiúva" target="Engenheiro Navarro">
+  <data key="d6">34.84</data>
+  <data key="d7">BR-135, s/ref</data>
+</edge>
+<edge source="Bocaiúva" target="Itacambira">
+  <data key="d6">54.67</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Francisco Sá" target="Capitão Enéas">
+  <data key="d6">34.72</data>
+  <data key="d7">MGC-122;BR-122, s/ref</data>
+</edge>
+<edge source="Francisco Sá" target="Janaúba">
+  <data key="d6">66.39</data>
+  <data key="d7">MGC-122;BR-122, s/ref</data>
+</edge>
+<edge source="Francisco Sá" target="Juramento">
+  <data key="d6">50.25</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Chapada do Norte" target="Berilo">
+  <data key="d6">32.75</data>
+  <data key="d7">BR-367</data>
+</edge>
+<edge source="Chapada do Norte" target="Jenipapo de Minas">
+  <data key="d6">21.09</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Urucuia" target="Riachinho">
+  <data key="d6">46.84</data>
+  <data key="d7">MG-181</data>
+</edge>
+<edge source="Francisco Dumont" target="Engenheiro Navarro">
+  <data key="d6">33.26</data>
+  <data key="d7">MG-208</data>
+</edge>
+<edge source="Francisco Dumont" target="Jequitaí">
+  <data key="d6">36.13</data>
+  <data key="d7">MG-208</data>
+</edge>
+<edge source="Josenópolis" target="Padre Carvalho">
+  <data key="d6">26.89</data>
+  <data key="d7">LMG-627</data>
+</edge>
+<edge source="São João da Lagoa" target="Claro dos Poções">
+  <data key="d6">25.74</data>
+  <data key="d7">BR-365, BR-365;BR-251, LMG-611, s/ref</data>
+</edge>
+<edge source="São João da Lagoa" target="Coração de Jesus">
+  <data key="d6">27.68</data>
+  <data key="d7">LMG-611, LMG-654</data>
+</edge>
+<edge source="São João da Lagoa" target="Lagoa dos Patos">
+  <data key="d6">37.01</data>
+  <data key="d7">LMG-656</data>
+</edge>
+<edge source="Várzea da Palma" target="Jequitaí">
+  <data key="d6">41.39</data>
+  <data key="d7">BR-365, s/ref</data>
+</edge>
+<edge source="Várzea da Palma" target="Lagoa dos Patos">
+  <data key="d6">54.65</data>
+  <data key="d7">LMG-674</data>
+</edge>
+<edge source="Várzea da Palma" target="Pirapora">
+  <data key="d6">18.7</data>
+  <data key="d7">BR-365, BR-496, s/ref</data>
+</edge>
+<edge source="Ponto Chique" target="Campo Azul">
+  <data key="d6">25.02</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Ponto Chique" target="Ibiaí">
+  <data key="d6">31.21</data>
+  <data key="d7">LMG-674</data>
+</edge>
+<edge source="Ponto Chique" target="Ubaí">
+  <data key="d6">30.23</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Ibiracatu" target="Varzelândia">
+  <data key="d6">23.38</data>
+  <data key="d7">MG-403, s/ref</data>
+</edge>
+<edge source="Ibiracatu" target="São João da Ponte">
+  <data key="d6">35.54</data>
+  <data key="d7">MG-403, s/ref</data>
+</edge>
+<edge source="Jenipapo de Minas" target="Francisco Badaró">
+  <data key="d6">23.39</data>
+  <data key="d7">AMG-2215, s/ref</data>
+</edge>
+<edge source="Luislândia" target="Brasília de Minas">
+  <data key="d6">17.59</data>
+  <data key="d7">MG-202, MG-402</data>
+</edge>
+<edge source="Luislândia" target="Ubaí">
+  <data key="d6">32.63</data>
+  <data key="d7">MG-202, s/ref</data>
+</edge>
+<edge source="Ubaí" target="Campo Azul">
+  <data key="d6">18.37</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Padre Carvalho" target="Fruta de Leite">
+  <data key="d6">20.7</data>
+  <data key="d7">BR-251, LMG-626</data>
+</edge>
+<edge source="São João do Paraíso" target="Águas Vermelhas">
+  <data key="d6">61.76</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="São João do Paraíso" target="Montezuma">
+  <data key="d6">55.54</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="São João do Paraíso" target="Ninheira">
+  <data key="d6">34.19</data>
+  <data key="d7">LMG-623, s/ref</data>
+</edge>
+<edge source="São João do Paraíso" target="Vargem Grande do Rio Pardo">
+  <data key="d6">34.6</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Berilo" target="Francisco Badaró">
+  <data key="d6">23.44</data>
+  <data key="d7">LMG-676</data>
+</edge>
+<edge source="Capelinha" target="Itamarandiba">
+  <data key="d6">44.68</data>
+  <data key="d7">MG-214, s/ref</data>
+</edge>
+<edge source="Salinas" target="Fruta de Leite">
+  <data key="d6">39.41</data>
+  <data key="d7">BR-251, s/ref</data>
+</edge>
+<edge source="Salinas" target="Novorizonte">
+  <data key="d6">28.54</data>
+  <data key="d7">BR-342;AMG-3405, LMG-626, MG-404</data>
+</edge>
+<edge source="Salinas" target="Rio Pardo de Minas">
+  <data key="d6">61.75</data>
+  <data key="d7">LMG-626</data>
+</edge>
+<edge source="Salinas" target="Rubelita">
+  <data key="d6">29.73</data>
+  <data key="d7">MGC-342;BR-342</data>
+</edge>
+<edge source="Salinas" target="Taiobeiras">
+  <data key="d6">33.37</data>
+  <data key="d7">BR-251, MG-404</data>
+</edge>
+<edge source="Salinas" target="Santa Cruz de Salinas">
+  <data key="d6">39.36</data>
+  <data key="d7">Avenida Pedra Azul, Estrada Nova Fátima Água Boa, Rua Pedra Azul, s/ref</data>
+</edge>
+<edge source="Porteirinha" target="Nova Porteirinha">
+  <data key="d6">21.45</data>
+  <data key="d7">BR-122;MGC-122</data>
+</edge>
+<edge source="Porteirinha" target="Pai Pedro">
+  <data key="d6">33.86</data>
+  <data key="d7">AMG-3225, s/ref</data>
+</edge>
+<edge source="Porteirinha" target="Riacho dos Machados">
+  <data key="d6">38.43</data>
+  <data key="d7">MG-120</data>
+</edge>
+<edge source="Brasília de Minas" target="Mirabela">
+  <data key="d6">30.12</data>
+  <data key="d7">MG-202</data>
+</edge>
+<edge source="Brasília de Minas" target="Coração de Jesus">
+  <data key="d6">41.5</data>
+  <data key="d7">LMG-654, s/ref</data>
+</edge>
+<edge source="Brasília de Minas" target="Campo Azul">
+  <data key="d6">45.45</data>
+  <data key="d7">LMG-660, s/ref</data>
+</edge>
+<edge source="Felício dos Santos" target="São Gonçalo do Rio Preto">
+  <data key="d6">14.14</data>
+  <data key="d7">MG-317</data>
+</edge>
+<edge source="Felício dos Santos" target="Senador Modestino Gonçalves">
+  <data key="d6">30.77</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Taiobeiras" target="Curral de Dentro">
+  <data key="d6">31.5</data>
+  <data key="d7">LMG-626</data>
+</edge>
+<edge source="Taiobeiras" target="Rio Pardo de Minas">
+  <data key="d6">54.62</data>
+  <data key="d7">LMG-602, LMG-626, LMG-629, RP-00</data>
+</edge>
+<edge source="Taiobeiras" target="Santa Cruz de Salinas">
+  <data key="d6">37.97</data>
+  <data key="d7">BR-251</data>
+</edge>
+<edge source="Espinosa" target="Santo Antônio do Retiro">
+  <data key="d6">57.71</data>
+  <data key="d7">BR-342</data>
+</edge>
+<edge source="Espinosa" target="Montezuma">
+  <data key="d6">64.83</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Espinosa" target="Gameleiras">
+  <data key="d6">33.95</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Espinosa" target="Monte Azul">
+  <data key="d6">38.48</data>
+  <data key="d7">BR-122;MGC-122</data>
+</edge>
+<edge source="Coração de Jesus" target="Campo Azul">
+  <data key="d6">42.64</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Coração de Jesus" target="Ibiaí">
+  <data key="d6">49.94</data>
+  <data key="d7">MGC-251;BR-251</data>
+</edge>
+<edge source="Coração de Jesus" target="São João do Pacuí">
+  <data key="d6">16.81</data>
+  <data key="d7">AMG-1310, s/ref</data>
+</edge>
+<edge source="Patis" target="Mirabela">
+  <data key="d6">20.67</data>
+  <data key="d7">AMG-1305, BR-135;MGC-135, s/ref</data>
+</edge>
+<edge source="Patis" target="São João da Ponte">
+  <data key="d6">29.15</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Itacambira" target="Juramento">
+  <data key="d6">27.22</data>
+  <data key="d7">MG-308, s/ref</data>
+</edge>
+<edge source="Fruta de Leite" target="Rubelita">
+  <data key="d6">40.68</data>
+  <data key="d7">BR-251</data>
+</edge>
+<edge source="Fruta de Leite" target="Novorizonte">
+  <data key="d6">18.23</data>
+  <data key="d7">BR-342, LMG-626</data>
+</edge>
+<edge source="Fruta de Leite" target="Rio Pardo de Minas">
+  <data key="d6">46.25</data>
+  <data key="d7">BR-342</data>
+</edge>
+<edge source="Santo Antônio do Retiro" target="Monte Azul">
+  <data key="d6">34.27</data>
+  <data key="d7">LMG-635</data>
+</edge>
+<edge source="Santo Antônio do Retiro" target="Montezuma">
+  <data key="d6">23.21</data>
+  <data key="d7">BR-342, BR-342;LMG-635</data>
+</edge>
+<edge source="Santo Antônio do Retiro" target="Rio Pardo de Minas">
+  <data key="d6">48.04</data>
+  <data key="d7">BR-342, LMG-629, s/ref</data>
+</edge>
+<edge source="Vargem Grande do Rio Pardo" target="Montezuma">
+  <data key="d6">24.69</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Vargem Grande do Rio Pardo" target="Rio Pardo de Minas">
+  <data key="d6">48.95</data>
+  <data key="d7">LMG-624</data>
+</edge>
+<edge source="Catuti" target="Pai Pedro">
+  <data key="d6">10.8</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Catuti" target="Monte Azul">
+  <data key="d6">19.87</data>
+  <data key="d7">LMG-635</data>
+</edge>
+<edge source="Glaucilândia" target="Juramento">
+  <data key="d6">10.64</data>
+  <data key="d7">MG-308, s/ref</data>
+</edge>
+<edge source="Pai Pedro" target="Jaíba">
+  <data key="d6">60.15</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Pai Pedro" target="Monte Azul">
+  <data key="d6">30.49</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Jaíba" target="Gameleiras">
+  <data key="d6">53.28</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Jaíba" target="Janaúba">
+  <data key="d6">69.43</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Jaíba" target="Varzelândia">
+  <data key="d6">53.06</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Jaíba" target="Verdelândia">
+  <data key="d6">34.4</data>
+  <data key="d7">LMG-510, MG-401</data>
+</edge>
+<edge source="Diamantina" target="Couto de Magalhães de Minas">
+  <data key="d6">20.67</data>
+  <data key="d7">BR-367;MGC-367, s/ref</data>
+</edge>
+<edge source="Diamantina" target="Senador Modestino Gonçalves">
+  <data key="d6">42.02</data>
+  <data key="d7">BR-367;MGC-367, BR-367;MGC-367;BR-45, Estrada de Desembargador Otoni para Diamantina, MGC-367;BR-367, s/ref</data>
+</edge>
+<edge source="Janaúba" target="Capitão Enéas">
+  <data key="d6">47.07</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Janaúba" target="Nova Porteirinha">
+  <data key="d6">14.85</data>
+  <data key="d7">BR-122;MGC-122</data>
+</edge>
+<edge source="Janaúba" target="Verdelândia">
+  <data key="d6">37.89</data>
+  <data key="d7">MG-401, s/ref</data>
+</edge>
+<edge source="Ninheira" target="Águas Vermelhas">
+  <data key="d6">37.93</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Águas Vermelhas" target="Santa Cruz de Salinas">
+  <data key="d6">49.87</data>
+  <data key="d7">BR-251</data>
+</edge>
+<edge source="São João da Ponte" target="Capitão Enéas">
+  <data key="d6">35.27</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="São João da Ponte" target="Varzelândia">
+  <data key="d6">29.84</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Couto de Magalhães de Minas" target="Senador Modestino Gonçalves">
+  <data key="d6">32.98</data>
+  <data key="d7">BR-367;MGC-367</data>
+</edge>
+<edge source="Couto de Magalhães de Minas" target="São Gonçalo do Rio Preto">
+  <data key="d6">8.66</data>
+  <data key="d7">BR-367;MGC-367, s/ref</data>
+</edge>
+<edge source="Verdelândia" target="Varzelândia">
+  <data key="d6">34.69</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Ibiaí" target="Lagoa dos Patos">
+  <data key="d6">25.04</data>
+  <data key="d7">LMG-674</data>
+</edge>
+<edge source="Curral de Dentro" target="Santa Cruz de Salinas">
+  <data key="d6">21.1</data>
+  <data key="d7">LMG-626</data>
+</edge>
+<edge source="Rio Pardo de Minas" target="Montezuma">
+  <data key="d6">57.98</data>
+  <data key="d7">LMG-624</data>
+</edge>
+<edge source="Rio Pardo de Minas" target="Novorizonte">
+  <data key="d6">37.28</data>
+  <data key="d7">BR-342, LMG-626 / Rua Dois</data>
+</edge>
+<edge source="São Gonçalo do Rio Preto" target="Senador Modestino Gonçalves">
+  <data key="d6">27.46</data>
+  <data key="d7">MG-214, s/ref</data>
+</edge>
+<edge source="Itamarandiba" target="Senador Modestino Gonçalves">
+  <data key="d6">38.58</data>
+  <data key="d7">MG-214, s/ref</data>
+</edge>
+<edge source="Jequitaí" target="Claro dos Poções">
+  <data key="d6">30.63</data>
+  <data key="d7">BR-365</data>
+</edge>
+<edge source="Gameleiras" target="Monte Azul">
+  <data key="d6">40.73</data>
+  <data key="d7">LMG-635, s/ref</data>
+</edge>
+</graph></graphml>

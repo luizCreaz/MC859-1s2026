@@ -1,17 +1,3 @@
-"""
-Export mesoregion subgraphs from the state-level MG graphs.
-
-Reads:
-  - data/gold/graph_mg_physical_boundaries.graphml
-  - data/gold/graph_mg_highways.graphml
-  - data/bronze/ibge/meso-micro-regioes-mg.pdf
-
-Writes:
-  - data/gold/mesoregions/graph_mg_{graph_type}_{mesoregion_slug}.graphml
-  - data/gold/mesoregions/graph_mg_{graph_type}_{mesoregion_slug}.png
-  - data/bronze/ibge/mesoregion_municipalities.csv
-"""
-
 from __future__ import annotations
 
 import sys
@@ -22,7 +8,7 @@ import networkx as nx
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from graph_discovery import BASE_GRAPH_FILES, GOLD_DIR, MESOREGION_DIR
+from graph_discovery import BASE_GRAPH_FILES, GOLD_DIR
 from mesoregion_mapping import (
     MESOREGION_LABELS,
     get_mesoregion_groups,
@@ -114,10 +100,10 @@ def export_subgraph(
     mesoregion_slug: str,
 ) -> None:
     output_stem = f"graph_mg_{graph_type}_{mesoregion_slug}"
-    graphml_path = MESOREGION_DIR / f"{output_stem}.graphml"
-    png_path = MESOREGION_DIR / f"{output_stem}.png"
+    graphml_path = GOLD_DIR / f"{output_stem}.graphml"
+    png_path = GOLD_DIR / f"{output_stem}.png"
 
-    MESOREGION_DIR.mkdir(parents=True, exist_ok=True)
+    GOLD_DIR.mkdir(parents=True, exist_ok=True)
     nx.write_graphml(G, graphml_path)
     print(f"  GraphML saved to: {graphml_path}")
 
@@ -157,7 +143,7 @@ def main() -> None:
     for graph_type, graph_path in BASE_GRAPH_FILES.items():
         export_mesoregion_subgraphs_for_graph(graph_type, graph_path, mesoregion_groups)
 
-    print(f"\nMesoregion subgraphs exported under: {MESOREGION_DIR}")
+    print(f"\nMesoregion subgraphs exported under: {GOLD_DIR}")
 
 
 if __name__ == "__main__":

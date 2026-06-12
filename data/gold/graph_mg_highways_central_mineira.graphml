@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="rodovias" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Estrela do Indaiá">
+  <data key="d0">3124708</data>
+  <data key="d1">-19.591878</data>
+  <data key="d2">-45.808317</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Cachoeira da Prata">
+  <data key="d0">3109600</data>
+  <data key="d1">-19.516979</data>
+  <data key="d2">-44.472008</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Morro da Garça">
+  <data key="d0">3143609</data>
+  <data key="d1">-18.629994</data>
+  <data key="d2">-44.633147</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Luz">
+  <data key="d0">3138807</data>
+  <data key="d1">-19.827341</data>
+  <data key="d2">-45.678819</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Caetanópolis">
+  <data key="d0">3109907</data>
+  <data key="d1">-19.342511</data>
+  <data key="d2">-44.403441</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Japaraíba">
+  <data key="d0">3135308</data>
+  <data key="d1">-20.132782</data>
+  <data key="d2">-45.529126</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Fortuna de Minas">
+  <data key="d0">3126406</data>
+  <data key="d1">-19.55758</data>
+  <data key="d2">-44.504241</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Presidente Juscelino">
+  <data key="d0">3153202</data>
+  <data key="d1">-18.726055</data>
+  <data key="d2">-44.083259</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Araçaí">
+  <data key="d0">3103207</data>
+  <data key="d1">-19.234842</data>
+  <data key="d2">-44.218444</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Martinho Campos">
+  <data key="d0">3140506</data>
+  <data key="d1">-19.412279</data>
+  <data key="d2">-45.190479</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Araújos">
+  <data key="d0">3103900</data>
+  <data key="d1">-19.886413</data>
+  <data key="d2">-45.180967</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Monjolos">
+  <data key="d0">3142502</data>
+  <data key="d1">-18.387917</data>
+  <data key="d2">-44.02312</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Lagoa da Prata">
+  <data key="d0">3137205</data>
+  <data key="d1">-20.011011</data>
+  <data key="d2">-45.493999</data>
+  <data key="d3">0.062</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Serra da Saudade">
+  <data key="d0">3166600</data>
+  <data key="d1">-19.385547</data>
+  <data key="d2">-45.777247</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Moema">
+  <data key="d0">3142403</data>
+  <data key="d1">-19.841236</data>
+  <data key="d2">-45.407204</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Cordisburgo">
+  <data key="d0">3118908</data>
+  <data key="d1">-19.092099</data>
+  <data key="d2">-44.205018</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Quartel Geral">
+  <data key="d0">3153707</data>
+  <data key="d1">-19.279769</data>
+  <data key="d2">-45.603073</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Baldim">
+  <data key="d0">3105004</data>
+  <data key="d1">-19.262936</data>
+  <data key="d2">-43.863416</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Bom Despacho">
+  <data key="d0">3107406</data>
+  <data key="d1">-19.684519</data>
+  <data key="d2">-45.286115</data>
+  <data key="d3">0.03</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Dores do Indaiá">
+  <data key="d0">3123205</data>
+  <data key="d1">-19.489653</data>
+  <data key="d2">-45.547328</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Leandro Ferreira">
+  <data key="d0">3138302</data>
+  <data key="d1">-19.679512</data>
+  <data key="d2">-45.040825</data>
+  <data key="d3">0.514</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Santo Hipólito">
+  <data key="d0">3160603</data>
+  <data key="d1">-18.390204</data>
+  <data key="d2">-44.172391</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<node id="Capim Branco">
+  <data key="d0">3112505</data>
+  <data key="d1">-19.570064</data>
+  <data key="d2">-44.167699</data>
+  <data key="d3">0.0</data>
+  <data key="d4">central_mineira</data>
+  <data key="d5">Central Mineira</data>
+</node>
+<edge source="Estrela do Indaiá" target="Dores do Indaiá">
+  <data key="d6">29.63</data>
+  <data key="d7">LMG-794, MG-176, MG-235, s/ref</data>
+</edge>
+<edge source="Estrela do Indaiá" target="Luz">
+  <data key="d6">29.38</data>
+  <data key="d7">MG-176, s/ref</data>
+</edge>
+<edge source="Estrela do Indaiá" target="Serra da Saudade">
+  <data key="d6">23.06</data>
+  <data key="d7">MG-235</data>
+</edge>
+<edge source="Cachoeira da Prata" target="Fortuna de Minas">
+  <data key="d6">5.62</data>
+  <data key="d7">AMG-0350, MG-238</data>
+</edge>
+<edge source="Luz" target="Dores do Indaiá">
+  <data key="d6">39.83</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Luz" target="Lagoa da Prata">
+  <data key="d6">28.06</data>
+  <data key="d7">MG-429, Ponte dos Coqueiros</data>
+</edge>
+<edge source="Luz" target="Moema">
+  <data key="d6">28.48</data>
+  <data key="d7">BR-262, MG-252</data>
+</edge>
+<edge source="Japaraíba" target="Lagoa da Prata">
+  <data key="d6">13.97</data>
+  <data key="d7">MG-170</data>
+</edge>
+<edge source="Araçaí" target="Cordisburgo">
+  <data key="d6">15.86</data>
+  <data key="d7">AMG-0935, s/ref</data>
+</edge>
+<edge source="Martinho Campos" target="Bom Despacho">
+  <data key="d6">31.75</data>
+  <data key="d7">MG-164, s/ref</data>
+</edge>
+<edge source="Martinho Campos" target="Leandro Ferreira">
+  <data key="d6">33.48</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Araújos" target="Bom Despacho">
+  <data key="d6">24.91</data>
+  <data key="d7">BR-262, s/ref</data>
+</edge>
+<edge source="Monjolos" target="Santo Hipólito">
+  <data key="d6">15.77</data>
+  <data key="d7">Estrada para Monjolos Paraná, LMG-728, MG-220, s/ref</data>
+</edge>
+<edge source="Serra da Saudade" target="Dores do Indaiá">
+  <data key="d6">26.74</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Moema" target="Bom Despacho">
+  <data key="d6">21.49</data>
+  <data key="d7">BR-262, MG-164, s/ref</data>
+</edge>
+<edge source="Quartel Geral" target="Dores do Indaiá">
+  <data key="d6">23.95</data>
+  <data key="d7">MG-176, s/ref</data>
+</edge>
+<edge source="Bom Despacho" target="Leandro Ferreira">
+  <data key="d6">25.72</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Bom Despacho" target="Dores do Indaiá">
+  <data key="d6">34.86</data>
+  <data key="d7">s/ref</data>
+</edge>
+</graph></graphml>

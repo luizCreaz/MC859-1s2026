@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="rodovias" attr.type="string"/>
+<key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Coronel Murta">
+  <data key="d0">3119500</data>
+  <data key="d1">-16.591284</data>
+  <data key="d2">-42.176304</data>
+  <data key="d3">0.197</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Veredinha">
+  <data key="d0">3171071</data>
+  <data key="d1">-17.487665</data>
+  <data key="d2">-42.72525</data>
+  <data key="d3">0.312</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Novo Oriente de Minas">
+  <data key="d0">3145356</data>
+  <data key="d1">-17.229238</data>
+  <data key="d2">-41.227611</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Ladainha">
+  <data key="d0">3137007</data>
+  <data key="d1">-17.626403</data>
+  <data key="d2">-41.822553</data>
+  <data key="d3">0.116</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Santa Maria do Salto">
+  <data key="d0">3158102</data>
+  <data key="d1">-16.307343</data>
+  <data key="d2">-40.116354</data>
+  <data key="d3">0.344</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Pedra Azul">
+  <data key="d0">3148707</data>
+  <data key="d1">-15.955069</data>
+  <data key="d2">-41.184234</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Bandeira">
+  <data key="d0">3105202</data>
+  <data key="d1">-15.877677</data>
+  <data key="d2">-40.580969</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Ouro Verde de Minas">
+  <data key="d0">3146206</data>
+  <data key="d1">-18.048522</data>
+  <data key="d2">-41.296319</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Catuji">
+  <data key="d0">3115458</data>
+  <data key="d1">-17.371747</data>
+  <data key="d2">-41.498477</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Medina">
+  <data key="d0">3141405</data>
+  <data key="d1">-16.27052</data>
+  <data key="d2">-41.510066</data>
+  <data key="d3">0.084</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Jordânia">
+  <data key="d0">3136504</data>
+  <data key="d1">-15.883303</data>
+  <data key="d2">-40.31389</data>
+  <data key="d3">0.362</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Itaipé">
+  <data key="d0">3132305</data>
+  <data key="d1">-17.409373</data>
+  <data key="d2">-41.659367</data>
+  <data key="d3">0.156</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Araçuaí">
+  <data key="d0">3103405</data>
+  <data key="d1">-16.930782</data>
+  <data key="d2">-41.993175</data>
+  <data key="d3">0.092</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Turmalina">
+  <data key="d0">3169703</data>
+  <data key="d1">-17.244466</data>
+  <data key="d2">-42.839942</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Monte Formoso">
+  <data key="d0">3143153</data>
+  <data key="d1">-16.877365</data>
+  <data key="d2">-41.266287</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Ponto dos Volantes">
+  <data key="d0">3152170</data>
+  <data key="d1">-16.834228</data>
+  <data key="d2">-41.474427</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Minas Novas">
+  <data key="d0">3141801</data>
+  <data key="d1">-17.361465</data>
+  <data key="d2">-42.435988</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Palmópolis">
+  <data key="d0">3146750</data>
+  <data key="d1">-16.788543</data>
+  <data key="d2">-40.371083</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Jacinto">
+  <data key="d0">3134707</data>
+  <data key="d1">-16.182459</data>
+  <data key="d2">-40.313729</data>
+  <data key="d3">0.149</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Comercinho">
+  <data key="d0">3117009</data>
+  <data key="d1">-16.285008</data>
+  <data key="d2">-41.767496</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Poté">
+  <data key="d0">3152402</data>
+  <data key="d1">-17.814975</data>
+  <data key="d2">-41.769344</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Rio do Prado">
+  <data key="d0">3155108</data>
+  <data key="d1">-16.676569</data>
+  <data key="d2">-40.555792</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Itaobim">
+  <data key="d0">3133303</data>
+  <data key="d1">-16.583042</data>
+  <data key="d2">-41.534373</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Novo Cruzeiro">
+  <data key="d0">3145307</data>
+  <data key="d1">-17.370769</data>
+  <data key="d2">-41.95517</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Jequitinhonha">
+  <data key="d0">3135803</data>
+  <data key="d1">-16.388831</data>
+  <data key="d2">-41.082973</data>
+  <data key="d3">0.072</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Itinga">
+  <data key="d0">3134004</data>
+  <data key="d1">-16.586585</data>
+  <data key="d2">-41.835528</data>
+  <data key="d3">0.128</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Caraí">
+  <data key="d0">3113008</data>
+  <data key="d1">-17.173581</data>
+  <data key="d2">-41.583522</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Virgem da Lapa">
+  <data key="d0">3171600</data>
+  <data key="d1">-16.715471</data>
+  <data key="d2">-42.339625</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Divisópolis">
+  <data key="d0">3122454</data>
+  <data key="d1">-15.762883</data>
+  <data key="d2">-40.912312</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Franciscópolis">
+  <data key="d0">3126752</data>
+  <data key="d1">-17.993335</data>
+  <data key="d2">-41.967935</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Ataléia">
+  <data key="d0">3104700</data>
+  <data key="d1">-18.163374</data>
+  <data key="d2">-41.151488</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Rubim">
+  <data key="d0">3156601</data>
+  <data key="d1">-16.463876</data>
+  <data key="d2">-40.494238</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Padre Paraíso">
+  <data key="d0">3146305</data>
+  <data key="d1">-17.037992</data>
+  <data key="d2">-41.552017</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Santo Antônio do Jacinto">
+  <data key="d0">3160306</data>
+  <data key="d1">-16.503649</data>
+  <data key="d2">-40.277476</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Salto da Divisa">
+  <data key="d0">3157104</data>
+  <data key="d1">-16.110473</data>
+  <data key="d2">-40.029231</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Cachoeira de Pajeú">
+  <data key="d0">3102704</data>
+  <data key="d1">-15.968512</data>
+  <data key="d2">-41.498001</data>
+  <data key="d3">0.534</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Felisburgo">
+  <data key="d0">3125606</data>
+  <data key="d1">-16.636061</data>
+  <data key="d2">-40.733127</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Mata Verde">
+  <data key="d0">3140555</data>
+  <data key="d1">-15.761453</data>
+  <data key="d2">-40.702342</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Joaíma">
+  <data key="d0">3136009</data>
+  <data key="d1">-16.770727</data>
+  <data key="d2">-41.015379</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Almenara">
+  <data key="d0">3101706</data>
+  <data key="d1">-16.09108</data>
+  <data key="d2">-40.723775</data>
+  <data key="d3">0.04</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Frei Gaspar">
+  <data key="d0">3126802</data>
+  <data key="d1">-18.139692</data>
+  <data key="d2">-41.510677</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Pavão">
+  <data key="d0">3148509</data>
+  <data key="d1">-17.47152</data>
+  <data key="d2">-41.061624</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<node id="Malacacheta">
+  <data key="d0">3139201</data>
+  <data key="d1">-17.84336</data>
+  <data key="d2">-42.110227</data>
+  <data key="d3">0.0</data>
+  <data key="d4">jequitinhonha</data>
+  <data key="d5">Jequitinhonha</data>
+</node>
+<edge source="Coronel Murta" target="Araçuaí">
+  <data key="d6">42.37</data>
+  <data key="d7">BR-342;MGC-342</data>
+</edge>
+<edge source="Coronel Murta" target="Virgem da Lapa">
+  <data key="d6">22.21</data>
+  <data key="d7">MG-114</data>
+</edge>
+<edge source="Veredinha" target="Turmalina">
+  <data key="d6">29.56</data>
+  <data key="d7">AMG-3805, MG-308, s/ref</data>
+</edge>
+<edge source="Novo Oriente de Minas" target="Caraí">
+  <data key="d6">38.41</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Novo Oriente de Minas" target="Pavão">
+  <data key="d6">32.16</data>
+  <data key="d7">MG-409, s/ref</data>
+</edge>
+<edge source="Ladainha" target="Poté">
+  <data key="d6">21.64</data>
+  <data key="d7">Antigo Leito da EF Bahia - Minas, LMG-710, s/ref</data>
+</edge>
+<edge source="Ladainha" target="Novo Cruzeiro">
+  <data key="d6">31.64</data>
+  <data key="d7">Estrada de Ferro Bahia a Minas, MG-221, s/ref</data>
+</edge>
+<edge source="Santa Maria do Salto" target="Jacinto">
+  <data key="d6">25.3</data>
+  <data key="d7">BR-367</data>
+</edge>
+<edge source="Santa Maria do Salto" target="Salto da Divisa">
+  <data key="d6">23.77</data>
+  <data key="d7">BR-367, LMG-642</data>
+</edge>
+<edge source="Santa Maria do Salto" target="Santo Antônio do Jacinto">
+  <data key="d6">27.79</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Pedra Azul" target="Almenara">
+  <data key="d6">51.62</data>
+  <data key="d7">BR-251;MGC-251</data>
+</edge>
+<edge source="Pedra Azul" target="Cachoeira de Pajeú">
+  <data key="d6">33.67</data>
+  <data key="d7">BR-116;BR-251, LMG-632</data>
+</edge>
+<edge source="Pedra Azul" target="Divisópolis">
+  <data key="d6">36.12</data>
+  <data key="d7">LMG-610</data>
+</edge>
+<edge source="Pedra Azul" target="Jequitinhonha">
+  <data key="d6">49.29</data>
+  <data key="d7">BR-251;MGC-251, MG-105, s/ref</data>
+</edge>
+<edge source="Pedra Azul" target="Medina">
+  <data key="d6">49.4</data>
+  <data key="d7">BR-116</data>
+</edge>
+<edge source="Bandeira" target="Almenara">
+  <data key="d6">28.19</data>
+  <data key="d7">LMG-601, LMG-630</data>
+</edge>
+<edge source="Bandeira" target="Mata Verde">
+  <data key="d6">18.33</data>
+  <data key="d7">BR-251, s/ref</data>
+</edge>
+<edge source="Bandeira" target="Jordânia">
+  <data key="d6">28.68</data>
+  <data key="d7">BR-251</data>
+</edge>
+<edge source="Bandeira" target="Divisópolis">
+  <data key="d6">37.78</data>
+  <data key="d7">LMG-601, MG-406, s/ref</data>
+</edge>
+<edge source="Ouro Verde de Minas" target="Ataléia">
+  <data key="d6">19.95</data>
+  <data key="d7">BR-342, Estrada RM 40 para São Miguel, s/ref</data>
+</edge>
+<edge source="Ouro Verde de Minas" target="Frei Gaspar">
+  <data key="d6">24.87</data>
+  <data key="d7">BR-342</data>
+</edge>
+<edge source="Catuji" target="Caraí">
+  <data key="d6">23.75</data>
+  <data key="d7">BR-116, BR-342, BR-342;MGC-342, s/ref</data>
+</edge>
+<edge source="Catuji" target="Itaipé">
+  <data key="d6">17.62</data>
+  <data key="d7">MG-211</data>
+</edge>
+<edge source="Medina" target="Comercinho">
+  <data key="d6">27.6</data>
+  <data key="d7">LMG-650</data>
+</edge>
+<edge source="Medina" target="Itaobim">
+  <data key="d6">34.73</data>
+  <data key="d7">BR-116</data>
+</edge>
+<edge source="Medina" target="Jequitinhonha">
+  <data key="d6">47.56</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Jordânia" target="Jacinto">
+  <data key="d6">33.19</data>
+  <data key="d7">LMG-634</data>
+</edge>
+<edge source="Jordânia" target="Salto da Divisa">
+  <data key="d6">39.61</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Itaipé" target="Novo Cruzeiro">
+  <data key="d6">31.75</data>
+  <data key="d7">MG-211, s/ref</data>
+</edge>
+<edge source="Araçuaí" target="Novo Cruzeiro">
+  <data key="d6">48.9</data>
+  <data key="d7">LMG-678, s/ref</data>
+</edge>
+<edge source="Araçuaí" target="Itinga">
+  <data key="d6">41.67</data>
+  <data key="d7">BR-367</data>
+</edge>
+<edge source="Araçuaí" target="Caraí">
+  <data key="d6">51.28</data>
+  <data key="d7">BR-342</data>
+</edge>
+<edge source="Araçuaí" target="Virgem da Lapa">
+  <data key="d6">43.98</data>
+  <data key="d7">MGC-367;BR-367</data>
+</edge>
+<edge source="Turmalina" target="Minas Novas">
+  <data key="d6">44.87</data>
+  <data key="d7">BR-367, MG-308</data>
+</edge>
+<edge source="Monte Formoso" target="Jequitinhonha">
+  <data key="d6">57.59</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Monte Formoso" target="Joaíma">
+  <data key="d6">29.29</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Monte Formoso" target="Ponto dos Volantes">
+  <data key="d6">22.72</data>
+  <data key="d7">LMG-646, s/ref</data>
+</edge>
+<edge source="Ponto dos Volantes" target="Itaobim">
+  <data key="d6">28.56</data>
+  <data key="d7">BR-116, s/ref</data>
+</edge>
+<edge source="Ponto dos Volantes" target="Jequitinhonha">
+  <data key="d6">64.72</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Ponto dos Volantes" target="Padre Paraíso">
+  <data key="d6">24.05</data>
+  <data key="d7">BR-116, s/ref</data>
+</edge>
+<edge source="Palmópolis" target="Rubim">
+  <data key="d6">38.36</data>
+  <data key="d7">Estrada Palmópolis a Itapiru, Estrada Para Itapiru</data>
+</edge>
+<edge source="Palmópolis" target="Rio do Prado">
+  <data key="d6">23.33</data>
+  <data key="d7">MG-406</data>
+</edge>
+<edge source="Jacinto" target="Almenara">
+  <data key="d6">45.12</data>
+  <data key="d7">BR-367, LMG-630, LMG-634</data>
+</edge>
+<edge source="Jacinto" target="Santo Antônio do Jacinto">
+  <data key="d6">35.86</data>
+  <data key="d7">MG-405</data>
+</edge>
+<edge source="Poté" target="Malacacheta">
+  <data key="d6">36.3</data>
+  <data key="d7">MG-217, s/ref</data>
+</edge>
+<edge source="Rio do Prado" target="Felisburgo">
+  <data key="d6">19.49</data>
+  <data key="d7">MG-205, s/ref</data>
+</edge>
+<edge source="Rio do Prado" target="Rubim">
+  <data key="d6">24.5</data>
+  <data key="d7">MG-205, MG-406</data>
+</edge>
+<edge source="Itaobim" target="Itinga">
+  <data key="d6">32.18</data>
+  <data key="d7">BR-367</data>
+</edge>
+<edge source="Itaobim" target="Jequitinhonha">
+  <data key="d6">52.87</data>
+  <data key="d7">BR-367, s/ref</data>
+</edge>
+<edge source="Jequitinhonha" target="Almenara">
+  <data key="d6">50.69</data>
+  <data key="d7">BR-367</data>
+</edge>
+<edge source="Jequitinhonha" target="Joaíma">
+  <data key="d6">42.95</data>
+  <data key="d7">MG-105, s/ref</data>
+</edge>
+<edge source="Caraí" target="Padre Paraíso">
+  <data key="d6">15.4</data>
+  <data key="d7">BR-116, s/ref</data>
+</edge>
+<edge source="Divisópolis" target="Almenara">
+  <data key="d6">41.63</data>
+  <data key="d7">MG-406, s/ref</data>
+</edge>
+<edge source="Divisópolis" target="Mata Verde">
+  <data key="d6">22.54</data>
+  <data key="d7">LMG-601, LMG-610</data>
+</edge>
+<edge source="Franciscópolis" target="Malacacheta">
+  <data key="d6">22.44</data>
+  <data key="d7">AMG-2815, MG-217</data>
+</edge>
+<edge source="Rubim" target="Almenara">
+  <data key="d6">48.11</data>
+  <data key="d7">MG-406</data>
+</edge>
+<edge source="Rubim" target="Santo Antônio do Jacinto">
+  <data key="d6">23.62</data>
+  <data key="d7">s/ref</data>
+</edge>
+<edge source="Felisburgo" target="Joaíma">
+  <data key="d6">33.64</data>
+  <data key="d7">MG-205, s/ref</data>
+</edge>
+</graph></graphml>

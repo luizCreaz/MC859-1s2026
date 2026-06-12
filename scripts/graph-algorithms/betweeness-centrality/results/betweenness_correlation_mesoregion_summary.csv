@@ -1,0 +1,25 @@
+graph_name,scope,graph_type,mesoregion_slug,mesoregion_label,nodes,edges,bc_mean,bc_median,bc_max,n_pairs,pearson_r,pearson_p,spearman_r,spearman_p,significant_005
+highways__campo_das_vertentes,mesoregion,highways,campo_das_vertentes,Campo das Vertentes,42,56,0.016521,0.004243,0.182480,42,-0.029940,0.850705,0.048732,0.759245,False
+highways__central_mineira,mesoregion,highways,central_mineira,Central Mineira,23,18,0.017316,0.000000,0.118326,23,-0.048454,0.826225,0.371335,0.081064,False
+highways__jequitinhonha,mesoregion,highways,jequitinhonha,Jequitinhonha,43,58,0.063258,0.017538,0.347210,43,-0.063861,0.684124,0.116421,0.457202,False
+highways__metropolitana_belo_horizonte,mesoregion,highways,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,102,194,0.045758,0.021309,0.277628,102,0.042926,0.668372,0.349973,0.000311,True
+highways__noroeste_de_minas,mesoregion,highways,noroeste_de_minas,Noroeste de Minas,34,51,0.090296,0.014473,0.545644,34,0.129488,0.465466,0.406949,0.016915,True
+highways__norte_de_minas,mesoregion,highways,norte_de_minas,Norte de Minas,93,155,0.055351,0.021739,0.417274,93,-0.042445,0.686233,0.108717,0.299585,False
+highways__oeste_de_minas,mesoregion,highways,oeste_de_minas,Oeste de Minas,47,79,0.056840,0.023929,0.415070,47,-0.039221,0.793516,0.176444,0.235463,False
+highways__sul_sudoeste_de_minas,mesoregion,highways,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,147,276,0.041112,0.029666,0.238055,147,-0.004096,0.960734,0.161304,0.050960,False
+highways__triangulo_mineiro_alto_paranaiba,mesoregion,highways,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,73,125,0.071334,0.026145,0.461921,73,0.322318,0.005419,0.480820,0.000017,True
+highways__vale_do_mucuri,mesoregion,highways,vale_do_mucuri,Vale do Mucuri,19,21,0.029928,0.017974,0.150327,19,-0.226319,0.351492,-0.373995,0.114702,False
+highways__vale_do_rio_doce,mesoregion,highways,vale_do_rio_doce,Vale do Rio Doce,99,165,0.041218,0.011153,0.383479,99,-0.017128,0.866375,0.165349,0.101927,False
+highways__zona_da_mata,mesoregion,highways,zona_da_mata,Zona da Mata,131,230,0.041037,0.015027,0.341802,131,-0.060456,0.492745,0.177985,0.041964,True
+physical_boundaries__campo_das_vertentes,mesoregion,physical_boundaries,campo_das_vertentes,Campo das Vertentes,42,76,0.016260,0.003586,0.167431,42,-0.015860,0.920593,0.061898,0.696972,False
+physical_boundaries__central_mineira,mesoregion,physical_boundaries,central_mineira,Central Mineira,23,27,0.011481,0.000000,0.080087,23,-0.045145,0.837933,0.354358,0.097114,False
+physical_boundaries__jequitinhonha,mesoregion,physical_boundaries,jequitinhonha,Jequitinhonha,43,84,0.057100,0.021487,0.343669,43,-0.104987,0.502849,0.137554,0.379067,False
+physical_boundaries__metropolitana_belo_horizonte,mesoregion,physical_boundaries,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,102,247,0.035515,0.016647,0.264248,102,0.052413,0.600850,0.316278,0.001202,True
+physical_boundaries__noroeste_de_minas,mesoregion,physical_boundaries,noroeste_de_minas,Noroeste de Minas,34,70,0.087177,0.016162,0.553030,34,0.137652,0.437556,0.361494,0.035673,True
+physical_boundaries__norte_de_minas,mesoregion,physical_boundaries,norte_de_minas,Norte de Minas,93,224,0.038035,0.012796,0.350666,93,-0.074081,0.480361,0.061280,0.559543,False
+physical_boundaries__oeste_de_minas,mesoregion,physical_boundaries,oeste_de_minas,Oeste de Minas,47,97,0.048576,0.019651,0.337060,47,-0.044009,0.768967,0.110029,0.461580,False
+physical_boundaries__sul_sudoeste_de_minas,mesoregion,physical_boundaries,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,147,372,0.035756,0.018403,0.227602,147,-0.025148,0.762384,0.117785,0.155367,False
+physical_boundaries__triangulo_mineiro_alto_paranaiba,mesoregion,physical_boundaries,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,73,160,0.059666,0.026460,0.368876,73,0.412397,0.000288,0.448545,0.000069,True
+physical_boundaries__vale_do_mucuri,mesoregion,physical_boundaries,vale_do_mucuri,Vale do Mucuri,19,24,0.028208,0.009804,0.150327,19,-0.255260,0.291555,-0.430087,0.066067,False
+physical_boundaries__vale_do_rio_doce,mesoregion,physical_boundaries,vale_do_rio_doce,Vale do Rio Doce,99,247,0.030301,0.009296,0.375690,99,-0.068101,0.503008,0.089767,0.376904,False
+physical_boundaries__zona_da_mata,mesoregion,physical_boundaries,zona_da_mata,Zona da Mata,131,328,0.035535,0.012982,0.310646,131,-0.054866,0.533662,0.191852,0.028146,True

@@ -1,0 +1,573 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d5" for="node" attr.name="mesoregion_label" attr.type="string"/>
+<key id="d4" for="node" attr.name="mesoregion_slug" attr.type="string"/>
+<key id="d3" for="node" attr.name="taxa_feminicidio_norm" attr.type="double"/>
+<key id="d2" for="node" attr.name="lon" attr.type="double"/>
+<key id="d1" for="node" attr.name="lat" attr.type="double"/>
+<key id="d0" for="node" attr.name="geocodigo" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Alfredo Vasconcelos">
+  <data key="d0">3101631</data>
+  <data key="d1">-21.139043</data>
+  <data key="d2">-43.71251</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Coronel Xavier Chaves">
+  <data key="d0">3119708</data>
+  <data key="d1">-21.024663</data>
+  <data key="d2">-44.196624</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Barra Longa">
+  <data key="d0">3105707</data>
+  <data key="d1">-20.275635</data>
+  <data key="d2">-43.066201</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Carandaí">
+  <data key="d0">3113206</data>
+  <data key="d1">-20.996682</data>
+  <data key="d2">-43.844341</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Santa Cruz do Escalvado">
+  <data key="d0">3157401</data>
+  <data key="d1">-20.230612</data>
+  <data key="d2">-42.814008</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Caranaíba">
+  <data key="d0">3113107</data>
+  <data key="d1">-20.891211</data>
+  <data key="d2">-43.720703</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Desterro do Melo">
+  <data key="d0">3121506</data>
+  <data key="d1">-21.15065</data>
+  <data key="d2">-43.519757</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="São Tiago">
+  <data key="d0">3165008</data>
+  <data key="d1">-20.938536</data>
+  <data key="d2">-44.560355</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Antônio Carlos">
+  <data key="d0">3102902</data>
+  <data key="d1">-21.410587</data>
+  <data key="d2">-43.766332</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Conceição da Barra de Minas">
+  <data key="d0">3115201</data>
+  <data key="d1">-21.145103</data>
+  <data key="d2">-44.493074</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Piedade de Ponte Nova">
+  <data key="d0">3150208</data>
+  <data key="d1">-20.24171</data>
+  <data key="d2">-42.718067</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Piedade do Rio Grande">
+  <data key="d0">3150307</data>
+  <data key="d1">-21.484036</data>
+  <data key="d2">-44.155476</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Barbacena">
+  <data key="d0">3105608</data>
+  <data key="d1">-21.251514</data>
+  <data key="d2">-43.800626</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Santana do Garambéu">
+  <data key="d0">3158706</data>
+  <data key="d1">-21.636925</data>
+  <data key="d2">-44.066118</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Ribeirão Vermelho">
+  <data key="d0">3154705</data>
+  <data key="d1">-21.147887</data>
+  <data key="d2">-45.073063</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Santa Cruz de Minas">
+  <data key="d0">3157336</data>
+  <data key="d1">-21.120309</data>
+  <data key="d2">-44.217297</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Tiradentes">
+  <data key="d0">3168804</data>
+  <data key="d1">-21.116425</data>
+  <data key="d2">-44.154618</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Barroso">
+  <data key="d0">3105905</data>
+  <data key="d1">-21.183229</data>
+  <data key="d2">-43.957817</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Oratórios">
+  <data key="d0">3145851</data>
+  <data key="d1">-20.426446</data>
+  <data key="d2">-42.793743</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Senhora dos Remédios">
+  <data key="d0">3166204</data>
+  <data key="d1">-21.031244</data>
+  <data key="d2">-43.600223</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Prados">
+  <data key="d0">3152709</data>
+  <data key="d1">-21.098588</data>
+  <data key="d2">-44.063463</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Ibertioga">
+  <data key="d0">3129400</data>
+  <data key="d1">-21.449688</data>
+  <data key="d2">-43.959011</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Nazareno">
+  <data key="d0">3144508</data>
+  <data key="d1">-21.204201</data>
+  <data key="d2">-44.615088</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Resende Costa">
+  <data key="d0">3154200</data>
+  <data key="d1">-20.837451</data>
+  <data key="d2">-44.292037</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="São João del Rei">
+  <data key="d0">3162500</data>
+  <data key="d1">-21.263147</data>
+  <data key="d2">-44.274429</data>
+  <data key="d3">0.017</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Ponte Nova">
+  <data key="d0">3152105</data>
+  <data key="d1">-20.412149</data>
+  <data key="d2">-42.917387</data>
+  <data key="d3">0.055</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Lagoa Dourada">
+  <data key="d0">3137403</data>
+  <data key="d1">-20.892254</data>
+  <data key="d2">-44.074681</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Dom Silvério">
+  <data key="d0">3122702</data>
+  <data key="d1">-20.134641</data>
+  <data key="d2">-42.94623</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Ressaquinha">
+  <data key="d0">3154408</data>
+  <data key="d1">-21.085412</data>
+  <data key="d2">-43.753197</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Capela Nova">
+  <data key="d0">3112208</data>
+  <data key="d1">-20.917335</data>
+  <data key="d2">-43.60861</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Luminárias">
+  <data key="d0">3138708</data>
+  <data key="d1">-21.537978</data>
+  <data key="d2">-44.923145</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Ritápolis">
+  <data key="d0">3156106</data>
+  <data key="d1">-20.982289</data>
+  <data key="d2">-44.376401</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Madre de Deus de Minas">
+  <data key="d0">3139102</data>
+  <data key="d1">-21.484977</data>
+  <data key="d2">-44.332147</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Nepomuceno">
+  <data key="d0">3144607</data>
+  <data key="d1">-21.227558</data>
+  <data key="d2">-45.260791</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Guaraciaba">
+  <data key="d0">3128204</data>
+  <data key="d1">-20.555175</data>
+  <data key="d2">-43.020707</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Jequeri">
+  <data key="d0">3135506</data>
+  <data key="d1">-20.474167</data>
+  <data key="d2">-42.619615</data>
+  <data key="d3">0.126</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Santa Bárbara do Tugúrio">
+  <data key="d0">3157302</data>
+  <data key="d1">-21.245078</data>
+  <data key="d2">-43.531503</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Dores de Campos">
+  <data key="d0">3123007</data>
+  <data key="d1">-21.100143</data>
+  <data key="d2">-43.989614</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Acaiaca">
+  <data key="d0">3100401</data>
+  <data key="d1">-20.399832</data>
+  <data key="d2">-43.101202</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Rio Casca">
+  <data key="d0">3154903</data>
+  <data key="d1">-20.14094</data>
+  <data key="d2">-42.660615</data>
+  <data key="d3">0.125</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Raul Soares">
+  <data key="d0">3154002</data>
+  <data key="d1">-20.013182</data>
+  <data key="d2">-42.390205</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<node id="Rio Doce">
+  <data key="d0">3155009</data>
+  <data key="d1">-20.215593</data>
+  <data key="d2">-42.906526</data>
+  <data key="d3">0.0</data>
+  <data key="d4">campo_das_vertentes</data>
+  <data key="d5">Campo das Vertentes</data>
+</node>
+<edge source="Alfredo Vasconcelos" target="Barbacena">
+  <data key="d6">15.45</data>
+</edge>
+<edge source="Alfredo Vasconcelos" target="Desterro do Melo">
+  <data key="d6">20.06</data>
+</edge>
+<edge source="Alfredo Vasconcelos" target="Ressaquinha">
+  <data key="d6">7.29</data>
+</edge>
+<edge source="Alfredo Vasconcelos" target="Senhora dos Remédios">
+  <data key="d6">16.69</data>
+</edge>
+<edge source="Coronel Xavier Chaves" target="São João del Rei">
+  <data key="d6">27.61</data>
+</edge>
+<edge source="Coronel Xavier Chaves" target="Prados">
+  <data key="d6">16.07</data>
+</edge>
+<edge source="Coronel Xavier Chaves" target="Tiradentes">
+  <data key="d6">11.05</data>
+</edge>
+<edge source="Coronel Xavier Chaves" target="Ritápolis">
+  <data key="d6">19.27</data>
+</edge>
+<edge source="Coronel Xavier Chaves" target="Lagoa Dourada">
+  <data key="d6">19.38</data>
+</edge>
+<edge source="Coronel Xavier Chaves" target="Resende Costa">
+  <data key="d6">22.98</data>
+</edge>
+<edge source="Barra Longa" target="Acaiaca">
+  <data key="d6">14.23</data>
+</edge>
+<edge source="Barra Longa" target="Ponte Nova">
+  <data key="d6">21.68</data>
+</edge>
+<edge source="Barra Longa" target="Rio Doce">
+  <data key="d6">17.96</data>
+</edge>
+<edge source="Barra Longa" target="Dom Silvério">
+  <data key="d6">20.02</data>
+</edge>
+<edge source="Carandaí" target="Barbacena">
+  <data key="d6">28.57</data>
+</edge>
+<edge source="Carandaí" target="Barroso">
+  <data key="d6">23.78</data>
+</edge>
+<edge source="Carandaí" target="Capela Nova">
+  <data key="d6">26.04</data>
+</edge>
+<edge source="Carandaí" target="Caranaíba">
+  <data key="d6">17.37</data>
+</edge>
+<edge source="Carandaí" target="Prados">
+  <data key="d6">25.41</data>
+</edge>
+<edge source="Carandaí" target="Dores de Campos">
+  <data key="d6">18.95</data>
+</edge>
+<edge source="Carandaí" target="Ressaquinha">
+  <data key="d6">13.65</data>
+</edge>
+<edge source="Carandaí" target="Senhora dos Remédios">
+  <data key="d6">25.66</data>
+</edge>
+<edge source="Carandaí" target="Lagoa Dourada">
+  <data key="d6">26.6</data>
+</edge>
+<edge source="Santa Cruz do Escalvado" target="Piedade de Ponte Nova">
+  <data key="d6">10.1</data>
+</edge>
+<edge source="Santa Cruz do Escalvado" target="Ponte Nova">
+  <data key="d6">22.82</data>
+</edge>
+<edge source="Santa Cruz do Escalvado" target="Rio Casca">
+  <data key="d6">18.86</data>
+</edge>
+<edge source="Santa Cruz do Escalvado" target="Rio Doce">
+  <data key="d6">9.81</data>
+</edge>
+<edge source="Caranaíba" target="Capela Nova">
+  <data key="d6">12.01</data>
+</edge>
+<edge source="Desterro do Melo" target="Barbacena">
+  <data key="d6">31.22</data>
+</edge>
+<edge source="Desterro do Melo" target="Santa Bárbara do Tugúrio">
+  <data key="d6">10.52</data>
+</edge>
+<edge source="Desterro do Melo" target="Senhora dos Remédios">
+  <data key="d6">15.64</data>
+</edge>
+<edge source="São Tiago" target="Conceição da Barra de Minas">
+  <data key="d6">23.91</data>
+</edge>
+<edge source="São Tiago" target="Nazareno">
+  <data key="d6">29.95</data>
+</edge>
+<edge source="São Tiago" target="Resende Costa">
+  <data key="d6">30.06</data>
+</edge>
+<edge source="São Tiago" target="Ritápolis">
+  <data key="d6">19.73</data>
+</edge>
+<edge source="Antônio Carlos" target="Barbacena">
+  <data key="d6">17.96</data>
+</edge>
+<edge source="Antônio Carlos" target="Ibertioga">
+  <data key="d6">20.43</data>
+</edge>
+<edge source="Conceição da Barra de Minas" target="Nazareno">
+  <data key="d6">14.26</data>
+</edge>
+<edge source="Conceição da Barra de Minas" target="São João del Rei">
+  <data key="d6">26.19</data>
+</edge>
+<edge source="Conceição da Barra de Minas" target="Ritápolis">
+  <data key="d6">21.72</data>
+</edge>
+<edge source="Piedade de Ponte Nova" target="Rio Casca">
+  <data key="d6">12.67</data>
+</edge>
+<edge source="Piedade do Rio Grande" target="Ibertioga">
+  <data key="d6">20.71</data>
+</edge>
+<edge source="Piedade do Rio Grande" target="Madre de Deus de Minas">
+  <data key="d6">18.3</data>
+</edge>
+<edge source="Piedade do Rio Grande" target="Santana do Garambéu">
+  <data key="d6">19.29</data>
+</edge>
+<edge source="Piedade do Rio Grande" target="São João del Rei">
+  <data key="d6">27.38</data>
+</edge>
+<edge source="Barbacena" target="Santa Bárbara do Tugúrio">
+  <data key="d6">27.94</data>
+</edge>
+<edge source="Barbacena" target="Ibertioga">
+  <data key="d6">27.4</data>
+</edge>
+<edge source="Barbacena" target="São João del Rei">
+  <data key="d6">49.18</data>
+</edge>
+<edge source="Barbacena" target="Barroso">
+  <data key="d6">17.99</data>
+</edge>
+<edge source="Barbacena" target="Prados">
+  <data key="d6">32.12</data>
+</edge>
+<edge source="Barbacena" target="Dores de Campos">
+  <data key="d6">25.81</data>
+</edge>
+<edge source="Barbacena" target="Ressaquinha">
+  <data key="d6">19.04</data>
+</edge>
+<edge source="Santa Cruz de Minas" target="São João del Rei">
+  <data key="d6">16.89</data>
+</edge>
+<edge source="Santa Cruz de Minas" target="Tiradentes">
+  <data key="d6">6.52</data>
+</edge>
+<edge source="Tiradentes" target="Prados">
+  <data key="d6">9.67</data>
+</edge>
+<edge source="Tiradentes" target="São João del Rei">
+  <data key="d6">20.45</data>
+</edge>
+<edge source="Barroso" target="Prados">
+  <data key="d6">14.43</data>
+</edge>
+<edge source="Barroso" target="Dores de Campos">
+  <data key="d6">9.77</data>
+</edge>
+<edge source="Oratórios" target="Jequeri">
+  <data key="d6">18.93</data>
+</edge>
+<edge source="Oratórios" target="Ponte Nova">
+  <data key="d6">13.0</data>
+</edge>
+<edge source="Senhora dos Remédios" target="Capela Nova">
+  <data key="d6">12.64</data>
+</edge>
+<edge source="Senhora dos Remédios" target="Ressaquinha">
+  <data key="d6">16.99</data>
+</edge>
+<edge source="Prados" target="Dores de Campos">
+  <data key="d6">7.67</data>
+</edge>
+<edge source="Prados" target="Lagoa Dourada">
+  <data key="d6">22.87</data>
+</edge>
+<edge source="Prados" target="São João del Rei">
+  <data key="d6">28.49</data>
+</edge>
+<edge source="Ibertioga" target="São João del Rei">
+  <data key="d6">38.68</data>
+</edge>
+<edge source="Nazareno" target="São João del Rei">
+  <data key="d6">35.95</data>
+</edge>
+<edge source="Resende Costa" target="Lagoa Dourada">
+  <data key="d6">23.41</data>
+</edge>
+<edge source="Resende Costa" target="Ritápolis">
+  <data key="d6">18.27</data>
+</edge>
+<edge source="São João del Rei" target="Madre de Deus de Minas">
+  <data key="d6">25.27</data>
+</edge>
+<edge source="São João del Rei" target="Ritápolis">
+  <data key="d6">32.84</data>
+</edge>
+<edge source="Ponte Nova" target="Acaiaca">
+  <data key="d6">19.24</data>
+</edge>
+<edge source="Ponte Nova" target="Guaraciaba">
+  <data key="d6">19.16</data>
+</edge>
+<edge source="Ponte Nova" target="Rio Doce">
+  <data key="d6">21.79</data>
+</edge>
+<edge source="Dom Silvério" target="Rio Doce">
+  <data key="d6">9.88</data>
+</edge>
+<edge source="Guaraciaba" target="Acaiaca">
+  <data key="d6">19.14</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,3 @@
+graph_name,scope,graph_type,mesoregion_slug,mesoregion_label,nodes,edges,pearson_r_nx,pearson_r_scipy,pearson_p_scipy,spearman_r_scipy,spearman_p_scipy,interpretation
+physical_boundaries,state,physical_boundaries,all,Minas Gerais (state),853,2424,0.027948,0.029709,0.143667,0.062524,0.002072,NEARLY NEUTRAL: no clear spatial clustering pattern
+highways,state,highways,all,Minas Gerais (state),853,1724,0.038031,0.039264,0.103157,0.083816,0.000494,NEARLY NEUTRAL: no clear spatial clustering pattern
