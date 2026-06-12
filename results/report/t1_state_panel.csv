@@ -1,0 +1,3 @@
+graph_type,nodes_assortativity,edges_assortativity,assortativity_pearson_r,assortativity_pearson_p,assortativity_spearman_r,assortativity_interpretation,nodes_bc,edges_bc,bc_mean,bc_median,bc_femicide_pearson_r,bc_femicide_pearson_p,bc_femicide_spearman_r,bc_femicide_spearman_p,bc_femicide_significant_005
+highways,853,1724,0.038031,0.103157,0.083816,NEARLY NEUTRAL: no clear spatial clustering pattern,853,1724,0.014844,0.004689,-0.014955,0.662718,0.179189,0.000000,True
+physical_boundaries,853,2424,0.027948,0.143667,0.062524,NEARLY NEUTRAL: no clear spatial clustering pattern,853,2424,0.012052,0.003089,-0.014002,0.683012,0.170658,0.000001,True

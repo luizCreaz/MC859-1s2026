@@ -1,0 +1,49 @@
+graph_type,mesoregion_slug,mesoregion_label,metric,value,abs_value,rank_within_graph_type
+highways,oeste_de_minas,Oeste de Minas,assortativity_pearson_r,0.214023,0.214023,1.000000
+highways,norte_de_minas,Norte de Minas,assortativity_pearson_r,0.135678,0.135678,2.000000
+highways,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,assortativity_pearson_r,-0.114419,0.114419,3.000000
+highways,vale_do_mucuri,Vale do Mucuri,assortativity_pearson_r,-0.099074,0.099074,4.000000
+highways,campo_das_vertentes,Campo das Vertentes,assortativity_pearson_r,-0.077181,0.077181,5.000000
+highways,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,assortativity_pearson_r,-0.067982,0.067982,6.000000
+highways,noroeste_de_minas,Noroeste de Minas,assortativity_pearson_r,0.061957,0.061957,7.000000
+highways,jequitinhonha,Jequitinhonha,assortativity_pearson_r,-0.035193,0.035193,8.000000
+highways,central_mineira,Central Mineira,assortativity_pearson_r,-0.032927,0.032927,9.000000
+highways,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,assortativity_pearson_r,0.028449,0.028449,10.000000
+highways,vale_do_rio_doce,Vale do Rio Doce,assortativity_pearson_r,0.021899,0.021899,11.000000
+highways,zona_da_mata,Zona da Mata,assortativity_pearson_r,-0.006221,0.006221,12.000000
+physical_boundaries,oeste_de_minas,Oeste de Minas,assortativity_pearson_r,0.197789,0.197789,1.000000
+physical_boundaries,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,assortativity_pearson_r,-0.099714,0.099714,2.000000
+physical_boundaries,vale_do_mucuri,Vale do Mucuri,assortativity_pearson_r,-0.085630,0.085630,3.000000
+physical_boundaries,campo_das_vertentes,Campo das Vertentes,assortativity_pearson_r,-0.083001,0.083001,4.000000
+physical_boundaries,norte_de_minas,Norte de Minas,assortativity_pearson_r,0.064162,0.064162,5.000000
+physical_boundaries,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,assortativity_pearson_r,-0.054365,0.054365,6.000000
+physical_boundaries,central_mineira,Central Mineira,assortativity_pearson_r,-0.049287,0.049287,7.000000
+physical_boundaries,zona_da_mata,Zona da Mata,assortativity_pearson_r,-0.039563,0.039563,8.000000
+physical_boundaries,vale_do_rio_doce,Vale do Rio Doce,assortativity_pearson_r,0.018470,0.018470,9.000000
+physical_boundaries,jequitinhonha,Jequitinhonha,assortativity_pearson_r,0.008127,0.008127,10.000000
+physical_boundaries,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,assortativity_pearson_r,0.006356,0.006356,11.000000
+physical_boundaries,noroeste_de_minas,Noroeste de Minas,assortativity_pearson_r,0.000238,0.000238,12.000000
+highways,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,bc_femicide_spearman_r,0.480820,0.480820,1.000000
+highways,noroeste_de_minas,Noroeste de Minas,bc_femicide_spearman_r,0.406949,0.406949,2.000000
+highways,vale_do_mucuri,Vale do Mucuri,bc_femicide_spearman_r,-0.373995,0.373995,3.000000
+highways,central_mineira,Central Mineira,bc_femicide_spearman_r,0.371335,0.371335,4.000000
+highways,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,bc_femicide_spearman_r,0.349973,0.349973,5.000000
+highways,zona_da_mata,Zona da Mata,bc_femicide_spearman_r,0.177985,0.177985,6.000000
+highways,oeste_de_minas,Oeste de Minas,bc_femicide_spearman_r,0.176444,0.176444,7.000000
+highways,vale_do_rio_doce,Vale do Rio Doce,bc_femicide_spearman_r,0.165349,0.165349,8.000000
+highways,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,bc_femicide_spearman_r,0.161304,0.161304,9.000000
+highways,jequitinhonha,Jequitinhonha,bc_femicide_spearman_r,0.116421,0.116421,10.000000
+highways,norte_de_minas,Norte de Minas,bc_femicide_spearman_r,0.108717,0.108717,11.000000
+highways,campo_das_vertentes,Campo das Vertentes,bc_femicide_spearman_r,0.048732,0.048732,12.000000
+physical_boundaries,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,bc_femicide_spearman_r,0.448545,0.448545,1.000000
+physical_boundaries,vale_do_mucuri,Vale do Mucuri,bc_femicide_spearman_r,-0.430087,0.430087,2.000000
+physical_boundaries,noroeste_de_minas,Noroeste de Minas,bc_femicide_spearman_r,0.361494,0.361494,3.000000
+physical_boundaries,central_mineira,Central Mineira,bc_femicide_spearman_r,0.354358,0.354358,4.000000
+physical_boundaries,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,bc_femicide_spearman_r,0.316278,0.316278,5.000000
+physical_boundaries,zona_da_mata,Zona da Mata,bc_femicide_spearman_r,0.191852,0.191852,6.000000
+physical_boundaries,jequitinhonha,Jequitinhonha,bc_femicide_spearman_r,0.137554,0.137554,7.000000
+physical_boundaries,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,bc_femicide_spearman_r,0.117785,0.117785,8.000000
+physical_boundaries,oeste_de_minas,Oeste de Minas,bc_femicide_spearman_r,0.110029,0.110029,9.000000
+physical_boundaries,vale_do_rio_doce,Vale do Rio Doce,bc_femicide_spearman_r,0.089767,0.089767,10.000000
+physical_boundaries,campo_das_vertentes,Campo das Vertentes,bc_femicide_spearman_r,0.061898,0.061898,11.000000
+physical_boundaries,norte_de_minas,Norte de Minas,bc_femicide_spearman_r,0.061280,0.061280,12.000000

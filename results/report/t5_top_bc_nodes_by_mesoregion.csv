@@ -1,0 +1,73 @@
+graph_type,mesoregion_slug,mesoregion_label,rank,node_id,city,betweenness_centrality,femicide_rate_normalized
+physical_boundaries,noroeste_de_minas,Noroeste de Minas,1,Unaí,Unaí,0.553030,0.018000
+physical_boundaries,noroeste_de_minas,Noroeste de Minas,2,Chapada Gaúcha,Chapada Gaúcha,0.511797,0.131000
+physical_boundaries,noroeste_de_minas,Noroeste de Minas,3,Arinos,Arinos,0.486111,0.000000
+physical_boundaries,norte_de_minas,Norte de Minas,1,Montes Claros,Montes Claros,0.350666,0.015000
+physical_boundaries,norte_de_minas,Norte de Minas,2,Bocaiúva,Bocaiúva,0.328280,0.032000
+physical_boundaries,norte_de_minas,Norte de Minas,3,Grão Mogol,Grão Mogol,0.313598,0.000000
+physical_boundaries,jequitinhonha,Jequitinhonha,1,Jequitinhonha,Jequitinhonha,0.343669,0.072000
+physical_boundaries,jequitinhonha,Jequitinhonha,2,Ponto dos Volantes,Ponto dos Volantes,0.317625,0.000000
+physical_boundaries,jequitinhonha,Jequitinhonha,3,Novo Cruzeiro,Novo Cruzeiro,0.227734,0.000000
+physical_boundaries,vale_do_mucuri,Vale do Mucuri,1,Carlos Chagas,Carlos Chagas,0.150327,0.000000
+physical_boundaries,vale_do_mucuri,Vale do Mucuri,2,Machacalis,Machacalis,0.074074,0.000000
+physical_boundaries,vale_do_mucuri,Vale do Mucuri,3,Crisólita,Crisólita,0.068627,0.000000
+physical_boundaries,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,1,Uberaba,Uberaba,0.368876,0.013000
+physical_boundaries,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,2,Tiros,Tiros,0.329556,0.197000
+physical_boundaries,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,3,Sacramento,Sacramento,0.313696,0.124000
+physical_boundaries,central_mineira,Central Mineira,1,Luz,Luz,0.080087,0.000000
+physical_boundaries,central_mineira,Central Mineira,2,Bom Despacho,Bom Despacho,0.077201,0.030000
+physical_boundaries,central_mineira,Central Mineira,3,Dores do Indaiá,Dores do Indaiá,0.062049,0.000000
+physical_boundaries,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,1,Jaboticatubas,Jaboticatubas,0.264248,0.163000
+physical_boundaries,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,2,Brumadinho,Brumadinho,0.251317,0.125000
+physical_boundaries,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,3,Esmeraldas,Esmeraldas,0.191095,0.047000
+physical_boundaries,vale_do_rio_doce,Vale do Rio Doce,1,Governador Valadares,Governador Valadares,0.375690,0.031000
+physical_boundaries,vale_do_rio_doce,Vale do Rio Doce,2,Açucena,Açucena,0.246603,0.000000
+physical_boundaries,vale_do_rio_doce,Vale do Rio Doce,3,Caratinga,Caratinga,0.204837,0.055000
+physical_boundaries,oeste_de_minas,Oeste de Minas,1,Formiga,Formiga,0.337060,0.047000
+physical_boundaries,oeste_de_minas,Oeste de Minas,2,Itapecerica,Itapecerica,0.228193,0.000000
+physical_boundaries,oeste_de_minas,Oeste de Minas,3,Divinópolis,Divinópolis,0.160067,0.026000
+physical_boundaries,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,1,Alfenas,Alfenas,0.227602,0.061000
+physical_boundaries,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,2,Machado,Machado,0.169951,0.000000
+physical_boundaries,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,3,Três Corações,Três Corações,0.164529,0.021000
+physical_boundaries,campo_das_vertentes,Campo das Vertentes,1,São João del Rei,São João del Rei,0.167431,0.017000
+physical_boundaries,campo_das_vertentes,Campo das Vertentes,2,Barbacena,Barbacena,0.144642,0.000000
+physical_boundaries,campo_das_vertentes,Campo das Vertentes,3,Carandaí,Carandaí,0.080463,0.000000
+physical_boundaries,zona_da_mata,Zona da Mata,1,Muriaé,Muriaé,0.310646,0.000000
+physical_boundaries,zona_da_mata,Zona da Mata,2,Leopoldina,Leopoldina,0.297004,0.033000
+physical_boundaries,zona_da_mata,Zona da Mata,3,Laranjal,Laranjal,0.238086,0.000000
+highways,noroeste_de_minas,Noroeste de Minas,1,Unaí,Unaí,0.545644,0.018000
+highways,noroeste_de_minas,Noroeste de Minas,2,Chapada Gaúcha,Chapada Gaúcha,0.493371,0.131000
+highways,noroeste_de_minas,Noroeste de Minas,3,Arinos,Arinos,0.454545,0.000000
+highways,norte_de_minas,Norte de Minas,1,Grão Mogol,Grão Mogol,0.417274,0.000000
+highways,norte_de_minas,Norte de Minas,2,Montes Claros,Montes Claros,0.414170,0.015000
+highways,norte_de_minas,Norte de Minas,3,Bocaiúva,Bocaiúva,0.312086,0.032000
+highways,jequitinhonha,Jequitinhonha,1,Jequitinhonha,Jequitinhonha,0.347210,0.072000
+highways,jequitinhonha,Jequitinhonha,2,Almenara,Almenara,0.278845,0.040000
+highways,jequitinhonha,Jequitinhonha,3,Araçuaí,Araçuaí,0.261020,0.092000
+highways,vale_do_mucuri,Vale do Mucuri,1,Carlos Chagas,Carlos Chagas,0.150327,0.000000
+highways,vale_do_mucuri,Vale do Mucuri,2,Umburatiba,Umburatiba,0.104575,0.000000
+highways,vale_do_mucuri,Vale do Mucuri,3,Nanuque,Nanuque,0.058824,0.000000
+highways,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,1,Uberaba,Uberaba,0.461921,0.013000
+highways,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,2,Sacramento,Sacramento,0.352074,0.124000
+highways,triangulo_mineiro_alto_paranaiba,Triângulo Mineiro / Alto Paranaíba,3,Tiros,Tiros,0.327445,0.197000
+highways,central_mineira,Central Mineira,1,Bom Despacho,Bom Despacho,0.118326,0.030000
+highways,central_mineira,Central Mineira,2,Dores do Indaiá,Dores do Indaiá,0.113276,0.000000
+highways,central_mineira,Central Mineira,3,Luz,Luz,0.089466,0.000000
+highways,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,1,Belo Horizonte,Belo Horizonte,0.277629,0.027000
+highways,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,2,Brumadinho,Brumadinho,0.272286,0.125000
+highways,metropolitana_belo_horizonte,Metropolitana de Belo Horizonte,3,Esmeraldas,Esmeraldas,0.230760,0.047000
+highways,vale_do_rio_doce,Vale do Rio Doce,1,Governador Valadares,Governador Valadares,0.383479,0.031000
+highways,vale_do_rio_doce,Vale do Rio Doce,2,Caratinga,Caratinga,0.261760,0.055000
+highways,vale_do_rio_doce,Vale do Rio Doce,3,Conselheiro Pena,Conselheiro Pena,0.220690,0.000000
+highways,oeste_de_minas,Oeste de Minas,1,Formiga,Formiga,0.415070,0.047000
+highways,oeste_de_minas,Oeste de Minas,2,Divinópolis,Divinópolis,0.207506,0.026000
+highways,oeste_de_minas,Oeste de Minas,3,Pimenta,Pimenta,0.205153,0.000000
+highways,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,1,Três Corações,Três Corações,0.238055,0.021000
+highways,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,2,Pouso Alegre,Pouso Alegre,0.209976,0.040000
+highways,sul_sudoeste_de_minas,Sul / Sudoeste de Minas,3,Alfenas,Alfenas,0.203315,0.061000
+highways,campo_das_vertentes,Campo das Vertentes,1,Barbacena,Barbacena,0.182480,0.000000
+highways,campo_das_vertentes,Campo das Vertentes,2,São João del Rei,São João del Rei,0.152276,0.017000
+highways,campo_das_vertentes,Campo das Vertentes,3,Carandaí,Carandaí,0.093648,0.000000
+highways,zona_da_mata,Zona da Mata,1,Leopoldina,Leopoldina,0.341802,0.033000
+highways,zona_da_mata,Zona da Mata,2,Fervedouro,Fervedouro,0.329794,0.000000
+highways,zona_da_mata,Zona da Mata,3,Muriaé,Muriaé,0.311521,0.000000
